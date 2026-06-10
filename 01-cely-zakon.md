@@ -292,6 +292,11 @@ Odst. 4 zavádí **extrateritoriální dosah definic** — jednání v cizině s
 
 **PEP (politicky exponovaná osoba)** je institut zavedený k zesílení kontroly osob s rizikem korupce. Zahrnuje vrcholné funkcionáře (domácí i zahraniční), členy rodiny a blízké společníky. Pro PEP platí povinnost zesílené KYC (§ 9a) — schválení vyššího vedení, šetření zdroje majetku, zesílený monitoring. Definice PEP byla rozšířena 5. AMLD i o domácí (tuzemské) PEP — historicky se vztahovala jen na zahraniční.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 Af 16/2021 - 102](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/716699) — 25. 10. 2023
+  > „Z čl. 3 odst. 6 písm. a) směrnice 2005/60/ES, který je rozhodný pro výklad § 4 odst. 4 zákona č. 253/2008 Sb., vyplývá, že skutečný vlastník je osoba, která v konečném důsledku vlastní nebo ovládá klienta, nebo fyzická osoba, pro kterou se provádí transakce nebo vykonává činnost. Jedná se tedy o fyzickou osobu na samém konci možného řetězce vlastnických vztahů, protože právě ona v konečném důsledku ovládá fakticky celý řetězec"
+
 ### § 5 — Identifikační údaje
 
 > **§ 5**
@@ -307,6 +312,11 @@ Odst. 4 zavádí **extrateritoriální dosah definic** — jednání v cizině s
 § 5 definuje **minimální datovou sadu** pro identifikaci klienta. U FO se jedná o klasický „set" osobních údajů, u PO o registrační údaje a údaje o statutárním orgánu. Tyto údaje povinná osoba získává a ověřuje při identifikaci (§ 7), uchovává po dobu 10 let (§ 16) a předává FAÚ při oznámení podezřelého obchodu (§ 18).
 
 Důležité je, že identifikační údaje jsou zákonným základem zpracování osobních údajů ve smyslu čl. 6 odst. 1 písm. c) GDPR — povinná osoba je zpracovává na základě právní povinnosti. Souhlas klienta se nevyžaduje a klient se nemůže zpracování bránit.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [29 A 40/2016 - 116](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/458527) — 17. 5. 2018
+  > „Rodné číslo, případně datum narození, jež je identifikačním údajem dle § 5 odst. 1 písm. a) zákona č. 253/2008 Sb., představuje zásadní identifikátor, který umožňuje spolehlivě a nezaměnitelně určit osobu účastnící se smluvního vztahu"
 
 ### § 6 — Podezřelý obchod
 
@@ -347,6 +357,11 @@ Důležité je, že identifikační údaje jsou zákonným základem zpracován�
 V odst. 2 jsou klíčové **sankce** (písm. a, b) — vazba na zákon č. 69/2006 Sb. a unijní sankční seznamy (sektorové i osobní). Dalším pilířem je jednání za třetí osobu (zastírání UBO — písm. c). Písm. d) — „red flags" typologie FATF — typické tzv. *unusual transactions*. Písm. e) — odmítnutí součinnosti — vede k tomu, že obchod nelze provést, nebo musí být odmítnut (§ 15).
 
 Zachycení podezřelého obchodu spouští kaskádu povinností: oznámení FAÚ (§ 18), odložení příkazu klienta (§ 20), zákaz tipping-off (§ 38, 39).
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [9 Af 58/2016 - 211](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/703058) — 28. 6. 2022
+  > „Při výkladu uvedených podmínek je nutno vzít v potaz, že podle § 6 odst. 1 zákona č. 253/2008 Sb., je podezřelým obchodem jakákoliv skutečnost, která by mohla nasvědčovat podezření ze snahy o legalizaci výnosů z trestné činnosti. Šetření podezřelého obchodu prováděné žalovaným v pozici finanční analytické jednotky ve smyslu AML směrnice přitom není správním řízením, neboť jeho účelem není vydání rozhodnutí…"
 
 ---
 
@@ -791,6 +806,11 @@ U PO je třeba **dvojí identifikace**: PO (z výpisu) a FO jednající jejím j
 **Výklad:**
 
 § 15 stanoví **negativní povinnost** — povinná osoba musí v určitých situacích obchod neprovést. Vazba na § 12 (no KYC) a na § 20 (odložení příkazu klienta při podezření). Pokud klient odmítá kontrolu, lze obchodní vztah ukončit, a v některých případech musí být ukončen.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 Af 16/2021 - 102](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/716699) — 25. 10. 2023
+  > „Pokud se nepodaří skutečného vlastníka zjistit, nemůže to být důvod pro snížení kontrolního standardu, tedy například prostřednictvím hledání nejvyšší vedoucí osoby klienta, ale tato skutečnost zakládá ve smyslu čl. 9 odst. 5 směrnice 2005/60/ES a § 15 zákona č. 253/2008 Sb. následek ve formě neuskutečnění obchodu či jeho ohlášení příslušné instituci"
 
 ### § 15a — Oznámení nesrovnalostí v evidenci skutečných majitelů
 
@@ -2255,6 +2275,11 @@ Hranice mezi „normální" právní pomocí a kolaborací s ML je v praxi tenk�
 
 § 41 implementuje **nařízení (EU) 2018/1672 (Cash Control Regulation)**. Cestující přes vnější hranici EU s hotovostí ≥ 10 000 EUR (mince, bankovky, šeky, předplacené karty, drahé kovy nad limit) musí podat **prohlášení o peněžní hotovosti** Celní správě (formulář CR-CCD). Neplnění = přestupek až 5 mil. Kč nebo trestný čin.
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [14 A 29/2017 - 39](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/442019) — 4. 3. 2019
+  > „Předmětem oznamovací povinnosti totiž není pouze předcházení legalizaci výnosů z trestné činnosti a financování terorismu, nýbrž obecně zajištění kontroly pohybu finančních prostředků. Uvedenému výkladu nasvědčuje fakt, že § 41 zákona č. 253/2008 Sb., ani § 50 citovaného zákona oznamovací povinnost či spáchání přestupku při jejím nesplnění nespojuje s legalizací výnosů z trestné činnosti či předcházení terorismu"
+
 ### § 41a — Informační povinnost při převodu nad rámec hotovosti
 
 > **§ 41a**
@@ -2652,6 +2677,11 @@ V praxi ČNB i FAÚ ukládají pokuty v desítkách milionů — např. Sberbank
 **Výklad:**
 
 § 50 trestá **nedeklarování hotovosti** na hranici. Sankce až 5 mil. Kč, případně i propadnutí celé hotovosti. Celní praxe: pokuta typicky 25–50 % nedeklarované částky.
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 Ca 274/2009 - 66](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/557488) — 13. 12. 2012
+  > „…při ukládání sankcí podle ust. § 12a zákona č.61/1996 Sb. (dnes se jedná o § 50 zákona č.253/2008 Sb.) je však třeba vážit to, aby stanovená pokuta ve svém důsledku již zcela nepopírala podstatu a smysl základních práv (čl.4 odst.4 Listiny základních práv a svobod) a neocitala se tedy za hranicí přípustného omezení základního práva"
 
 ### § 50a — Přestupek FO způsobující porušení povinnosti PO
 
