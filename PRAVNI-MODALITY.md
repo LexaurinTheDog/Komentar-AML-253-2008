@@ -142,3 +142,141 @@ Pro výklad konkrétního ustanovení proto nestačí vyhledat samotný normativ
 | Zmocnění | úřad může; vydá; ministerstvo stanoví; určí | [§ 15a](https://e-sbirka.gov.cz/sb/2008/253#par_15a); [§ 20](https://e-sbirka.gov.cz/sb/2008/253#par_20); [§ 22](https://e-sbirka.gov.cz/sb/2008/253#par_22); [§ 25](https://e-sbirka.gov.cz/sb/2008/253#par_25); [§ 29bb](https://e-sbirka.gov.cz/sb/2008/253#par_29bb) |
 | Oprávnění a povinnost | je oprávněna; jsou oprávněny; má právo; je povinna; je povinen | [§ 2](https://e-sbirka.gov.cz/sb/2008/253#par_2); [§ 4](https://e-sbirka.gov.cz/sb/2008/253#par_4); [§ 7](https://e-sbirka.gov.cz/sb/2008/253#par_7); [§ 8](https://e-sbirka.gov.cz/sb/2008/253#par_8) |
 | Domněnky, fikce a účinkové konstrukce | platí, že; hledí se | [§ 22a](https://e-sbirka.gov.cz/sb/2008/253#par_22a); [§ 29ba](https://e-sbirka.gov.cz/sb/2008/253#par_29ba) |
+
+---
+
+<!-- VYKLAD-RIHA-MODALITY -->
+## Systematické zpracování právních modalit (rozšířený výklad)
+
+> Rozšířený, systematicky členěný rozbor modalit v předpisu zákon č. 253/2008 Sb., AML/CFT — doplňuje výše uvedený přehled. Klasifikace je provedena na doslovném znění citovaném v repu; judikatorní ilustrace pocházejí výhradně z místních zdrojů (složka [judikatura/](judikatura/README.md)). Souvislost se zásadami viz [ZASADY.md](ZASADY.md).
+
+### Teorie právních modalit — nauka
+
+Právní modality jsou deontické kvalifikace jednání, jimiž norma spojuje s určitým chováním jeho normativní status. Nauka rozlišuje čtyři základní **objektivní modality**: příkaz (jednání je nařízeno), zákaz (jednání je zapovězeno), dovolení (jednání je právem aprobováno jako volné) a — jako specifickou skupinu — **zmocnění** neboli kompetenční normy, jimiž se určitému orgánu svěřuje pravomoc autoritativně utvářet právní poměry. Zatímco příkaz a zákaz jsou vzájemně převoditelné (zákaz jednání = příkaz zdržet se jednání), dovolení a zmocnění mají odlišnou logickou strukturu: dovolení otevírá adresátovi prostor volby, zmocnění zakládá právní moc (kompetenci) k vydání aktu s konstitutivními účinky.
+
+V AML/CFT úpravě mají objektivní modality výrazně asymetrické rozložení. Preventivní systém je vystavěn na hustém předivu **příkazů** adresovaných povinné osobě (identifikuj, kontroluj, oznam, uchovej, urči kontaktní osobu), doplněných o cílené **zákazy** (zejména zákaz „tipování" klienta a zákaz obchodu s PEP bez zjištěného původu prostředků). **Dovolení** se objevují jako risk-based ventily (zjednodušená identifikace, odklad splnění příkazu), zatímco **zmocnění** koncentrují pravomoc do rukou Finančního analytického úřadu (FAÚ, v textu předpisu „Úřad").
+
+Vedle objektivních modalit pracuje nauka se **subjektivními modalitami** — korelativní dvojicí oprávnění a povinnosti. Každému oprávnění jednoho subjektu odpovídá povinnost subjektu druhého (korelativita v Hohfeldově smyslu). V AML kontextu je typickým příkladem součinnostní povinnost („každý je povinen vyhovět výzvě"), jíž na druhé straně odpovídá oprávnění povinné osoby (a potažmo Úřadu) takovou výzvu učinit.
+
+**Normativní výrazy** jsou jazykové indikátory modalit: „provede", „odmítne", „určí", „oznámí" signalizují příkaz; „neuskuteční", „nesmějí být vystaveny" značí zákaz; „může splnit", „může provádět" dovolení; slovesa vztažená k Úřadu („vydá pokyn", „zpracuje a předloží") zmocnění. **Domněnky a fikce** tvoří samostatnou skupinu: domněnka (praesumptio) váže na zjištěný fakt předpoklad faktu jiného (vyvratitelná — dokud není prokázán opak; nevyvratitelná — bez možnosti důkazu opaku), kdežto fikce (fictio iuris) staví najisto právní následek i tam, kde skutkový základ chybí nebo je odlišný. Obě konstrukce přímo modelují **důkazní břemeno**: fikce splnění povinnosti (§ 18 odst. 8) osvobozuje ostatní povinné osoby od nutnosti prokazovat vlastní oznámení, spojí-li se s jedním společným úkonem.
+
+### Příkaz
+
+Příkaz je páteřní modalitou celého zákona. Povinná osoba je adresátem řetězce kategorických imperativů, jejichž porušení je stíháno správní sankcí. Normativně jsou příkazy vyjadřovány zpravidla oznamovacím způsobem přítomného času ve třetí osobě („provede", „odmítne", „oznámí", „určí"), který v právním jazyce nese deontický náboj nařízení — nikoli popisu. Tato technika je pro AML úpravu charakteristická: zákonodárce nepopisuje, co povinná osoba činí, nýbrž co učinit musí.
+
+Klíčové je, že řada příkazů je konstruována **prahově a časově** — § 7 odst. 1 neváže identifikaci na formální okamžik, nýbrž na materiální stav („nejpozději tehdy, kdy je zřejmé, že hodnota obchodu překročí částku 1 000 EUR"), čímž brání účelovému rozdělování transakcí (smurfing). Vedle prahových příkazů stojí příkazy podmíněné negativně (§ 12: „odmítne … pokud nemůže identifikaci … provést"), které fungují jako pojistka principu „no KYC, no business".
+
+Detekční jádro systému tvoří oznamovací příkaz § 18 odst. 1 — bez včasného oznámení podezřelého obchodu (SAR/STR) by preventivní architektura postrádala výstup směrem k Úřadu. Organizačním příkazem § 22 odst. 1 (určení kontaktní osoby) je pak oznamovací povinnost personifikována a učiněna vymahatelnou uvnitř povinné osoby.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 7 odst. 1 | provede | „Povinná osoba provede identifikaci klienta nejpozději tehdy, kdy je zřejmé, že hodnota obchodu překročí částku 1 000 EUR" | Základní prahová povinnost ztotožnit klienta a určení okamžiku jejího vzniku. |
+| § 12 | odmítne | „Povinná osoba odmítne uskutečnění obchodu nebo navázání obchodního vztahu, pokud nemůže identifikaci nebo kontrolu klienta provést" | Princip „no KYC, no business" jako esenciální pojistka prevence. |
+| § 18 odst. 1 | oznámí | „Zjistí-li povinná osoba v souvislosti se svou činností podezřelý obchod, oznámí to Úřadu bez zbytečného odkladu." | Oznamovací povinnost (SAR/STR), jádro detekčního mechanismu vůči FAÚ. |
+| § 22 odst. 1 | určí | „Povinná osoba určí konkrétního zaměstnance nebo člena statutárního orgánu k plnění oznamovací povinnosti podle § 18" | Personifikace oznamovací povinnosti (AML compliance, styk s Úřadem). |
+
+Judikatorní ilustrace (prahová identifikace, oznamovací povinnost, identifikace návštěvníků kasina):
+
+- *NSS* [8 Afs 275/2021 - 44](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/712120) — rozsudek ze dne 23. 6. 2023, k § 7 odst. 1 (identifikace u obchodů nad 1 000 EUR)
+  > „Zatřetí, že v období od 2. 2. 2017 do 24. 2. 2017 neprovedl jako povinná osoba dle § 2 odst. 1 písm. b) zákona č. 253/2008 Sb. v pěti případech řádnou identifikaci klientů u obchodů, jejichž hodnota překročila 1 000 EUR"
+- *NSS* [14 A 29/2017 - 39](judikatura/NSS-14-A-29-2017-39.md) — rozsudek ze dne 4. 3. 2019, k rozsahu oznamovací povinnosti (§ 41, § 50)
+  > „Předmětem oznamovací povinnosti totiž není pouze předcházení legalizaci výnosů z trestné činnosti a financování terorismu, nýbrž obecně zajištění kontroly pohybu finančních prostředků. Uvedenému výkladu nasvědčuje fakt, že § 41 zákona č. 253/2008 Sb., ani § 50 citovaného zákona oznamovací povinnost či spáchání přestupku při jejím nesplnění nespojuje s legalizací výnosů z trestné činnosti či předcházení terorismu"
+- *NSS* [14 Af 14/2021 - 45](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/719823) — rozsudek ze dne 29. 3. 2023, k § 8 (identifikace návštěvníků kasina)
+  > „bkyně řádně provádí identifikaci návštěvníků kasina, tedy zda po nich vyžaduje předložení průkazu totožnosti (z průkazu totožnosti je mimo jiné patrná podoba osoby, což doklad předložený členkou kontrolní skupiny nesplňoval), z nějž ověří a zaznamená identifikační údaje v rozsahu a způsobem, který vyžaduje § 71 odst. 3 zákona o hazardních hrách ve spojení zejména s § 8 odst. 2 zákona č. 253/2008 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu, ve znění pozdějších předpisů"
+
+### Zákaz
+
+Zákaz se v AML úpravě uplatňuje úsporně, avšak na strategicky exponovaných místech. Na rozdíl od plošných příkazů jde o cílené zápovědi, jejichž normativním výrazem je záporný tvar slovesa („neuskuteční") nebo modální konstrukce nepřípustnosti („nesmějí být vystaveny"). Logicky lze každý zákaz převést na příkaz opačného obsahu (zákaz obchodu s PEP bez zjištěného původu prostředků = příkaz zdržet se takového obchodu), význam zákazu však spočívá v důrazu na absolutní, výjimkami nepodmíněný charakter zápovědi.
+
+Dva zákazy mají v systému mimořádnou váhu. § 15 odst. 2 ukládá **absolutní zákaz** transakce s politicky exponovanou osobou, není-li znám původ peněžních prostředků; jde o kvalifikované zpřísnění standardní kontroly u rizikové kategorie klientů (enhanced due diligence). § 18 odst. 9 pak zakotvuje **zákaz odvetných opatření** vůči zaměstnancům, kteří podezřelý obchod oznámili — ochrana oznamovatele (whistleblower protection) je nezbytnou podmínkou funkčnosti detekčního mechanismu, neboť bez ní by vnitřní hlášení podezřelých obchodů byla systémově podlomena.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 15 odst. 2 | neuskuteční | „Povinná osoba neuskuteční obchod s politicky exponovanou osobou, a to ani v rámci obchodního vztahu, pokud jí není znám původ peněžních prostředků" | Absolutní zákaz transakce s PEP bez zjištěného původu prostředků. |
+| § 18 odst. 9 | nesmějí být vystaveny | „Tyto osoby nesmějí být z důvodu oznámení podezřelého obchodu vystaveny jednání, které mohou důvodně považovat za zásah do svých práv či oprávněných zájmů" | Zákaz odvetných opatření vůči oznamovatelům podezřelého obchodu. |
+
+K oběma zákazům neobsahují místní judikatorní zdroje (složka [judikatura/](judikatura/README.md)) přímou ilustraci; jejich systémovou funkci proto dokládá výhradně doslovné znění a jeho zařazení v architektuře předpisu. Souvislost mezi zákazem obchodu s PEP a zpřísněnou kontrolou klienta je dále rozvedena v sekci [Modality v systému předpisu](#modality-v-systému-předpisu--jak-se-v-klíčových-institutech-kombinují).
+
+### Dovolení
+
+Dovolení představuje v AML úpravě risk-based protiváhu jinak přísného režimu příkazů. Normativním výrazem je modální sloveso „může" ve spojení s aprobovaným jednáním („může provádět", „může splnit"). Dovolení zde nepůsobí jako pouhé „volné pole" (facultas), nýbrž jako **podmíněné oprávnění** — jeho využití je vázáno na splnění zákonných předpokladů (nižší riziko, uplynutí lhůty), takže má strukturu blízkou oprávnění korelujícímu s povinností dodržet podmínky.
+
+§ 13 odst. 1 zavádí zjednodušenou identifikaci a kontrolu jako **výjimku z plného KYC** pro kategorie s potenciálně nižším rizikem — jde o jádro proporcionálního (risk-based) přístupu, který umožňuje soustředit zdroje na rizikovější klientelu. § 20 odst. 1 opravňuje povinnou osobu **dočasně zmrazit** transakci týkající se podezřelého obchodu (odklad splnění příkazu klienta až o 24 hodin, tzv. freeze) — dovolení zde současně chrání povinnou osobu před odpovědností za nesplnění příkazu klienta a Úřadu dává čas na prvotní vyhodnocení.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 20 odst. 1 | může splnit | „povinná osoba může splnit příkaz klienta týkající se podezřelého obchodu nejdříve po uplynutí 24 hodin od přijetí oznámení podezřelého obchodu Úřadem" | Oprávnění k dočasnému zmrazení transakce (24hodinový freeze). |
+| § 13 odst. 1 | může provádět | „Povinná osoba může provádět zjednodušenou identifikaci a kontrolu klienta ve vztahu ke kategoriím klientů, obchodních vztahů, produktů nebo obchodů s potenciálně nižším rizikem" | Risk-based zmírnění KYC u nízkorizikových kategorií za splnění podmínek. |
+
+Judikatorní ilustrace (odklad splnění příkazu klienta, návazná blokace účtu):
+
+- *ÚS* [I.ÚS 2485/13](https://nalus.usoud.cz/Search/GetText.aspx?sz=1-2485-13_1) — nález ze dne 2. 12. 2013, k odložení splnění příkazu klienta (§ 20 odst. 3)
+  > „Trestní řízení bylo zahájeno na základě rozsáhlého trestního oznámení FAÚ a vyhodnocení převodů finančních prostředků jako podezřelých a po rozhodnutí podle § 20 odst. 3 písm. b) zákona č. 253/2008 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu, o odložení splnění příkazu klienta banky."
+- *NSS* [51 A 31/2016 - 69](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/523579) — rozsudek ze dne 8. 2. 2017, k blokaci účtů (§ 20 odst. 3)
+  > „Ze sdělení ČSOB ze dne 5. 12. 2016 krajský soud zjistil, že při blokaci všech tří účtů postupovala banka podle § 20 odst. 3 písm. b) zákona č. 253/2008 Sb. a dále podle příslušných právních předpisů plnila svou funkci v probíhající exekuci"
+
+### Zmocnění
+
+Zmocnění (kompetenční normy) svěřují pravomoc **Úřadu** (FAÚ) autoritativně zasahovat do preventivního systému a do majetkových poměrů dotčených osob. Normativně se zmocnění pozná podle toho, že subjektem slovesa v aktivní roli je orgán veřejné moci a sloveso má konstitutivní účinek („Úřad vydá pokyn", „Úřad zpracuje a předloží"). Na rozdíl od dovolení, které pouze otevírá adresátovi volbu, zmocnění zakládá **právní moc** — výkonem kompetence vznikají, mění se nebo zanikají právní vztahy jiných subjektů.
+
+§ 20 odst. 3 dává Úřadu pravomoc **prodloužit odklad** a zajistit majetek, vyžaduje-li šetření podezřelého obchodu pro svou složitost delší dobu; jde o eskalační stupeň nad rámec 24hodinového freeze, jímž se dočasné opatření mění v cílené zajištění. § 30a odst. 4 svěřuje Úřadu kompetenci **zpracovat a předložit vládě** národní hodnocení rizik — kompetenci systémovou, strategickou, s celostátním dosahem, propojující dílčí hodnocení do jednotného obrazu rizik.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 20 odst. 3 | Úřad vydá pokyn | „šetření podezřelého obchodu si pro složitost vyžaduje delší dobu, Úřad vydá pokyn k provedení opatření" | Kompetence FAÚ prodloužit odklad a zajistit majetek. |
+| § 30a odst. 4 | zpracuje a předloží | „Na základě dílčích hodnocení rizik Úřad zpracuje a předloží vládě k projednání národní hodnocení rizik" | Kompetence FAÚ zpracovat a předložit vládě národní hodnocení rizik. |
+
+Judikatorní ilustrace (výkon kompetence Úřadu při šetření a odkladu, dopad na povinnou osobu):
+
+- *NSS* [9 Af 58/2016 - 211](judikatura/NSS-9-Af-58-2016-211.md) — rozsudek ze dne 28. 6. 2022, k šetření podezřelého obchodu (§ 18 odst. 1, § 20)
+  > „Šetření byla zpravidla vedena na základě oznámení podezřelého obchodu podaného ze strany povinné osoby podle § 18 odst. 1 zákona č. 253/2008 Sb., přičemž oznámenými subjekty byly koncové společnosti transakčního řetězce, tzv. subjekty typu „missing trader""
+- *NSS* [2 Afs 385/2020 - 40](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/675775) — rozsudek ze dne 15. 12. 2021, k dopadu postupu banky podle § 20 odst. 3
+  > „[8] Námitku, že žalobkyni byla zajišťovacími příkazy stanovena povinnost, kterou objektivně nemohla splnit v důsledku postupu banky podle § 20 odst. 3 písm. b) zákona č. 253/2008 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu, v rozhodném znění (dále jen „zákon č. 253/2008 Sb.“), krajský soud posoudil jako opožděnou, neboť byla poprvé uplatněna až v doplnění žaloby ze d"
+
+### Oprávnění a povinnost
+
+Subjektivní modality — oprávnění a povinnost — se v AML úpravě uplatňují především v součinnostních vztazích. Jejich korelativita znamená, že oprávnění povinné osoby (či Úřadu) vyžadovat určité plnění je zrcadleno povinností protistrany toto plnění poskytnout. Typickým normativním výrazem povinnosti je konstrukce „je povinen" ve spojení s určeným jednáním.
+
+§ 8 odst. 10 zakládá **univerzální součinnostní povinnost**: při podezření, že klient jedná za jiného či zastírá, kdo je skutečným účastníkem obchodu, je „každý" povinen vyhovět výzvě a doložit své oprávnění jednat za klienta (s výhradou, nestanoví-li jiný právní předpis jinak). Adresátem povinnosti zde není jen povinná osoba, nýbrž kdokoli, kdo je vyzván — čímž se okruh povinných subjektů rozšiřuje za hranice regulovaného sektoru. Této povinnosti odpovídá oprávnění povinné osoby výzvu učinit a bez doložení oprávnění obchod odmítnout (návaznost na § 12).
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 8 odst. 10 | je povinen vyhovět | „Každý je povinen této výzvě vyhovět, pokud jiný právní předpis nestanoví jinak" | Univerzální součinnostní povinnost doložit oprávnění jednat za klienta. |
+
+Judikatorní ilustrace (formální požadavky na doložení oprávnění jednat za klienta):
+
+- *NSS* [8 As 119/2014 - 34](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/632810) — rozsudek ze dne 31. 10. 2014, ke zvláštnímu požadavku na originál plné moci (§ 10 odst. 3)
+  > „Zákonodárce výslovně požaduje předložení originálu plné moci pouze ve speciální právní úpravě (srov. § 10 odst. 3 zákona č. 253/2008 Sb.)"
+
+### Domněnky a fikce
+
+Předpis pracuje s fikcí jako s nástrojem procesní ekonomie a distribuce důkazního břemene. § 18 odst. 8 zavádí **fikci splnění povinnosti**: podá-li oznámení podezřelého obchodu alespoň jedna z více spolupracujících povinných osob, hledí se na povinnost jako na splněnou u všech („je splněna povinnost … všemi povinnými osobami"). Nejde o domněnku (ta by vázala předpoklad faktu na zjištěný fakt a připouštěla důkaz opaku), nýbrž o fikci — právní následek (splnění povinnosti) nastává i tam, kde ostatní povinné osoby fakticky vlastní oznámení nepodaly.
+
+Praktický význam fikce je dvojí. Zaprvé zabraňuje **duplicitě oznámení** v situacích, kdy více povinných osob participuje na téže transakci (např. řetězec zprostředkovatelů), a odbřemeňuje Úřad od zpracování totožných hlášení. Zadruhé — a to je z hlediska nauky podstatné — **přerozděluje důkazní břemeno**: povinná osoba, která se spolehla na společné oznámení, nemusí v případě kontroly prokazovat vlastní úkon, postačí prokázat, že oznámení podala alespoň jedna z okruhu. Fikce tak funguje jako liberační konstrukce ve prospěch všech zúčastněných.
+
+| Ustanovení | Normativní výraz | Znění (fragment) | Význam |
+| --- | --- | --- | --- |
+| § 18 odst. 8 | je splněna povinnost | „je splněna povinnost oznámit podezřelý obchod podle odstavců 2 až 4 všemi povinnými osobami, pokud oznámení podá alespoň jedna z nich" | Fikce splnění povinnosti — jediné oznámení za více spolupracujících povinných osob. |
+
+K fikci § 18 odst. 8 neobsahují místní judikatorní zdroje samostatnou ilustraci; její deontickou strukturu proto dokládá výhradně doslovné znění ustanovení.
+
+### Modality v systému předpisu — jak se v klíčových institutech kombinují
+
+Modality se v AML úpravě nevyskytují izolovaně, nýbrž se v jednotlivých institutech **skládají do funkčních řetězců**. Následující průřezy vycházejí výhradně z ustanovení klasifikovaných výše.
+
+**Institut identifikace a kontroly klienta (KYC).** Základem je příkaz — § 7 odst. 1 („provede identifikaci … nejpozději tehdy, kdy je zřejmé, že hodnota obchodu překročí částku 1 000 EUR"). Tento příkaz je na jedné straně **zmírněn dovolením** § 13 odst. 1 („může provádět zjednodušenou identifikaci … s potenciálně nižším rizikem"), na druhé straně **vyhrocen zákazem** § 15 odst. 2 u PEP („neuskuteční obchod … pokud jí není znám původ peněžních prostředků"). Selže-li KYC, nastupuje sankční příkaz § 12 („odmítne uskutečnění obchodu … pokud nemůže identifikaci … provést"), doplněný o součinnostní povinnost § 8 odst. 10 („Každý je povinen této výzvě vyhovět"). Týž institut tak spojuje čtyři modality — příkaz, dovolení, zákaz i povinnost — podle rizikového profilu klienta.
+
+**Institut oznamování a odkladu (detekce a freeze).** Detekční osu tvoří příkaz § 18 odst. 1 („oznámí to Úřadu bez zbytečného odkladu"), personifikovaný organizačním příkazem § 22 odst. 1 („určí konkrétního zaměstnance … k plnění oznamovací povinnosti"). Na oznámení navazuje dovolení § 20 odst. 1 („může splnit příkaz klienta … nejdříve po uplynutí 24 hodin"), které se při složitosti věci **eskaluje do zmocnění** § 20 odst. 3 („Úřad vydá pokyn k provedení opatření"). Celý řetězec je chráněn zákazem odvety § 18 odst. 9 („nesmějí být vystaveny … zásah do svých práv") a zjednodušen fikcí § 18 odst. 8 („je splněna povinnost … pokud oznámení podá alespoň jedna z nich"). Zde se do jednoho institutu propojuje příkaz, dovolení, zmocnění, zákaz i fikce.
+
+**Vertikální osa: povinná osoba versus Úřad.** Zatímco povinné osobě jsou určeny příkazy, dovolení a povinnosti (§ 7, § 12, § 13, § 18, § 20 odst. 1, § 22, § 8 odst. 10), Úřadu náležejí zmocnění (§ 20 odst. 3, § 30a odst. 4). Preventivní systém tak funguje jako **dvoustupňový**: první stupeň (povinná osoba) filtruje a hlásí, druhý stupeň (FAÚ) šetří, prodlužuje odklad, zajišťuje majetek a strategicky hodnotí rizika na národní úrovni.
+
+### Přehledová tabulka — modalita → typické normativní výrazy → reprezentativní ustanovení
+
+| Modalita | Typické normativní výrazy | Reprezentativní ustanovení |
+| --- | --- | --- |
+| Příkaz | provede, odmítne, oznámí, určí | § 7 odst. 1, § 12, § 18 odst. 1, § 22 odst. 1 |
+| Zákaz | neuskuteční, nesmějí být vystaveny | § 15 odst. 2, § 18 odst. 9 |
+| Dovolení | může splnit, může provádět | § 20 odst. 1, § 13 odst. 1 |
+| Zmocnění (kompetence Úřadu) | Úřad vydá pokyn, zpracuje a předloží | § 20 odst. 3, § 30a odst. 4 |
+| Oprávnění a povinnost | je povinen vyhovět | § 8 odst. 10 |
+| Domněnky a fikce | je splněna povinnost | § 18 odst. 8 |
