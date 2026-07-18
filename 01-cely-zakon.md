@@ -62,6 +62,58 @@ Zákon má extrateritoriální i intra-unijní rozsah: vztahuje se na všechny p
 
 **Typicky rozhodné důkazy / podklady:** licence/oprávnění k činnosti, organizační struktura, transakční záznamy, interní AML dokumentace.
 
+
+<!-- LEGAL-REVISION:BEGIN id=5735fac18f78a195aca3 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 1 — Předmět úpravy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> Tento zákon zapracovává příslušné předpisy Evropské unie1), zároveň navazuje na přímo použitelné předpisy Evropské unie2) a upravuje
+>
+> - a) některá opatření proti legalizaci výnosů z trestné činnosti a financování terorismu,
+>
+> - b) některá práva a povinnosti fyzických a právnických osob při uplatňování opatření proti legalizaci výnosů z trestné činnosti a financování terorismu,
+>
+> a to za účelem zabránění zneužívání finančního systému k legalizaci výnosů z trestné činnosti a k financování terorismu a vytvoření podmínek pro odhalování takového jednání.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5735fac18f78a195aca3 -->
+
 ### § 2 — Povinné osoby
 
 > **§ 2**
@@ -234,6 +286,164 @@ Před navázáním každého vztahu je nutné provést test: (1) jsem v katalogu
 
 **Typicky rozhodné důkazy / podklady:** živnostenská/profesní oprávnění, smlouvy s klienty, doklady o hodnotě a hotovostní povaze obchodu, popis fakticky vykonávané činnosti.
 
+
+<!-- LEGAL-REVISION:BEGIN id=9cab2c090e2e88901d96 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 2 — Povinné osoby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Povinnou osobou se pro účely tohoto zákona rozumí
+>
+> - a) úvěrová instituce, kterou je
+>
+> - 1. banka,
+>
+> - 2. spořitelní a úvěrní družstvo,
+>
+> - b) finanční instituce, kterou, pokud není úvěrovou institucí, je
+>
+> - 1. centrální depozitář, osoba vedoucí evidenci navazující na centrální evidenci zaknihovaných cenných papírů vedenou centrálním depozitářem, osoba vedoucí samostatnou evidenci investičních nástrojů, osoba vedoucí evidenci navazující na samostatnou evidenci investičních nástrojů4),
+>
+> - 2. organizátor trhu s investičními nástroji,
+>
+> - 3. osoba s povolením k poskytování investičních služeb,
+>
+> - 4. osoba oprávněná k provádění administrace investičního fondu anebo zahraničního investičního fondu, právnická osoba, která spravuje majetek způsobem srovnatelným s obhospodařováním investičního fondu a penzijní společnost,
+>
+> - 5. osoba oprávněná k poskytování platebních služeb nebo vydávání elektronických peněz3),
+>
+> - 6. osoba oprávněná k poskytování leasingu, záruk, úvěrů nebo peněžitých zápůjček anebo k obchodování s nimi,
+>
+> - 7. osoba oprávněná ke zprostředkování spoření, leasingu, úvěrů nebo peněžitých zápůjček,
+>
+> - 8. pojišťovna, zajišťovna, pojišťovací zprostředkovatel a samostatný likvidátor pojistných událostí při výkonu činností souvisejících s provozováním životního pojištění7),
+>
+> - 9. osoba, která vykupuje dluhy nebo pohledávky anebo s nimi obchoduje,
+>
+> - 10. osoba oprávněná ke směnárenské činnosti podle zákona o směnárenské činnosti,
+>
+> - 11. osoba neuvedená v bodech 1 až 10, oprávněná k provádění nebo zprostředkování poštovních služeb, jejichž účelem je dodání poukázané peněžní částky,
+>
+> - 12. osoba poskytující poradenskou činnost pro podnikatele ve věcech kapitálové struktury, průmyslové strategie a v souvisejících otázkách nebo poskytující poradenství a služby týkající se přeměn společností, převodů obchodních závodů nebo nabytí účasti v obchodní korporaci,
+>
+> - 13. osoba poskytující služby peněžního makléřství,
+>
+> - 14. osoba poskytující služby úschovy cenností nebo pronájmu bezpečnostních schránek,
+>
+> - 15. poskytovatel služeb spojených s virtuálními aktivy, kterým je poskytovatel služeb souvisejících s kryptoaktivy podle přímo použitelného předpisu Evropské unie upravujícího trhy kryptoaktiv48) včetně úvěrové instituce, pokud poskytují službu spojenou s virtuálním aktivem, nebo osoba poskytující služby spojené s virtuálním aktivem,
+>
+> - c) provozovatel hazardní hry podle zákona upravujícího hazardní hry s výjimkou provozovatele loterie nebo binga, které nejsou provozovány dálkovým přístupem prostřednictvím internetu, nebo provozovatele tomboly,
+>
+> - d) osoba, která
+>
+> - 1. nakupuje nebo prodává nemovité věci,
+>
+> - 2. je realitním zprostředkovatelem; v případě zprostředkování realitní smlouvy podle [[§ 2 písm. d) bodu 2|§ 2 písm. d) bodu 2]] [[zákona o realitním zprostředkování|zákona o realitním zprostředkování]], jde-li o nájem, podnájem nebo pacht, však pouze tehdy, pokud výše měsíční platby nebo poměrná část výnosu z nemovité věci poskytnutá propachtovateli přepočtená na jeden měsíc, případně jejich součet, dosáhne alespoň 10 000 EUR,
+>
+> - 3. je dražebníkem podle [[zákona o veřejných dražbách|zákona o veřejných dražbách]] při činnosti související s dražbou nemovité věci,
+>
+> - e) osoba oprávněná provádět auditorskou činnost podle zákona o auditorech (dále jen „auditor“), osoba oprávněná poskytovat právní pomoc nebo finančně ekonomické rady ve věcech daní, poplatků a jiných obdobných peněžitých plnění, jakož i ve věcech, které s nimi přímo souvisejí, podle zákona o daňovém poradenství (dále jen „daňový poradce“), jiná osoba při poskytování právní pomoci nebo finančně ekonomických rad ve věcech daní, poplatků a jiných obdobných peněžitých plnění, jakož i ve věcech, které s nimi přímo souvisejí, k tomu oprávněná podle jiného právního předpisu26) a osoba oprávněná provozovat živnostenskou činnost účetních poradců, vedení účetnictví a vedení daňové evidence podle živnostenského zákona,
+>
+> - f) soudní exekutor při provádění další činnosti exekutora podle exekučního řádu a při úschově peněz, cenných papírů nebo jiného majetku,
+>
+> - g) notář při úkonech v rámci notářské úschovy8) anebo osoba oprávněná k výkonu advokacie podle [[zákona o advokacii|zákona o advokacii]] (dále jen „advokát“) nebo notář při úschově peněz, cenných papírů nebo jiného majetku svého klienta, anebo jestliže klientem požadované služby mají spočívat nebo spočívají v jednání za klienta nebo pro něj při
+>
+> - 1. obstarávání koupě nebo prodeje nemovité věci nebo obchodního závodu anebo jeho části,
+>
+> - 2. správě peněz, cenných papírů, obchodních podílů nebo jiného majetku svého klienta, včetně jednání za klienta nebo pro něj v souvislosti se zřízením účtu u úvěrové instituce nebo zahraniční úvěrové instituce anebo účtu cenných papírů a správou takového účtu,
+>
+> - 3. zakládání, řízení nebo provozování obchodní korporace, podnikatelského seskupení nebo jiného obdobného útvaru, a to bez ohledu na to, zda se jedná o právnickou osobu či nikoliv, jakož i získávání a shromažďovaní peněžních prostředků nebo jiných penězi ocenitelných hodnot za účelem založení, řízení nebo ovládání takové korporace, seskupení nebo útvaru,
+>
+> - 4. zakládání nebo správě svěřenského fondu nebo jemu svou strukturou nebo funkcemi podobného zařízení řídícího se právem jiného státu (dále jen „svěřenský fond“), jakož i získávání a shromažďovaní peněžních prostředků nebo jiných penězi ocenitelných hodnot pro svěřenský fond nebo za účelem jeho založení nebo správy, nebo
+>
+> - 5. inkasu, platbách, převodech, vkladech nebo výběrech prováděných při bezhotovostním i hotovostním platebním styku, anebo jakémkoli jiném jednání, které směřuje k pohybu peněz nebo jej přímo vyvolá,
+>
+> - h) osoba neuvedená v písmenu g), poskytující jiné osobě služby, které mají spočívat nebo spočívají v
+>
+> - 1. zakládání právnických osob nebo svěřenských fondů,
+>
+> - 2. jednání za právnickou osobu nebo svěřenský fond, pokud výkon této služby je pouze dočasný a souvisí se založením a správou právnické osoby nebo svěřenského fondu,
+>
+> - 3. poskytování sídla, adresy, popřípadě i dalších s tím souvisejících služeb pro jinou právnickou osobu,
+>
+> - 4. jednání jako pověřený akcionář pro jinou osobu, pokud tato není společností, jejíž cenné papíry jsou přijaty k obchodování na evropském regulovaném trhu a která podléhá požadavkům na zveřejnění informací rovnocenným požadavkům práva Evropské unie, nebo
+>
+> - 5. jednání za tuto osobu při činnostech uvedených v písmenu g),
+>
+> - i) osoba
+>
+> - 1. obchodující s uměleckými díly podle přílohy č. 3 k tomuto zákonu, pokud jejich hodnota dosáhne alespoň 10 000 EUR, kulturními památkami nebo předměty kulturní hodnoty, nebo zprostředkovávající takové obchody,
+>
+> - 2. oprávněná ke skladování uměleckých děl podle přílohy č. 3 k tomuto zákonu, pokud jejich hodnota dosáhne alespoň 10 000 EUR, kulturních památek nebo předmětů kulturní hodnoty, pokud k němu dochází ve svobodných pásmech,
+>
+> - j) osoba oprávněná k obchodování s použitým zbožím nebo ke zprostředkování takových obchodů nebo k přijímání věcí do zástavy,
+>
+> - k) národní správce rejstříku obchodování s povolenkami podle zákona o podmínkách obchodování s povolenkami na emise skleníkových plynů27) (dále jen „národní správce“),
+>
+> - l) svěřenský správce nebo osoba v obdobném postavení u svěřenskému fondu strukturou nebo funkcemi podobného zařízení, které se řídí právem jiného státu, (dále jen „svěřenský správce“),
+>
+> - m) osoba oprávněná vykonávat činnost insolvenčního správce (dále jen „insolvenční správce“) nebo osoba oprávněná vykonávat činnost restrukturalizačního správce (dále jen „restrukturalizační správce“),
+>
+> - n) obchodník s drahými kovy nebo drahými kameny podle přílohy č. 1 k tomuto zákonu při obchodu v hodnotě 10 000 EUR nebo vyšší.
+>
+> (2) Povinnou osobou je rovněž
+>
+> - a) zahraniční právnická nebo fyzická osoba uvedená v odstavci 1, která na území České republiky působí prostřednictvím své pobočky nebo provozovny, kterou se pro účely tohoto zákona rozumí jiná forma usazení, než je pobočka, a to v rozsahu činnosti touto pobočkou nebo provozovnou vykonávané,
+>
+> - b) na území České republiky působící zahraniční osoba, pokud jako podnikatel vykonává činnosti uvedené v odstavci 1,
+>
+> - c) podnikatel, který není uveden v odstavci 1 při obchodu v hotovosti v hodnotě 10 000 EUR nebo vyšší,
+>
+> - d) právnická osoba, která není podnikatelem, pokud je oprávněna poskytovat jako službu některou z činností uvedených v odstavci 1, nebo při obchodu v hotovosti v hodnotě 10 000 EUR nebo vyšší.
+>
+> (3) Povinnou osobou není osoba, která činnosti podle odstavce 1 nevykonává jako předmět svého podnikání, s výjimkou
+>
+> - a) osoby podle odstavce 2 písm. d),
+>
+> - b) advokáta, který vykonává advokacii jako společník právnické osoby zřízené za účelem výkonu advokacie,
+>
+> - c) osoby podle odstavce 1 písm. h), která tuto činnost vykonává jako činnost svěřenského fondu.
+>
+> (4) Povinnou osobou není, s výjimkou plnění informační povinnosti podle § 24 odst. 1, vázaný zástupce oprávněný k činnostem podle odstavce 1 písm. b) bodů 3, [[#§ 7|7]] a [[#§ 8|8.]]
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 24, § 7, § 8
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9cab2c090e2e88901d96 -->
+
 ### § 3 — Základní pojmy (legalizace, financování terorismu, financování ZHN)
 
 > **§ 3**
@@ -307,6 +517,72 @@ Odst. 4 zavádí **extrateritoriální dosah definic** — jednání v cizině s
 - [ ] Oddělit administrativní podezření od trestněprávního standardu § 216 TZ.
 
 **Typicky rozhodné důkazy / podklady:** transakční výpisy a vzorce plateb, doklady o původu prostředků, smluvní dokumentace, sankční a mediální rešerše, typologie FATF/FAÚ.
+
+
+<!-- LEGAL-REVISION:BEGIN id=261433cd8b18f26e2420 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 3 — Základní pojmy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Legalizací výnosů z trestné činnosti se pro účely tohoto zákona rozumí jednání sledující zakrytí nezákonného původu jakékoliv ekonomické výhody vyplývající z trestné činnosti s cílem vzbudit zdání, že jde o majetkový prospěch nabytý v souladu se zákonem; uvedené jednání spočívá zejména
+>
+> - a) v přeměně nebo převodu majetku s vědomím, že pochází z trestné činnosti, za účelem jeho utajení nebo zastření jeho původu nebo za účelem napomáhání osobě, která se účastní páchání takové činnosti, aby unikla právním důsledkům svého jednání,
+>
+> - b) v utajení nebo zastření skutečné povahy, zdroje, umístění, pohybu majetku nebo nakládání s ním nebo změny práv vztahujících se k majetku s vědomím, že tento majetek pochází z trestné činnosti,
+>
+> - c) v nabytí, držení, použití majetku nebo nakládání s ním s vědomím, že pochází z trestné činnosti, nebo
+>
+> - d) ve zločinném spolčení osob nebo jiné formě součinnosti za účelem jednání uvedeného pod písmeny a), b) nebo c).
+>
+> (2) Financováním terorismu je
+>
+> - a) shromažďování nebo poskytnutí peněžních prostředků nebo jiného majetku s vědomím, že bude, byť i jen zčásti, použit ke spáchání trestného činu teroru, teroristického útoku, účasti na teroristické skupině, podpory a propagace terorismu nebo trestného činu vyhrožování teroristickým činem nebo trestného činu, který má umožnit nebo napomoci spáchání takového trestného činu, nebo k podpoře osoby nebo skupiny osob připravujících se ke spáchání takového trestného činu, nebo
+>
+> - b) jednání vedoucí k poskytnutí odměny nebo [[odškodnění|odškodnění]] pachatele trestného činu teroru, teroristického útoku, účasti na teroristické skupině, podpory a propagace terorismu nebo trestného činu vyhrožování teroristickým činem nebo trestného činu, který má umožnit nebo napomoci spáchání takového trestného činu, nebo osoby pachateli blízké podle [[trestního zákoníku|trestního zákoníku]], nebo sbírání prostředků na takovou odměnu nebo na [[odškodnění|odškodnění]],
+>
+> - c) pro účely tohoto zákona i financování šíření zbraní hromadného ničení podle odstavce 3.
+>
+> (3) Financováním šíření zbraní hromadného ničení se rozumí shromažďování nebo poskytnutí peněžních prostředků nebo jiného majetku s vědomím, že bude, byť i jen zčásti, použit šiřitelem zbraní hromadného ničení nebo bude použit na podporu šíření takových zbraní v rozporu s požadavky mezinárodního práva29).
+>
+> (4) Pro účely tohoto zákona není rozhodující, zda k jednání uvedenému v odstavcích 1 až 3 nebo ke spáchání trestného činu došlo nebo má dojít zcela nebo zčásti na území České republiky nebo v cizině.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=261433cd8b18f26e2420 -->
 
 ### § 4 — Další pojmy (obchod, obchodní vztah, skutečný majitel, PEP)
 
@@ -441,6 +717,130 @@ Při navázání vztahu se vždy řeší tři otázky: obchod × obchodní vztah
 
 **Typicky rozhodné důkazy / podklady:** výpis z evidence skutečných majitelů, zahraniční rejstříky, akcionářské seznamy, organigramy, rešerše veřejných funkcí a médií, prohlášení klienta.
 
+
+<!-- LEGAL-REVISION:BEGIN id=9050a70b8b11ea210650 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 4 — Další pojmy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Obchodem se pro účely tohoto zákona rozumí každé jednání povinné osoby jednající v tomto postavení s jinou osobou, pokud takové jednání směřuje k nakládání s majetkem této jiné osoby jednající v tomto postavení nebo k poskytnutí služby této jiné osobě.
+>
+> (2) Obchodním vztahem se pro účely tohoto zákona rozumí vztah mezi povinnou osobou jednající v tomto postavení a jinou osobou, jehož účelem je nakládání s majetkem této jiné osoby nebo poskytování služeb této jiné osobě, jestliže je při vzniku vztahu s přihlédnutím ke všem okolnostem zřejmé, že bude trvající nebo bude obsahovat opakující se plnění.
+>
+> (3) Příkazem klienta se pro účely tohoto zákona rozumí každý jeho úkon, na jehož základě má povinná osoba nakládat s majetkem.
+>
+> (4) Skutečným majitelem se pro účely tohoto zákona rozumí
+>
+> - a) skutečný majitel podle zákona upravujícího evidenci skutečných majitelů nebo
+>
+> - b) fyzická osoba, za kterou se obchod provádí.
+>
+> (5) Politicky exponovanou osobou se pro účely tohoto zákona rozumí
+>
+> - a) fyzická osoba, která je nebo byla ve významné veřejné funkci s celostátním nebo regionálním významem, jako je zejména hlava státu, předseda vlády, vedoucí ústředního orgánu státní správy a jeho zástupce (náměstek, státní tajemník), člen parlamentu, člen řídícího orgánu politické strany, vedoucí představitel územní samosprávy, soudce nejvyššího soudu, ústavního soudu nebo jiného nejvyššího justičního orgánu, proti jehož rozhodnutí obecně až na výjimky nelze použít opravné prostředky, člen bankovní rady centrální banky, vysoký důstojník ozbrojených sil nebo sboru, člen nebo zástupce člena, je-li jím právnická osoba, řídicího nebo kontrolního orgánu obchodní korporace ovládané státem, velvyslanec nebo vedoucí diplomatické mise, anebo fyzická osoba, která obdobnou funkci vykonává nebo vykonávala v jiném státě, v orgánu Evropské unie anebo v mezinárodní organizaci,
+>
+> - b) fyzická osoba, která je
+>
+> - 1. osobou blízkou k osobě uvedené v písmenu a),
+>
+> - 2. společníkem nebo skutečným majitelem stejné právnické osoby, popřípadě svěřenského fondu, jako osoba uvedená v písmenu a), nebo je o ní povinné osobě známo, že je v jakémkoli jiném blízkém podnikatelském vztahu s osobou uvedenou v písmenu a), nebo
+>
+> - 3. skutečným majitelem právnické osoby, popřípadě svěřenského fondu, o kterých je povinné osobě známo, že byly vytvořeny ve prospěch osoby uvedené v písmenu a).
+>
+> (6) Průkazem totožnosti se pro účely tohoto zákona rozumí doklad vydaný orgánem veřejné správy, v němž je uvedeno jméno a příjmení, datum narození a z něhož je patrná podoba, popřípadě i jiný údaj umožňující identifikovat osobu, která doklad předkládá, jako jeho oprávněného držitele.
+>
+> (7) Korespondenčním vztahem se pro účely tohoto zákona rozumí
+>
+> - a) poskytování bankovních služeb jednou bankou jako korespondenční bankou jiné bance jako respondenční bance, včetně poskytování běžného nebo jiného účtu a souvisejících služeb, jako je řízení hotovosti, mezinárodní převody peněžních prostředků, zúčtování šeků, průběžné korespondenční účty a devizové služby, nebo
+>
+> - b) vztahy mezi úvěrovými institucemi, mezi finančními institucemi anebo mezi úvěrovými a finančními institucemi navzájem, včetně vztahů vytvořených za účelem transakcí s cennými papíry, převodů peněžních prostředků a transakcí s virtuálními aktivy nebo převody virtuálních aktiv, v nichž jsou korespondenční institucí respondenční instituci poskytovány obdobné služby jako v písmenu a).
+>
+> (8) Virtuálním aktivem se pro účely tohoto zákona rozumí kryptoaktivum podle přímo použitelného předpisu Evropské unie upravujícího trhy kryptoaktiv48) s výjimkou
+>
+> - a) kryptoaktiva podle čl. 2 odst. 4 nařízení Evropského parlamentu a Rady (EU) [[2023/1114|2023/1114]] a
+>
+> - b) kryptoaktiva, které je jedinečné, není zastupitelné jiným kryptoaktivem a nelze jej využít pro platbu nebo investici.
+>
+> (9) Službou spojenou s virtuálním aktivem se pro účely tohoto zákona rozumí služba související s kryptoaktivy podle přímo použitelného předpisu Evropské unie upravujícího trhy kryptoaktiv48) s výjimkou služby poskytování poradenství týkajícího se kryptoaktiv podle přímo použitelného předpisu Evropské unie upravujícího trhy kryptoaktiv48).
+>
+> (10) Osobou poskytující služby spojené s virtuálním aktivem se pro účely tohoto zákona rozumí osoba nebo svěřenský fond, které jsou oprávněny poskytovat službu spojenou s virtuálním aktivem, jiní než poskytovatel služeb souvisejících s kryptoaktivy podle přímo použitelného předpisu Evropské unie upravujícího trhy kryptoaktiv48).
+>
+> (11) Nehostovanou adresou se pro účely tohoto zákona rozumí nehostovaná adresa podle přímo použitelného předpisu Evropské unie upravujícího informace doprovázející převody peněžních prostředků a některých kryptoaktiv20).
+>
+> (12) Skupinou se pro účely tohoto zákona rozumí skupina podle zákona o finančních konglomerátech.
+>
+> (13) Blízkým podnikatelským vztahem se pro účely tohoto zákona rozumí taková materiální provázanost v rámci podnikatelské činnosti, kdy prospěch nebo újmu jedné osoby by mohla druhá osoba důvodně pociťovat jako prospěch či újmu vlastní.
+>
+> (14) Třetí zemí se pro účely tohoto zákona rozumí stát, který není členským státem Evropské unie nebo státem tvořícím Evropský hospodářský prostor.
+>
+> (15) Zemí původu se pro účely tohoto zákona rozumí u
+>
+> - a) fyzické osoby každý stát,
+>
+> - 1. jehož je státním příslušníkem,
+>
+> - 2. v němž je přihlášena k trvalému nebo jinému pobytu, nebo
+>
+> - 3. v němž má bydliště déle než 1 rok,
+>
+> - b) podnikající fyzické osoby každý stát, který je její zemí původu podle písmene a) nebo ve kterém má sídlo,
+>
+> - c) právnické osoby stát, ve kterém má sídlo, a každý stát, ve kterém má pobočku nebo provozovnu,
+>
+> - d) svěřenského fondu stát, podle jehož práva je založen, a každý stát, který je zemí původu jeho svěřenského správce podle písmen a) až c).
+>
+> (16) Příslušnou profesní komorou se pro účely tohoto zákona rozumí
+>
+> - a) Česká advokátní komora, je-li povinnou osobou advokát,
+>
+> - b) Notářská komora České republiky, je-li povinnou osobou notář,
+>
+> - c) Komora auditorů České republiky, je-li povinnou osobou auditor,
+>
+> - d) Exekutorská komora České republiky, je-li povinnou osobou soudní exekutor,
+>
+> - e) Komora daňových poradců České republiky, je-li povinnou osobou daňový poradce.
+>
+> (17) Peněžní hotovostí se pro účely tohoto zákona rozumí peněžní hotovost podle přímo použitelného předpisu Evropské unie upravujícího kontroly peněžní hotovosti vstupující do Evropské unie nebo ji opouštějící49).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- akt EU 2023/1114 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9050a70b8b11ea210650 -->
+
 ### § 5 — Identifikační údaje
 
 > **§ 5**
@@ -497,6 +897,66 @@ Důležité je, že identifikační údaje jsou zákonným základem zpracován�
 - [ ] Zajistit uchování po dobu 10 let (§ 16).
 
 **Typicky rozhodné důkazy / podklady:** kopie průkazu totožnosti, identifikační záznam/karta klienta, výpis z rejstříku u PO, vnitřní předpis k identifikaci.
+
+
+<!-- LEGAL-REVISION:BEGIN id=e4b43fc8963ad8130fb0 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 5 — Identifikační údaje
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Pro účely tohoto zákona se identifikačními údaji rozumí
+>
+> - a) u fyzické osoby všechna jména a příjmení, rodné číslo, a nebylo-li přiděleno, datum narození a pohlaví, dále místo narození, trvalý nebo jiný pobyt, státní občanství a číslo a druh průkazu totožnosti, stát, popřípadě orgán, který průkaz totožnosti vydal, a dobu jeho platnosti; jde-li o podnikající fyzickou osobu, též její obchodní firma, odlišující dodatek nebo další označení, sídlo a identifikační číslo osoby,
+>
+> - b) u právnické osoby
+>
+> - 1. základní identifikační údaje právnické osoby, kterými jsou obchodní firma nebo název včetně odlišujícího dodatku nebo dalšího označení, sídlo a identifikační číslo právnické osoby nebo obdobné číslo přidělované v zahraničí,
+>
+> - 2. údaje ke zjištění a ověření totožnosti fyzické osoby, která je členem jejího statutárního orgánu, a
+>
+> - 3. základní identifikační údaje právnické osoby, která je členem jejího statutárního orgánu, a údaje ke zjištění a ověření totožnosti fyzické osoby, která je členem statutárního orgánu této právnické osoby nebo kterou tato právnická osoba zmocnila, aby ji ve statutárním orgánu zastupovala,
+>
+> - c) u svěřenského fondu jeho označení a identifikační údaje jeho svěřenského správce v rozsahu podle písmen a) a b).
+>
+> (2) Odůvodňuje-li to hodnocení rizik podle [[#§ 21a|§ 21a]], mohou být kromě informací v odstavci 1 získávány další údaje k identifikaci, jakými jsou zejména číslo telefonu, adresa pro doručování elektronické pošty, údaje o zaměstnání nebo zaměstnavateli.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e4b43fc8963ad8130fb0 -->
 
 ### § 6 — Podezřelý obchod
 
@@ -581,6 +1041,78 @@ Zachycení podezřelého obchodu spouští kaskádu povinností: oznámení FAÚ
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=d51233003e9773dadb17 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 6 — Podezřelý obchod
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Podezřelým obchodem se pro účely tohoto zákona rozumí obchod uskutečněný za okolností vyvolávajících podezření ze snahy o legalizaci výnosů z trestné činnosti nebo podezření, že v obchodu užité prostředky jsou určeny k financování terorismu, nebo že obchod jinak souvisí nebo je spojen s financováním terorismu, anebo jiná skutečnost, která by mohla takovému podezření nasvědčovat, zejména pokud
+>
+> - a) klient provádí výběry nebo převody na jiné účty bezprostředně po hotovostních vkladech,
+>
+> - b) během jednoho dne nebo ve dnech bezprostředně následujících uskuteční klient nápadně více peněžních operací, než je pro jeho činnost obvyklé,
+>
+> - c) počet účtů zřizovaných klientem je ve zjevném nepoměru k předmětu jeho podnikatelské činnosti nebo jeho majetkovým poměrům,
+>
+> - d) klient provádí převody majetku, které zjevně nemají ekonomický důvod, anebo provádí složité nebo neobvykle objemné obchody,
+>
+> - e) prostředky, s nimiž klient nakládá, zjevně neodpovídají povaze nebo rozsahu jeho podnikatelské činnosti nebo jeho majetkovým poměrům,
+>
+> - f) účet je využíván v rozporu s účelem, pro který byl zřízen,
+>
+> - g) klient vykonává činnosti, které mohou napomáhat zastření jeho totožnosti nebo zastření totožnosti skutečného majitele,
+>
+> - h) klientem nebo skutečným majitelem je osoba ze státu, který nedostatečně nebo vůbec neuplatňuje opatření proti legalizaci výnosů z trestné činnosti a financování terorismu,
+>
+> - i) povinná osoba má pochybnosti o pravdivosti získaných identifikačních údajů o klientovi, nebo
+>
+> - j) klient odmítá podrobit se kontrole nebo odmítá uvést identifikační údaje osoby, za kterou jedná.
+>
+> (2) Podezřelým je obchod vždy, pokud
+>
+> - a) klientem, osobou ve vlastnické nebo řídící struktuře klienta, skutečným majitelem klienta, osobou jednající za klienta nebo osobou, která se jinak podílí na obchodu a je povinné osobě známa, je osoba, vůči níž Česká republika uplatňuje mezinárodní sankce podle zákona [[o provádění mezinárodních sankcí|o provádění mezinárodních sankcí]]17), nebo
+>
+> - b) předmětem obchodu je nebo má být zboží nebo služby, vůči nimž Česká republika uplatňuje sankce podle zákona [[o provádění mezinárodních sankcí|o provádění mezinárodních sankcí]]17).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d51233003e9773dadb17 -->
+
 ## ČÁST DRUHÁ — ZÁKLADNÍ POVINNOSTI POVINNÝCH OSOB
 
 ### IDENTIFIKACE A KONTROLA KLIENTA
@@ -646,6 +1178,66 @@ Identifikace je první vrstva KYC. Druhou vrstvou (intenzivnější) je kontrola
 - [ ] U životního pojištění identifikovat oprávněného nejpozději při výplatě plnění (odst. 3).
 
 **Typicky rozhodné důkazy / podklady:** pokladní a transakční záznamy s časovými údaji, zástavní lístky, vnitřní předpis s prahy a pravidly agregace, záznamy o identifikaci.
+
+
+<!-- LEGAL-REVISION:BEGIN id=befa8a03842e93102048 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 7 — Povinnost identifikace
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Povinná osoba provede identifikaci klienta nejpozději tehdy, kdy je zřejmé, že hodnota obchodu překročí částku 1 000 EUR, pokud tento zákon dále nestanoví jinak.
+>
+> (2) Bez ohledu na limit stanovený v odstavci 1 identifikuje povinná osoba klienta rovněž vždy, pokud jde o
+>
+> - a) podezřelý obchod,
+>
+> - b) vznik obchodního vztahu,
+>
+> - c) nákup nebo přijetí kulturních památek, předmětů kulturní hodnoty, použitého zboží nebo zboží bez dokladu o jeho nabytí ke zprostředkování jejich prodeje anebo přijímání věcí do zástavy, nebo
+>
+> - d) výplatu zůstatku zrušeného vkladu z vkladní knížky na doručitele.
+>
+> (3) Povinná osoba identifikuje osobu, která není pojistníkem a má právo na plnění ze životního pojištění, nejpozději v době vyplacení pojistného plnění.
+>
+> (4) Povinná osoba pro jednotlivé typy jí poskytovaných obchodů, na které se nevztahuje odstavec 2, stanoví na základě hodnocení rizik podle [[#§ 21a|§ 21a]] hodnotu obchodu, při jejímž dosažení vždy provede identifikaci klienta. Tato hodnota nemůže být vyšší než částka uvedená v odstavci 1.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=befa8a03842e93102048 -->
 
 ### § 8 — Provádění identifikace
 
@@ -730,6 +1322,86 @@ U PO je třeba **dvojí identifikace**: PO (z výpisu) a FO jednající jejím j
 
 **Typicky rozhodné důkazy / podklady:** kopie průkazů a výpisů, plné moci, záznam o ověření podoby, screeningové protokoly, záznamy o aktualizacích údajů.
 
+
+<!-- LEGAL-REVISION:BEGIN id=c945b6756733299e4dc1 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 8 — Provádění identifikace
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) První identifikaci klienta, který je
+>
+> - a) fyzickou osobou, provede povinná osoba za fyzické přítomnosti identifikovaného,
+>
+> - b) právnickou osobou nebo svěřenským fondem, provede povinná osoba za fyzické přítomnosti fyzické osoby jednající za klienta.
+>
+> (2) Při identifikaci klienta, který je
+>
+> - a) fyzickou osobou, povinná osoba identifikační údaje zaznamená a ověří z průkazu totožnosti, jsou-li v něm uvedeny, a dále ověří shodu podoby s vyobrazením v průkazu totožnosti,
+>
+> - b) právnickou osobou, povinná osoba identifikační údaje zaznamená a ověří z dokladu o existenci právnické osoby získaného z důvěryhodného zdroje a v rozsahu podle písmene a) provede identifikaci fyzické osoby, která za právnickou osobu jedná v daném obchodu nebo při vzniku obchodního vztahu,
+>
+> - c) svěřenským fondem, povinná osoba identifikační údaje zaznamená a ověří z dokladu o existenci svěřenského fondu získaného z důvěryhodného zdroje a v rozsahu podle písmene a) provede identifikaci fyzické osoby, která jedná za svěřenský fond v daném obchodu nebo při vzniku obchodního vztahu.
+>
+> (3) Pokud při první identifikaci klienta jedná za klienta, který je fyzickou osobou, zákonný zástupce nebo opatrovník, provede povinná osoba identifikaci zákonného zástupce nebo opatrovníka podle odstavců 1 a [[#§ 2|2.]] Osoba jednající za klienta je povinna doložit identifikační údaje klienta s tím, že fyzická přítomnost zastoupeného se nevyžaduje.
+>
+> (4) Jedná-li za klienta, který již byl identifikován, jiná osoba, provede povinná osoba její identifikaci podle odstavců 1 a [[#§ 2|2.]]
+>
+> (5) Při dalších obchodech s klientem, který již byl identifikován, nebo jedná-li za klienta jiná osoba, pokud již byli identifikováni klient i tato jednající fyzická osoba, ověří povinná osoba vhodným způsobem totožnost klienta nebo této jednající fyzické osoby. Ověření lze provést i bez fyzické přítomnosti těchto osob a lze k němu využít rovněž elektronickou identifikaci, při které se nepoužije kvalifikovaný systém elektronické identifikace podle zákona [[o elektronické identifikaci|o elektronické identifikaci]].
+>
+> (6) Jedná-li za klienta jiná osoba, je tato osoba povinna doložit oprávnění k tomuto jednání, ledaže je oprávnění k jednání zjistitelné z veřejného rejstříku. Povinná osoba ověří, zda a v jakém rozsahu je tato osoba oprávněna za klienta jednat.
+>
+> (7) Doložení oprávnění k jednání za klienta se nevyžaduje, jestliže osoba, která jinak nebyla oprávněna k nakládání s peněžními prostředky na účtu, ukládá na účet hotovost a současně doručuje povinné osobě již vyplněné a oprávněnou osobou podepsané doklady nebo pouze doručuje doklady, na základě kterých má být uskutečněna dispozice s peněžními prostředky na účtu.
+>
+> (8) V rámci identifikace klienta povinná osoba zjistí a zaznamená, zda
+>
+> - a) klient, fyzická osoba jednající za klienta v daném obchodu nebo obchodním vztahu a jeho skutečný majitel, pokud je povinné osobě znám, není politicky exponovanou osobou nebo osobou, vůči níž Česká republika uplatňuje mezinárodní sankce podle zákona [[o provádění mezinárodních sankcí|o provádění mezinárodních sankcí]], a
+>
+> - b) jiná osoba ve vlastnické nebo řídící struktuře klienta, pokud je povinné osobě známa, není osobou, vůči níž Česká republika uplatňuje mezinárodní sankce podle zákona [[o provádění mezinárodních sankcí|o provádění mezinárodních sankcí]].
+>
+> (9) V době trvání obchodního vztahu nebo při dalších obchodech povinná osoba kontroluje platnost a úplnost informací získaných v rámci identifikace a kontroly klienta, důvodnost zjednodušené kontroly klienta nebo výjimky z kontroly klienta a zaznamenává jejich změny. Při stanovení četnosti a rozsahu této kontroly povinná osoba vychází z rizikového profilu klienta.
+>
+> (10) Jestliže povinná osoba má podezření, že klient nejedná svým jménem nebo že zastírá, že jedná za třetí osobu, vyzve klienta, aby doložil oprávnění podle odstavce 6. Každý je povinen této výzvě vyhovět, pokud jiný právní předpis nestanoví jinak; advokát nebo notář může tuto povinnost vůči povinné osobě splnit též předáním kopií příslušných částí dokladů, z nichž identifikační údaje zjistil.
+>
+> (11) Klient poskytne povinné osobě informace, které jsou k provedení identifikace nezbytné, včetně předložení příslušných dokladů. Pokud je klientem svěřenský fond, informuje osoba jednající za klienta o této skutečnosti povinnou osobu. Povinná osoba může pro účely tohoto zákona pořizovat kopie nebo výpisy z předložených dokladů a zpracovávat takto získané informace k naplnění účelu tohoto zákona, a to bez souhlasu klienta.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c945b6756733299e4dc1 -->
+
 ### § 8a — Identifikace skutečného majitele
 
 > **§ 8a**
@@ -781,6 +1453,58 @@ U PO je třeba **dvojí identifikace**: PO (z výpisu) a FO jednající jejím j
 - [ ] Při pochybnostech o totožnosti postup nepoužít a identifikovat podle § 8.
 
 **Typicky rozhodné důkazy / podklady:** auditní záznamy o elektronické identifikaci, smlouva s poskytovatelem prostředku, údaj o provedení prvotní identifikace, onboardingová dokumentace.
+
+
+<!-- LEGAL-REVISION:BEGIN id=4b83fc4644fde3906644 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 8a — Využití prostředku pro elektronickou identifikaci v rámci identifikace klienta
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Povinná osoba může postup podle § 8 odst. 1 a § 8 odst. 2 písm. a) nahradit provedením identifikace fyzické osoby, která je klientem, nebo fyzické osoby, která jedná za klienta, prostřednictvím prostředku pro elektronickou identifikaci, který splňuje
+>
+> - a) technické specifikace, normy a postupy pro vysokou úroveň záruky stanovené přímo použitelným předpisem Evropské unie upravujícím minimální technické specifikace, normy a postupy pro úrovně záruky prostředků pro elektronickou identifikaci40) a který je vydáván a používán v rámci kvalifikovaného systému podle zákona o elektronické identifikaci, nebo
+>
+> - b) podmínky, za kterých lze použít prostředek pro elektronickou identifikaci pro účely prokázání totožnosti, které vyžaduje právní předpis nebo výkon působnosti, mimo rámec kvalifikovaného systému podle zákona upravujícího činnost bank.
+>
+> (2) Povinná osoba, která provede identifikaci postupem podle odstavce 1 písm. b), musí mít po dobu 10 let od uskutečnění obchodu mimo obchodní vztah nebo od ukončení obchodního vztahu s klientem k dispozici údaj o tom, kdo provedl identifikaci podle § 38ac odst. 1 písm. b) bodu 1 nebo 2 nebo § 38ac odst. 2 zákona upravujícího činnost bank.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 8, § 38ac
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4b83fc4644fde3906644 -->
 
 ### § 9 — Kontrola klienta
 
@@ -893,6 +1617,114 @@ Kontrola klienta stojí na pěti trvalých pilířích: účel obchodu, skutečn
 
 **Typicky rozhodné důkazy / podklady:** KYC spis, výpis z evidence skutečných majitelů a druhý zdroj, transakční analýzy, doklady o zdrojích prostředků, záznamy periodických revizí.
 
+
+<!-- LEGAL-REVISION:BEGIN id=5fe9dd496a261804a2b3 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 9 — Kontrola klienta
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Kontrolu klienta provádí povinná osoba
+>
+> - a) před uskutečněním obchodu mimo obchodní vztah při naplnění podmínek podle § 7 odst. 1
+>
+> - 1. nejpozději v době, kdy je zřejmé, že dosáhne hodnoty 15 000 EUR nebo vyšší,
+>
+> - 2. s politicky exponovanou osobou,
+>
+> - 3. s osobou se zemí původu ve třetí zemi, kterou na základě přímo použitelného předpisu Evropské unie39) nebo z jiného důvodu je třeba považovat za vysoce rizikovou (dále jen „vysoce riziková třetí země“),
+>
+> - 4. s osobou identifikovanou postupem podle § 11 odst. 7,
+>
+> - 5. při obchodu v hodnotě alespoň 2 000 EUR, v případě povinné osoby podle § 2 odst. 1 písm. c), nebo
+>
+> - 6. při převodu peněžních prostředků v hodnotě 1 000 EUR nebo vyšší,
+>
+> - b) v situacích, na které se vztahuje povinnost identifikace podle § 7 odst. 2 písm. a) a b), a to nejpozději před uskutečněním transakce,
+>
+> - c) v době trvání obchodního vztahu, nebo
+>
+> - d) podle § 2 odst. 1 písm. n),odst. 2 písm. c) nebo d) při obchodu v hodnotě 10 000 EUR nebo vyšší.
+>
+> (2) Kontrola klienta zahrnuje
+>
+> - a) získání a vyhodnocení informací o účelu a zamýšlené povaze obchodu nebo obchodního vztahu a informací o povaze podnikání klienta,
+>
+> - b) zjištění totožnosti skutečného majitele a přijetí opatření k ověření jeho totožnosti z důvěryhodných zdrojů s tím, že v případě, že klient podléhá povinnosti zápisu do evidence skutečných majitelů nebo obdobného registru, povinná osoba ověří skutečného majitele vždy alespoň z této evidence nebo obdobného registru a jednoho dalšího zdroje, a zjištění, zda skutečný majitel není politicky exponovanou osobou nebo osobou, vůči níž Česká republika uplatňuje mezinárodní sankce podle zákona [[o provádění mezinárodních sankcí|o provádění mezinárodních sankcí]],
+>
+> - c) v případě, že je klientem právnická osoba nebo svěřenský fond, zjištění vlastnické a řídící struktury klienta, a zjištění, zda osoba v této struktuře není osobou, vůči níž Česká republika uplatňuje mezinárodní sankce podle zákona [[o provádění mezinárodních sankcí|o provádění mezinárodních sankcí]],
+>
+> - d) průběžné sledování obchodního vztahu včetně přezkoumávání obchodů prováděných v průběhu daného vztahu za účelem zjištění, zda obchody jsou v souladu s tím, co je povinné osobě známo o klientovi a jeho podnikatelském a rizikovém profilu,
+>
+> - e) přezkoumávání zdrojů peněžních prostředků nebo jiného majetku, kterého se obchod nebo obchodní vztah týká, a
+>
+> - f) v rámci obchodního vztahu s politicky exponovanou osobou též přiměřená opatření ke zjištění původu jejího majetku.
+>
+> (3) Povinná osoba provádí kontrolu klienta podle odstavce 2 v rozsahu potřebném k posouzení možného rizika legalizace výnosů z trestné činnosti a financování terorismu v závislosti na typu klienta, obchodního vztahu, produktu nebo obchodu. Osobám oprávněným k provádění kontroly plnění povinností podle [[#§ 35|§ 35]] odůvodní povinná osoba přiměřenost rozsahu kontroly klienta a doloží způsob jejího provádění nebo ověření splnění podmínek pro zjednodušenou identifikaci a kontrolu klienta podle [[#§ 13|§ 13]] nebo pro výjimku z identifikace a kontroly klienta podle [[#§ 13a|§ 13a]], a to s ohledem na výše uvedená rizika.
+>
+> (4) Při posuzování možného rizika podle odstavce 3 povinná osoba zohlední rizikové faktory uvedené v hodnocení rizik podle [[#§ 21a|§ 21a]].
+>
+> (5) Povinná osoba pro jednotlivé typy jí poskytovaných obchodů stanoví na základě hodnocení rizik podle [[#§ 21a|§ 21a]] hodnotu obchodu, při jejímž dosažení vždy provede kontrolu klienta. Tato hodnota nemůže být vyšší než částka uvedená v odstavci 1.
+>
+> (6) Při provádění kontroly klienta povinná osoba zjišťuje a zaznamenává u
+>
+> - a) skutečného majitele údaje k ověření jeho totožnosti a postup při jeho zjišťování,
+>
+> - b) obmyšleného svěřenského fondu, který je určen na základě určitých vlastností nebo příslušnosti k určité kategorii, informace dostatečné ke ztotožnění konkrétního obmyšleného v okamžiku výplaty výnosů nebo v okamžiku, kdy obmyšlený uplatní svá nabytá práva,
+>
+> - c) oprávněného ze životního pojištění, který je
+>
+> - 1. určen jako konkrétní osoba nebo svěřenský fond, jeho jméno a příjmení nebo název,
+>
+> - 2. určen na základě jeho vztahu k pojištěnému anebo jinak, informace dostatečné ke ztotožnění konkrétního oprávněného v okamžiku výplaty plnění,
+>
+> - 3. politicky exponovanou osobou, všechny významné okolnosti a průběh obchodního vztahu,
+>
+> - 4. právnickou osobou nebo svěřenským fondem a kterému byla postoupena smlouva o životním pojištění nebo který byl určen jako nový oprávněný, rovněž totožnost jeho skutečného majitele k okamžiku postoupení smlouvy o životním pojištění nebo k okamžiku určení nového oprávněného a postup při jeho zjišťování,
+>
+> - 5. právnickou osobou nebo svěřenským fondem a u kterého je zjištěno zvýšené riziko legalizace výnosů z trestné činnosti a financování terorismu, rovněž totožnost skutečného majitele k okamžiku výplaty plnění a postup při jeho zjišťování.
+>
+> (7) Klient poskytne povinné osobě informace, které jsou k provedení kontroly nezbytné, včetně předložení příslušných dokladů.
+>
+> (8) Povinná osoba může pro účely tohoto zákona pořizovat kopie nebo výpisy z předložených dokladů a zpracovávat takto získané informace k naplnění účelu tohoto zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 7, § 11, § 2, § 35, § 13, § 13a, § 21a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5fe9dd496a261804a2b3 -->
+
 ### § 9a — Zesílená kontrola klienta (EDD)
 
 > **§ 9a**
@@ -969,6 +1801,82 @@ EDD nastupuje obligatorně u vysoce rizikových třetích zemí a PEP, fakultati
 
 **Typicky rozhodné důkazy / podklady:** rešerše sankčních a PEP databází, doklady o zdrojích prostředků a původu majetku, schvalovací protokol vedení, záznamy zesíleného monitoringu.
 
+
+<!-- LEGAL-REVISION:BEGIN id=2eda75d686ac8fe3274d generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 9a — Zesílená identifikace a kontrola klienta
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Povinná osoba provádí zesílenou identifikaci a kontrolu klienta v případě, že na základě hodnocení rizik podle [[#§ 21a|§ 21a]] představuje klient, obchod nebo obchodní vztah zvýšené riziko legalizace výnosů z trestné činnosti nebo financování terorismu.
+>
+> (2) Povinná osoba uplatní opatření zesílené identifikace a kontroly klienta vždy
+>
+> - a) při vzniku a v průběhu obchodního vztahu s osobou se zemí původu ve vysoce rizikové třetí zemi,
+>
+> - b) před uskutečněním obchodu souvisejícího s vysoce rizikovou třetí zemí,
+>
+> - c) před uskutečněním obchodu nebo při uzavírání obchodního vztahu s politicky exponovanou osobou.
+>
+> (3) Při zesílené identifikaci a kontrole klienta povinná osoba v rozsahu potřebném k účinnému řízení zjištěného rizika nad rámec opatření uplatňovaných při identifikaci a kontrole klienta
+>
+> - a) získá další dokumenty nebo informace o
+>
+> - 1. skutečném majiteli,
+>
+> - 2. zamýšlené povaze obchodního vztahu a
+>
+> - 3. zdroji peněžních prostředků a jiného majetku klienta a skutečného majitele,
+>
+> - b) ověřuje získané dokumenty nebo informace z více důvěryhodných zdrojů,
+>
+> - c) pravidelně a zesíleně sleduje obchodní vztah a obchody v rámci obchodního vztahu,
+>
+> - d) získá souhlas člena svého statutárního orgánu nebo osoby jím pověřené k řízení v oblasti opatření proti legalizaci výnosů z trestné činnosti a financování terorismu k uzavření obchodního vztahu nebo k jeho pokračování,
+>
+> - e) požaduje provedení první platby v rámci obchodního vztahu nebo obchodu mimo obchodní vztah z účtu vedeného na jméno klienta u úvěrové instituce nebo u zahraniční úvěrové instituce, která podléhá povinnostem identifikace a kontroly klienta, které jsou alespoň rovnocenné požadavkům práva Evropské unie, nebo
+>
+> - f) provádí jiná opatření s ohledem na povahu povinné osoby, její činnosti a vlastní hodnocení rizik.
+>
+> (4) V případě podle odstavce 2 písm. a) nebo b) provede povinná osoba alespoň opatření podle odstavce 3 písm. a) až d) a f). V případě podle odstavce 2 písm. c) provede povinná osoba alespoň opatření podle odstavce 3 písm. a) bodu 3 a odstavce 3 písm. c) a d).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2eda75d686ac8fe3274d -->
+
 ### § 9b — Zjednodušená kontrola klienta (SDD)
 
 > **§ 9b**
@@ -1018,6 +1926,56 @@ EDD nastupuje obligatorně u vysoce rizikových třetích zemí a PEP, fakultati
 - [ ] Po odpadnutí důvodu kontrolu bez odkladu doplnit.
 
 **Typicky rozhodné důkazy / podklady:** záznam pokynu FAÚ, oznámení podezřelého obchodu, interní záznam o důvodu a rozsahu neprovedené kontroly, monitorovací protokoly.
+
+
+<!-- LEGAL-REVISION:BEGIN id=347a6c9eb7843cd84696 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 9b — Neprovedení kontroly klienta
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> Povinná osoba neprovede kontrolu klienta nebo její dílčí část, jestliže
+>
+> - a) by provedení kontroly nebo její dílčí části mohlo vést ke zmaření nebo ohrožení šetření podezřelého obchodu, nebo
+>
+> - b) jí Finanční analytický úřad (dále jen „Úřad“) dá pokyn k neprovedení kontroly nebo její dílčí části z důvodu, že by její provedení mohlo zmařit nebo ohrozit šetření podezřelého obchodu nebo probíhající trestní řízení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=347a6c9eb7843cd84696 -->
 
 ### § 10 — Zprostředkovaná identifikace
 
@@ -1094,6 +2052,82 @@ EDD nastupuje obligatorně u vysoce rizikových třetích zemí a PEP, fakultati
 - [ ] Zajistit uchování listiny s přílohami (§ 16; evidence listin 10 let).
 
 **Typicky rozhodné důkazy / podklady:** listina o identifikaci s pevně spojenými přílohami, plná moc, doklad o doručení (datová schránka), evidence listin o identifikaci.
+
+
+<!-- LEGAL-REVISION:BEGIN id=10eab95fac6bf2cf0ae9 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 10 — Zprostředkovaná identifikace
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Na žádost klienta nebo povinné osoby může identifikaci klienta podle § 8 odst. 1 provést notář nebo kontaktní místo veřejné správy.
+>
+> (2) Notář nebo kontaktní místo veřejné správy sepíše o identifikaci listinu, která je veřejnou listinou, v níž uvede
+>
+> - a) kdo, pro kterou povinnou osobu a pro jaký účel identifikaci provedl,
+>
+> - b) identifikační údaje klienta,
+>
+> - c) osvědčení prohlášení identifikované fyzické osoby, osoby jednající jménem identifikované právnické osoby nebo zástupce identifikované osoby o účelu provedené identifikace a o potvrzení správnosti identifikace, popřípadě o výhradách k provedené identifikaci,
+>
+> - d) místo a datum sepsání listiny, popřípadě místo a datum, kde a kdy k identifikaci došlo, jsou-li odlišná od místa nebo data sepsání,
+>
+> - e) podpis toho, kdo provedl identifikaci, otisk jeho úředního razítka a pořadové číslo evidence listin o identifikaci.
+>
+> (3) Přílohou listiny o identifikaci jsou kopie těch částí dokladů, použitých k identifikaci, z nichž lze zjistit identifikační údaje a dále druh a číslo průkazu totožnosti, stát, popřípadě orgán, který jej vydal, a dobu jeho platnosti, a kopie žádosti, byla-li podána písemně. Přílohou listiny o identifikaci, je-li k identifikaci použit digitální stejnopis průkazu, je elektronický dokument, který obsahuje údaje uvedené v digitálním stejnopisu průkazu, nebo jeho listinná kopie. Je-li tímto způsobem prováděna identifikace zmocněnce, je přílohou i originál plné moci nebo její ověřená kopie. Uvedené přílohy se pevně spojí do svazku k listině o identifikaci a klient zajistí její doručení povinné osobě. Na žádost klienta zajistí notář nebo kontaktní místo veřejné správy doručení veřejné listiny včetně přílohy povinné osobě do její datové schránky.
+>
+> (4) Kopie dokladů musí být pořízeny takovým způsobem, aby příslušné údaje byly čitelné a byla zajištěna možnost jejich uchování po dobu stanovenou v [[#§ 16|§ 16]], a musí obsahovat i kopii vyobrazení identifikované fyzické osoby v průkazu totožnosti v takové kvalitě, aby umožňovala ověření shody podoby.
+>
+> (5) Notář a kontaktní místo veřejné správy vede samostatnou evidenci listin o identifikaci, která obsahuje
+>
+> - a) pořadové číslo a datum sepsání,
+>
+> - b) údaje o identifikované osobě
+>
+> - 1. jméno, příjmení, trvalý nebo jiný pobyt, rodné číslo nebo datum narození identifikované fyzické osoby nebo fyzické osoby jednající za identifikovanou právnickou osobu,
+>
+> - 2. v případě identifikace právnické osoby její obchodní firmu nebo název včetně odlišujícího dodatku nebo dalšího označení, identifikační číslo osoby a sídlo,
+>
+> - c) účel identifikace.
+>
+> (6) Evidence listin o identifikaci se vede po dobu kalendářního roku. Po jejím uzavření je uložena po dobu 10 let.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 8, § 16
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=10eab95fac6bf2cf0ae9 -->
 
 ### § 11 — Identifikace převzetím od jiné povinné osoby; elektronická identifikace
 
@@ -1189,6 +2223,100 @@ EDD nastupuje obligatorně u vysoce rizikových třetích zemí a PEP, fakultati
 
 **Typicky rozhodné důkazy / podklady:** kopie dokladů, potvrzení o vedení účtu, platební zpráva první platby, smlouva s předávající institucí, záznam rizikového posouzení.
 
+
+<!-- LEGAL-REVISION:BEGIN id=5218061a6d29828fa579 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 11 — Převzetí identifikace a využití dalších způsobů dálkové identifikace v rámci identifikace klienta
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Povinná osoba nemusí provést identifikaci klienta, zjištění informací o účelu a zamýšlené povaze obchodu nebo obchodního vztahu podle § 9 odst. 2 písm. a) a zjištění vlastnické a řídící struktury klienta a totožnosti jeho skutečného majitele podle § 9 odst. 2 písm. b), pokud tyto úkony byly provedeny
+>
+> - a) úvěrovou nebo finanční institucí, s výjimkou osoby oprávněné ke směnárenské činnosti podle zákona o směnárenské činnosti, držitele poštovní licence podle zákona upravujícího poštovní služby, platební instituce, jejíž činnost spočívá převážně v poskytování platebních služeb, při nichž dochází k převodům peněžních prostředků, kdy plátce ani příjemce nevyužívají účet u poskytovatele platebních služeb plátce, a poskytovatele platebních služeb malého rozsahu podle zákona upravujícího platební styk, nebo
+>
+> - b) zahraniční úvěrovou nebo finanční institucí, s výjimkou zahraniční osoby oprávněné ke směnárenské činnosti, zahraniční platební instituce, jejíž činnost spočívá převážně v poukazování peněz, nebo zahraničního poskytovatele platebních služeb s obdobným postavením, jako má poskytovatel platebních služeb malého rozsahu podle zákona upravujícího platební styk, jestliže působí na území státu, který jí ukládá srovnatelným způsobem povinnost identifikace, kontroly klienta a uchování záznamů, podléhá v tomto státu zákonné povinné profesní registraci a je nad ní vykonáván dohled, zahrnující kontrolu plnění těchto povinností, včetně možnosti kontroly jednotlivých obchodů a kontroly na místě.
+>
+> (2) Povinná osoba uvedená v § 2 odst. 1 písm. e) a g) nemusí provést identifikaci klienta, zjištění informací o účelu a zamýšlené povaze obchodu nebo obchodního vztahu podle § 9 odst. 2 písm. a) a zjištění vlastnické a řídící struktury klienta a totožnosti jeho skutečného majitele podle § 9 odst. 2 písm. b), pokud tyto úkony byly provedeny osobou stejného typu působící na území státu, který jí ukládá v oblasti boje proti legalizaci výnosů z trestné činnosti a financování terorismu povinnosti rovnocenné požadavkům práva Evropské unie a v němž je vůči ní uplatňován dozor na úrovni odpovídající právu Evropské unie.
+>
+> (3) Povinná osoba, která postupuje podle odstavce 1 nebo [[#§ 2|2]], musí získat informace o identifikaci klienta, účelu a zamýšlené povaze obchodního vztahu, vlastnické a řídící struktuře klienta a totožnosti jeho skutečného majitele nejpozději před vznikem obchodního vztahu nebo před uskutečněním obchodu mimo obchodní vztah. Dále musí povinná osoba zajistit, aby jí úvěrová nebo finanční instituce nebo osoba, která identifikaci nebo zjištění příslušných údajů provedla, na vyžádání poskytla související dokumenty a kopie příslušných dokladů, a to bez zbytečného odkladu.
+>
+> (4) Za provedení úkonů podle odstavců 1 a [[#§ 2|2]] odpovídá povinná osoba, jako by je provedla sama. Povinná osoba nepřevezme informace o identifikaci klienta, informace o účelu a zamýšlené povaze obchodu nebo obchodního vztahu nebo zjištění vlastnické a řídící struktury klienta a totožnosti jeho skutečného majitele podle odstavců 1 a [[#§ 2|2]], vzniká-li pochybnost o správnosti nebo úplnosti těchto informací, a není-li předem zajištěno naplnění podmínky podle odstavce 3.
+>
+> (5) Povinná osoba nemusí provést identifikaci klienta, zjištění informací o účelu a zamýšlené povaze obchodu nebo obchodního vztahu podle § 9 odst. 2 písm. a) a zjištění vlastnické a řídící struktury klienta a totožnosti jeho skutečného majitele podle § 9 odst. 2 písm. b), pokud tyto úkony byly před uskutečněním obchodu nebo před vznikem obchodního vztahu provedeny osobou, která za povinnou osobu jedná a je vázána jejími vnitřními předpisy, a jestliže povinná osoba nese odpovědnost za škodu způsobenou činností této osoby. Tyto informace včetně kopií příslušných dokladů, pokud byly pořizovány, se ukládají u povinné osoby. Povinná osoba za provedení těchto úkonů odpovídá, jako by je provedla sama.
+>
+> (6) Úvěrová nebo finanční instituce při poskytování investičních služeb nemusí provést identifikaci klienta, zjištění informací o účelu a zamýšlené povaze obchodu nebo obchodního vztahu podle § 9 odst. 2 písm. a) a zjištění vlastnické a řídící struktury klienta a totožnosti jeho skutečného majitele podle § 9 odst. 2 písm. b), pokud tyto úkony byly provedeny investičním zprostředkovatelem v souladu s tímto zákonem a jejími vnitřními předpisy. Povinná osoba za provedení těchto úkonů odpovídá, jako by je provedla sama.
+>
+> (7) Povinná osoba může postup podle § 8 odst. 1 až 4 nahradit provedením identifikace fyzické osoby, která je klientem, nebo fyzické osoby jednající za klienta, tak, že
+>
+> - a) klient, který je
+>
+> - 1. fyzickou osobou, zašle povinné osobě kopie příslušných částí průkazu totožnosti a nejméně jednoho dalšího podpůrného dokladu, z nichž lze zjistit údaje podle § 8 odst. 2 písm. a), pořízené podle § 10 odst. 4,
+>
+> - 2. právnickou osobou, zašle povinné osobě doklad o své existenci a své identifikační údaje nebo si povinná osoba existenci a identifikační údaje klienta zjistí z veřejného rejstříku nebo evidence svěřenských fondů, nebo
+>
+> - 3. svěřenským fondem, zašle povinné osobě doklad o své existenci a své identifikační údaje,
+>
+> - b) v případě, že za klienta jedná jiná osoba, klient zašle kopie dokladů podle písmene a) bodu 1 fyzické osoby oprávněné jednat za něj v tomto obchodu nebo obchodním vztahu a oprávnění této fyzické osoby k jednání za klienta,
+>
+> - c) povinná osoba zaznamená a ověří údaje a oprávnění zaslané podle písmen a) a b) a nemá pochybnost o skutečné totožnosti klienta nebo osoby, která za klienta jedná,
+>
+> - d) povinná osoba uzavře s klientem o tomto obchodu nebo obchodním vztahu smlouvu, jejíž obsah bude zaznamenán v textové podobě,
+>
+> - e) klient hodnověrným způsobem prokáže existenci platebního účtu vedeného na jeho jméno u úvěrové instituce nebo u zahraniční úvěrové instituce, který není veden ve vysoce rizikové třetí zemi,
+>
+> - f) první platba z této smlouvy bude provedena klientem prostřednictvím účtu podle písmene e) a
+>
+> - g) umožňuje-li to daný platební systém, bude tuto platbu doprovázet informace o účelu identifikace a označení povinné osoby, spolu se jménem a příjmením fyzické osoby, která dala platební příkaz k provedení platby podle písmene f); je-li klientem fyzická osoba, za kterou nejedná jiná osoba, a odůvodňuje-li to hodnocení rizik podle [[#§ 21a|§ 21a]], není třeba zasílat kopii podpůrného dokladu podle písmene a) bodu 1, doprovází-li platbu tato informace.
+>
+> (8) Povinná osoba může postup podle § 8 odst. 1 a § 8 odst. 2 písm. a) nahradit provedením identifikace fyzické osoby, která je klientem, nebo fyzické osoby jednající za klienta, tak, že
+>
+> - a) tato fyzická osoba povinné osobě sdělí své identifikační údaje a požadované další údaje k identifikaci podle § 5 odst. 2 povinnou osobou stanoveným způsobem, přičemž je opatří svým kvalifikovaným elektronickým podpisem podle přímo použitelného předpisu Evropské unie upravujícího elektronickou identifikaci a služby vytvářející důvěru pro elektronické transakce na vnitřním trhu41),
+>
+> - b) povinná osoba ověří u kvalifikovaného poskytovatele služeb vytvářejících důvěru, zda se údaje získané tímto poskytovatelem od této fyzické osoby při vydávání kvalifikovaného certifikátu použitého při vytváření podpisu podle písmene a) shodují s údaji sdělenými touto fyzickou osobou podle písmene a); povinná osoba může ověřit údaje sdělené podle písmene a) rovněž z dokumentu vydaného orgánem veřejné správy opatřeného kvalifikovanou elektronickou pečetí tohoto orgánu podle přímo použitelného předpisu Evropské unie upravujícího elektronickou identifikaci a služby vytvářející důvěru pro elektronické transakce na vnitřním trhu, který přiřazuje ke kvalifikovanému certifikátu použitému při vytváření podpisu podle písmene a) identifikační údaje osoby, jíž byl tento certifikát vydán, a
+>
+> - c) povinná osoba nemá pochybnost o totožnosti této fyzické osoby.
+>
+> (9) V případech uvedených v odstavcích 1, [[#§ 2|2]], [[#§ 7|7]] a [[#§ 8|8]] povinná osoba ověří, zda jsou splněny uvedené podmínky a zda podle informací, které má povinná osoba k dispozici, nepředstavuje některý z klientů, některý z produktů nebo některý konkrétní obchod zvýšené riziko zneužití pro legalizaci výnosů z trestné činnosti nebo financování terorismu. Pokud na základě tohoto ověření vzniknou pochybnosti o tom, že klient, produkt nebo obchod nepředstavují zvýšené riziko zneužití pro legalizaci výnosů z trestné činnosti nebo financování terorismu, nelze tento postup uplatnit. Při posuzování rizika povinná osoba zohlední rizikové faktory uvedené v hodnocení rizik podle [[#§ 21a|§ 21a]].
+>
+> (10) Povinné osoby si při postupu podle odstavců 1 a [[#§ 2|2]] za účelem plnění povinností podle [[#§ 9|§ 9]] mohou vzájemně vyměňovat příslušné informace související s obchody, jež se jejich prostřednictvím uskutečňují. Výměna informací a spoléhání se na jinou osobu při činnostech podle odstavců 1, [[#§ 2|2]] a 5 až 8 není možné u osob působících ve vysoce rizikových třetích zemích, s výjimkou poboček a dceřiných obchodních korporací osob se zemí původu v některém z členských států Evropské unie, nebo ve státě tvořícím Evropský hospodářský prostor, naplňujících v oblasti boje proti legalizaci výnosů z trestné činnosti a financování terorismu povinnosti rovnocenné požadavkům práva Evropské unie.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 9, § 2, § 8, § 10, § 21a, § 5, § 7
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5218061a6d29828fa579 -->
+
 ### § 11a — Identifikace pomocí video-identifikace
 
 > **§ 11a**
@@ -1245,6 +2373,62 @@ EDD nastupuje obligatorně u vysoce rizikových třetích zemí a PEP, fakultati
 
 **Typicky rozhodné důkazy / podklady:** kopie dokladů totožnosti, apostilovaná plná moc, záznam o identifikaci zástupce, dokumentace skutečného majitele a rizikového posouzení.
 
+
+<!-- LEGAL-REVISION:BEGIN id=ca0e6218cd0eeb4a8b8b generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 11a — Identifikace zastoupeného klienta advokáta nebo notáře
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Advokát nebo notář mohou, pokud nemají pochybnost o skutečné totožnosti klienta ani osoby, která za klienta jedná, postup podle § 8 odst. 1 a [[#§ 2|2]] nahradit provedením identifikace klienta, který je fyzickou osobou, a osoby jednající za klienta tak, že
+>
+> - a) klient, který je fyzickou osobou, zašle povinné osobě kopii příslušných částí průkazu totožnosti, ze kterých lze zjistit údaje podle § 8 odst. 2 písm. a), pořízenou způsobem podle § 10 odst. 4,
+>
+> - b) osoba jednající za klienta předloží povinné osobě doklad o oprávnění této osoby k jednání za klienta, který musí být opatřen úředně ověřeným podpisem klienta; je-li úřední ověření podpisu provedeno podle předpisů zahraničního práva, musí splňovat podmínky pro použití cizí veřejné listiny v České republice podle zákona [[o mezinárodním právu soukromém|o mezinárodním právu soukromém]],
+>
+> - c) zaznamenají a ověří údaje a oprávnění zaslané podle písmen a) a b) a provedou identifikaci osoby jednající za klienta; při identifikaci osoby jednající za klienta se postupuje podle § 8 odst. 1 a [[#§ 2|2]] a [[#§ 8a|§ 8a]] obdobně.
+>
+> (2) Při postupu podle odstavce 1 advokát nebo notář provedou opatření podle § 9 odst. 2 písm. b) a ověří, zda jsou splněny podmínky pro použití tohoto postupu a zda podle informací, které mají k dispozici, nepředstavuje některý z klientů, některý z produktů nebo některý konkrétní obchod zvýšené riziko zneužití pro legalizaci výnosů z trestné činnosti nebo financování terorismu. Pokud na základě tohoto ověření vzniknou pochybnosti o tom, že klient, produkt nebo obchod nepředstavují zvýšené riziko zneužití pro legalizaci výnosů z trestné činnosti nebo financování terorismu, nelze tento postup uplatnit. Při posuzování rizika advokát nebo notář zohlední rizikové faktory uvedené v hodnocení rizik podle [[#§ 21a|§ 21a]].
+>
+> (3) Pokud klient identifikovaný podle odstavce 1 není při jednání s advokátem nebo notářem zastoupen osobou identifikovanou při tomto postupu, provedou advokát nebo notář identifikaci tohoto klienta.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 8, § 2, § 10, § 8a, § 9, § 21a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ca0e6218cd0eeb4a8b8b -->
+
 ### § 12 — Neprovedení obchodu
 
 > **§ 12**
@@ -1290,6 +2474,66 @@ EDD nastupuje obligatorně u vysoce rizikových třetích zemí a PEP, fakultati
 - [ ] Nezaměňovat s § 9b (aprobované neprovedení kontroly v zájmu šetření).
 
 **Typicky rozhodné důkazy / podklady:** záznam o odmítnutí s důvody, předložené dokumenty, porovnání s veřejnými evidencemi, interní komunikace.
+
+
+<!-- LEGAL-REVISION:BEGIN id=20ab0f451584a1f79dd4 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 12
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Byla-li provedena identifikace a další úkony podle [[#§ 10|§ 10]] nebo podle § 11 odst. 5 až 8, identifikační údaje a další informace a doklady tam uvedené musí být uloženy u povinné osoby před uskutečněním obchodu.
+>
+> (2) Převzetí identifikace podle § 11 odst. 1, [[#§ 2|2]] a [[#§ 6|6]] je možné jen od toho, kdo provedl identifikaci klienta nebo fyzické osoby jednající za klienta podle [[#§ 8|§ 8]] nebo [[#§ 8a|8a]].
+>
+> (3) Získá-li poskytovatel služby informování o platebním účtu nebo služby nepřímého dání platebního příkazu (dále jen „služba třetích stran“) prostřednictvím vyhrazeného rozhraní podle přímo použitelného předpisu Evropské unie, kterým se doplňuje směrnice Evropského parlamentu a Rady (EU) [[2015/2366|2015/2366]] a upravují se společné a bezpečné otevřené standardy komunikace, informaci o existenci platebního účtu vedeného na jméno klienta u úvěrové instituce nebo u zahraniční úvěrové instituce působící na území členského státu Evropské unie nebo státu tvořícího Evropský hospodářský prostor, není třeba v rámci postupu podle § 11 odst. 7 splnit podmínku podle § 11 odst. 7 písm. f). Je-li zároveň klientem fyzická osoba, za kterou nejedná jiná osoba, a odůvodňuje-li to hodnocení rizik poskytovatele služby třetích stran, není třeba v rámci podmínky podle § 11 odst. 7 písm. a) bodu 1 zasílat kopii podpůrného dokladu.
+>
+> (4) Službu třetích stran lze poskytovatelem této služby v rámci postupu podle § 11 odst. 7 poskytnout i přes to, že tento poskytovatel u klienta doposud neprovedl první identifikaci, a to výlučně za účelem provedení první identifikace jeho klienta.
+>
+> (5) Pro účely odstavců 3 a [[#§ 4|4]] se službou třetích stran rozumí rovněž obdobné služby podle práva jiného členského státu Evropské unie nebo státu tvořícího Evropský hospodářský prostor.
+>
+> (6) Povinná osoba může při identifikaci podle § 11 odst. 7 prováděné za účelem poskytnutí spotřebitelského úvěru nahradit postup podle § 11 odst. 7 písm. f) a g) provedením první platby ze smlouvy o spotřebitelském úvěru na účet klienta podle § 11 odst. 7 písm. e), kterou bude, umožňuje-li to daný platební systém, doprovázet informace o účelu identifikace a označení povinné osoby. Doprovází-li platbu tato informace a odůvodňuje-li to hodnocení rizik poskytovatele spotřebitelského úvěru, není třeba v rámci podmínky podle § 11 odst. 7 písm. a) bodu 1 zasílat kopii podpůrného dokladu.
+>
+> (7) Povinná osoba, která postupovala podle odstavce 3 nebo [[#§ 6|6]], musí před tím, než s klientem identifikovaným tímto způsobem uskuteční jiný obchod nebo naváže jiný obchodní vztah než služby podle odstavce 3 nebo [[#§ 6|6]], provést identifikaci způsobem stanoveným tímto zákonem pro provádění první identifikace.
+>
+> (8) Omezení podle odstavce 7 se neuplatní, je-li klientovi v rámci postupu podle odstavce 3 prokazatelně zobrazena informace o účelu identifikace a označení poskytovatele služby třetích stran. Naplnění této podmínky musí být poskytovatel služby třetích stran schopen prokázat po dobu podle § 16 odst. 1.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 10, § 11, § 2, § 6, § 8, § 8a, § 4, § 16
+
+##### Souvisící předpisy
+
+- akt EU 2015/2366 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=20ab0f451584a1f79dd4 -->
 
 ### § 13 — Vnitřní zásady, systém vnitřních zásad
 
@@ -1357,6 +2601,72 @@ Zjednodušený režim je privilegium podmíněné dokumentací: rizikové odůvo
 
 **Typicky rozhodné důkazy / podklady:** hodnocení rizik s odůvodněním kategorie, klientské záznamy o ověření podmínek, screeningové protokoly, údaje o skutečném majiteli.
 
+
+<!-- LEGAL-REVISION:BEGIN id=f1c8c8308594cc9c8d8a generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 13 — Zjednodušená identifikace a kontrola klienta
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Povinná osoba může provádět zjednodušenou identifikaci a kontrolu klienta ve vztahu ke kategoriím klientů, obchodních vztahů, produktů nebo obchodů s potenciálně nižším rizikem zneužití pro legalizaci výnosů z trestné činnosti nebo financování terorismu, pokud
+>
+> - a) je jejich nižší rizikovost řádně odůvodněna v hodnocení rizik podle [[#§ 21a|§ 21a]],
+>
+> - b) nejsou označeny jako rizikové v hodnocení rizik na úrovni České republiky a
+>
+> - c) nejsou naplněny podmínky pro provedení zesílené identifikace a kontroly klienta.
+>
+> (2) V případě použití zjednodušené identifikace a kontroly klienta povinná osoba alespoň
+>
+> - a) ověří a zaznamená splnění podmínek podle odstavce 1,
+>
+> - b) vhodným způsobem zjistí a zaznamená
+>
+> - 1. identifikační údaje klienta a osoby jednající za klienta, včetně postupu podle § 8 odst. 8,
+>
+> - 2. údaje k ověření totožnosti skutečného majitele klienta, včetně postupu při jeho zjišťování a postupu podle § 9 odst. 2 písm. b),
+>
+> - c) provádí další úkony v rámci identifikace a kontroly klienta v rozsahu potřebném k účinnému řízení rizik.
+>
+> (3) Zjednodušená identifikace a kontrola klienta se nepoužije v případě pochybností o splnění podmínek pro jejich provedení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21a, § 8, § 9
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f1c8c8308594cc9c8d8a -->
+
 ### § 13a — Hodnocení rizik
 
 > **§ 13a**
@@ -1417,6 +2727,66 @@ Zjednodušený režim je privilegium podmíněné dokumentací: rizikové odůvo
 
 **Typicky rozhodné důkazy / podklady:** produktové podmínky, transakční logy, záznamy o zpětných výměnách, analýza rovnocennosti třetí země.
 
+
+<!-- LEGAL-REVISION:BEGIN id=afc6fca949442e72deaa generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 13a — Výjimky z povinnosti identifikace a kontroly klienta
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Povinnost identifikovat a kontrolovat klienta není třeba plnit u
+>
+> - a) elektronických peněz uchovávaných na médiu, které nelze dobíjet, pokud nejvyšší uchovávaná částka nepřekročí 150 EUR,
+>
+> - b) elektronických peněz uchovávaných na médiu, které lze dobíjet, pokud může být použito pouze k provedení vnitrostátní platební transakce a celkový měsíční limit pro odchozí platby a současně i nejvyšší uchovávaná částka nepřesahuje 150 EUR, nebo
+>
+> - c) platebních služeb poskytovaných prostřednictvím veřejné mobilní telefonní sítě jinak než s využitím elektronických peněz, pokud hodnota jednotlivé transakce nepřesáhne 250 EUR a současně celkový limit plateb realizovaných z jednoho telefonního čísla pro kalendářní rok nepřesahuje 2 500 EUR.
+>
+> (2) Platební prostředky uvedené v odstavci 1 lze používat výhradně k nákupu zboží nebo služeb a nesmí být pořizovány nebo dobíjeny prostřednictvím anonymních elektronických peněz.
+>
+> (3) Výjimka podle odstavce 1 se nepoužije, když je na žádost držitele platebního prostředku zpětně vyměněna částka vyšší než 50 EUR nebo v případě, kdy držitel dává platební příkaz prostřednictvím internetu nebo prostřednictvím zařízení, které lze použít k dálkové komunikaci k provedení platby v hodnotě vyšší než 50 EUR.
+>
+> (4) Povinná osoba sleduje transakce týkající se platebního prostředku uvedeného v odstavci 1 tak, aby bylo možné zjistit podezřelý obchod podle [[#§ 6|§ 6]].
+>
+> (5) Platební příkaz, který byl dán platebním prostředkem podle odstavce 1 vydaným ve třetí zemi, může úvěrová nebo finanční instituce předat a odpovídající platební transakci zpracovat pouze tehdy, splňuje-li platební prostředek požadavky rovnocenné požadavkům podle odstavců 1 až 4.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 6
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=afc6fca949442e72deaa -->
+
 ### § 14 — Postupy v rámci skupiny
 
 > **§ 14**
@@ -1468,6 +2838,58 @@ Zjednodušený režim je privilegium podmíněné dokumentací: rizikové odůvo
 - [ ] Mimo podmínky výjimky aplikovat plný režim nařízení.
 
 **Typicky rozhodné důkazy / podklady:** transakční záznamy s identifikátory, smlouvy s obchodníky, technická dokumentace dohledatelnosti, vzorky datových sad převodů.
+
+
+<!-- LEGAL-REVISION:BEGIN id=726093d6e60c8860074b generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 14 — Výjimka z povinnosti uvádět informace doprovázející převody peněžních prostředků
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> Povinnosti podle přímo použitelného předpisu Evropské unie upravujícího informace doprovázející bezhotovostní převody peněžních prostředků a některých kryptoaktiv20) se nevztahují na převody peněžních prostředků nebo peněžní služby, jimiž se provádí platba za dodávku zboží nebo poskytování služeb, pokud
+>
+> - a) se převod uskuteční v České republice,
+>
+> - b) poskytovatel platebních služeb příjemce je prostřednictvím příjemce platby vždy schopen pomocí jedinečného identifikátoru transakce vysledovat převod peněžních prostředků od fyzické nebo právnické osoby, která má s příjemcem dohodu o dodávce zboží nebo poskytnutí služeb, a
+>
+> - c) převáděná hodnota nepřekročí 1 000 EUR.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=726093d6e60c8860074b -->
 
 ### § 15 — Odmítnutí provedení obchodu
 
@@ -1534,6 +2956,66 @@ Zjednodušený režim je privilegium podmíněné dokumentací: rizikové odůvo
 
 **Typicky rozhodné důkazy / podklady:** písemné výzvy a reakce klienta, KYC spis s pokusy o ověření skutečného majitele, doklady o původu prostředků PEP, záznam o odmítnutí/výpovědi, oznámení FAÚ.
 
+
+<!-- LEGAL-REVISION:BEGIN id=a7509b8077225b0f4bcf generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 15 — Neuskutečnění obchodu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Povinná osoba odmítne uskutečnění obchodu nebo navázání obchodního vztahu anebo, není-li to zvláštním právním předpisem vyloučeno, ukončí obchodní vztah v případě, že je dána povinnost identifikace nebo kontroly klienta a
+>
+> - a) klient
+>
+> - 1. se odmítne podrobit identifikaci,
+>
+> - 2. odmítne doložit oprávnění podle § 8 odst. 6, § 11 odst. 7 nebo § 11a odst. 1, nebo
+>
+> - 3. neposkytne potřebnou součinnost při kontrole,
+>
+> - b) z jiného důvodu nelze provést identifikaci anebo kontrolu klienta, nebo
+>
+> - c) má-li osoba provádějící identifikaci nebo kontrolu pochybnosti o pravdivosti informací poskytnutých klientem nebo o pravosti předložených dokladů.
+>
+> (2) Povinná osoba neuskuteční obchod s politicky exponovanou osobou, a to ani v rámci obchodního vztahu, pokud jí není znám původ peněžních prostředků nebo jiného majetku užitého v obchodu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 8, § 11, § 11a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=a7509b8077225b0f4bcf -->
+
 ### § 15a — Oznámení nesrovnalostí v evidenci skutečných majitelů
 
 > **§ 15a**
@@ -1588,6 +3070,58 @@ Zjednodušený režim je privilegium podmíněné dokumentací: rizikové odůvo
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=0c5179999ccdd8646e5c generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 15a — Postup při zjištění nesrovnalosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Má-li povinná osoba důvodně za to, že při provádění identifikace nebo kontroly klienta zjistila nesrovnalost podle zákona upravujícího evidenci skutečných majitelů (dále jen „nesrovnalost“), upozorní na to klienta. V rámci [[upozornění|upozornění]] povinná osoba uvede, v čem nesrovnalost spatřuje. Pokud je to vzhledem k okolnostem účelné, povinná osoba umožní klientovi se k této nesrovnalosti vyjádřit.
+>
+> (2) Neodstraní-li nebo nevyvrátí-li klient nesrovnalost bez zbytečného odkladu od [[upozornění|upozornění]] podle odstavce 1, oznámí povinná osoba nesrovnalost soudu, který je příslušný k řízení o nesrovnalosti podle zákona upravujícího evidenci skutečných majitelů.
+>
+> (3) Oznámení nesrovnalosti soudu musí být doloženo skutečnostmi nebo písemnostmi, které nesrovnalost osvědčují, a vyjádřením klienta, pokud jej učinil.
+>
+> (4) Pokud by postup podle odstavců 1 až 3 mohl zmařit nebo ohrozit šetření podezřelého obchodu nebo probíhající trestní řízení, může Úřad dát povinné osobě pokyn, aby jej neuplatňovala.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0c5179999ccdd8646e5c -->
+
 ### UCHOVÁVÁNÍ INFORMACÍ
 
 ### § 16 — Uchovávání identifikačních údajů a dokladů
@@ -1636,6 +3170,76 @@ KYC a transakční dokumentace se drží 10 let od konce vztahu nebo obchodu a p
 
 **Typicky rozhodné důkazy / podklady:** retenční směrnice, skartační protokoly, KYC spisy, auditní log přístupů, korespondence s FAÚ.
 
+
+<!-- LEGAL-REVISION:BEGIN id=42e294b0bacb980c49e6 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 16 — Uchovávání údajů povinnou osobou
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Povinná osoba uchovává po dobu 10 let od uskutečnění obchodu mimo obchodní vztah nebo od ukončení obchodního vztahu s klientem
+>
+> - a) identifikační a další údaje získané v rámci identifikace klienta nebo na základě přímo použitelného předpisu Evropské unie upravujícího informace doprovázející bezhotovostní převody peněžních prostředků a některých kryptoaktiv20),
+>
+> - b) kopie dokladů předložených k identifikaci, byly-li pořizovány,
+>
+> - c) údaj o tom, kdo a kdy provedl první identifikaci klienta,
+>
+> - d) informace a kopie dokumentů získané v rámci kontroly klienta,
+>
+> - e) záznamy o veškerých krocích uskutečněných v rámci identifikace a kontroly klienta, včetně informací o případných obtížích souvisejících s těmito kroky,
+>
+> - f) záznamy o postupu při posouzení a stanovení rizikového profilu klienta, včetně volby odpovídajících opatření užitých vůči klientovi a při posouzení skutečností souvisejících s podáním oznámení o podezřelém obchodu,
+>
+> - g) dokumenty odůvodňující výjimku z identifikace a kontroly klienta podle [[#§ 13a|§ 13a]] a
+>
+> - h) v případě zastupování originál nebo ověřenou kopii plné moci nebo číslo jednací rozhodnutí soudu o jmenování opatrovníka.
+>
+> (2) Údaje a doklady o obchodech spojených s povinností identifikace uchovává povinná osoba 10 let po uskutečnění obchodu mimo obchodní vztah nebo ukončení obchodního vztahu.
+>
+> (3) Povinná osoba uchovává údaje podle odstavců 1 a [[#§ 2|2]] způsobem a v rozsahu, který zajistí průkaznost jednotlivých obchodů a postupů s nimi spojených.
+>
+> (4) Povinná osoba uvedená v § 2 odst. 1 písm. i) a j) uchovává údaje a doklady po dobu 10 let po ukončení obchodu nebo obchodního vztahu, byla-li hodnota obchodu 10 000 EUR nebo vyšší; v ostatních případech 5 let po ukončení obchodu.
+>
+> (5) Lhůta podle odstavců 1 až 3 začíná běžet prvním dnem kalendářního měsíce následujícího po kalendářním měsíci, ve kterém byl uskutečněn poslední úkon obchodu známý povinné osobě. Po uplynutí této lhůty zajistí příslušný správce výmaz uchovávaných údajů a zničení dokladů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 13a, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=42e294b0bacb980c49e6 -->
+
 ### § 17 — Sdílení informací o klientech v rámci finanční skupiny
 
 > **§ 17**
@@ -1681,6 +3285,52 @@ KYC a transakční dokumentace se drží 10 let od konce vztahu nebo obchodu a p
 - [ ] Ošetřit zánik či výpadek uchovávající osoby (povinnost předat archiv).
 
 **Typicky rozhodné důkazy / podklady:** smlouva o sdíleném uchovávání, KYC spis, záznamy o testech dostupnosti, korespondence s FAÚ.
+
+
+<!-- LEGAL-REVISION:BEGIN id=1753223162d0ab1df166 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 17 — Spolupráce při uchovávání údajů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> Jestliže se na konkrétním obchodu s týmž klientem podílí více povinných osob, mohou být údaje podle [[#§ 16|§ 16]] uchovávány pouze u některé z nich za předpokladu, že ostatní zúčastněné povinné osoby mají zajištěno poskytování potřebných informací včetně kopií příslušných dokladů bez zbytečného odkladu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 16
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1753223162d0ab1df166 -->
 
 ### § 17a — Sdílení informací mezi povinnými osobami
 
@@ -1731,6 +3381,54 @@ AML data se zpracovávají jen v nezbytném rozsahu a vůči klientovi jsou „n
 **Typicky rozhodné důkazy / podklady:** informační memorandum, záznamy o vyřízení žádostí subjektů údajů, interní směrnice o oddělení účelů zpracování, stanoviska pověřence.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=7c23faa7c8181f492004 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 17a — Ochrana osobních údajů při činnosti povinné osoby
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Povinná osoba zpracovává osobní údaje v rozsahu nezbytném pro plnění povinností podle tohoto zákona.
+>
+> (2) Kromě informace podle § 24 odst. 2 neposkytne povinná osoba subjektu údajů informace o zpracování osobních údajů za účelem plnění povinností podle tohoto zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 24
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7c23faa7c8181f492004 -->
 
 ### POSTUP PŘI PODEZŘELÉM OBCHODU
 
@@ -1802,6 +3500,72 @@ Oznámení je analytickým podkladem pro FAÚ, který následně rozhoduje o **o
 
 **Typicky rozhodné důkazy / podklady:** transakční výpisy a alerty, KYC profil, interní vyhodnocení, kopie oznámení a doklad o doručení FAÚ, navazující komunikace s FAÚ.
 
+
+<!-- LEGAL-REVISION:BEGIN id=93a7ec095b6a21ccaa2e generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 18 — Oznámení podezřelého obchodu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Povinná osoba vyhodnocuje dostupné informace a zjišťuje podezřelý obchod. Zjistí-li povinná osoba v souvislosti se svou činností podezřelý obchod, oznámí to Úřadu bez zbytečného odkladu. Vyžadují-li to okolnosti případu, zejména hrozí-li nebezpečí z prodlení, oznámí povinná osoba podezřelý obchod neprodleně po jeho zjištění. Povinná osoba podá Úřadu oznámení podezřelého obchodu vždy, když neprovede kontrolu nebo její dílčí část podle § 9b písm. a).
+>
+> (2) V oznámení podezřelého obchodu uvede povinná osoba identifikační údaje toho, koho se oznámení týká, identifikační údaje všech dalších účastníků obchodu, které má v době podání oznámení k dispozici, informace o podstatných okolnostech obchodu a jakékoli další informace, které by mohly s podezřelým obchodem souviset a jsou významné pro jeho posouzení z hlediska opatření proti legalizaci výnosů z trestné činnosti nebo financování terorismu.
+>
+> (3) V oznámení se neuvádí údaje o zaměstnanci povinné osoby nebo osobě činné pro povinnou osobu jinak než v základním pracovněprávním vztahu, která podezřelý obchod zjistila.
+>
+> (4) Oznámení podezřelého obchodu přijímá Úřad. Adresu a podmínky pro doručování a další možnosti spojení pro podávání oznámení podezřelého obchodu zveřejní Úřad způsobem umožňujícím dálkový přístup.
+>
+> (5) Jestliže se oznámení podle odstavce 2 týká rovněž majetku, na který se vztahuje mezinárodní sankce vyhlášená za účelem udržení nebo obnovení mezinárodního míru a bezpečnosti, ochrany základních lidských práv nebo boje proti terorismu, povinná osoba na to v oznámení upozorní. V oznámení uvede dále i stručný popis tohoto majetku, údaje o jeho umístění a jeho vlastníkovi, pokud je povinné osobě znám, a informaci, zda hrozí bezprostřední nebezpečí poškození, znehodnocení nebo užití tohoto majetku v rozporu se zákonem.
+>
+> (6) Povinná osoba současně sdělí Úřadu jméno, příjmení a pracovní zařazení kontaktní osoby ([[#§ 22|§ 22]]) nebo osoby, která za povinnou osobu zpracovávala oznámení podezřelého obchodu, a možnosti telefonického, popřípadě elektronického spojení s touto osobou, pokud tyto informace nemá Úřad k dispozici.
+>
+> (7) Jestliže je oznámení podle odstavce 2 podáno v souvislosti s neprovedením kontroly klienta podle § 9b písm. a), uvede povinná osoba v oznámení také
+>
+> - a) okolnosti a důvody neprovedení kontroly nebo její dílčí části v rozsahu, který umožňuje posouzení vhodnosti tohoto postupu,
+>
+> - b) konkrétní postup v rámci kontroly nebo její dílčí části, který neprovedla.
+>
+> (8) Zjistí-li v souvislosti se svou činností podezřelý obchod více povinných osob společně, na základě sdílení informací podle § 39 odst. 2, je splněna povinnost oznámit podezřelý obchod podle odstavců 2 až 4 všemi povinnými osobami, pokud oznámení podá alespoň jedna z nich, a v oznámení uvede, za které další povinné osoby oznámení podává.
+>
+> (9) Oznámení podezřelého obchodu není porušením smluvní povinnosti mlčenlivosti povinné osoby, jejích zaměstnanců nebo fyzických osob, které jsou pro povinnou osobu činné jinak než v základním pracovněprávním vztahu. Tyto osoby nesmějí být z důvodu oznámení podezřelého obchodu vystaveny jednání, které mohou důvodně považovat za zásah do svých práv či oprávněných zájmů (dále jen „odvetné opatření“).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 9b, § 22, § 39
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=93a7ec095b6a21ccaa2e -->
+
 ### § 19 — Forma oznámení
 
 > **§ 19**
@@ -1847,6 +3611,52 @@ Oznámení se podává výhradně doporučeným dopisem nebo důvěrným elektro
 - [ ] Uchovat doklad o podání a přijetí.
 
 **Typicky rozhodné důkazy / podklady:** doklad o odeslání a doručení (dodejka, doručenka datové schránky), záznam v podacím systému FAÚ, interní směrnice podávání oznámení.
+
+
+<!-- LEGAL-REVISION:BEGIN id=2b125421a34265a6fb8f generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 19 — Forma oznámení podezřelého obchodu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> Oznámení podezřelého obchodu se podává písemně, a to v listinné podobě doporučeným dopisem nebo elektronicky způsobem zajišťujícím důvěrnost přenášených údajů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=2b125421a34265a6fb8f -->
 
 ### § 20 — Odložení splnění příkazu klienta
 
@@ -1911,6 +3721,68 @@ Oznámení se podává výhradně doporučeným dopisem nebo důvěrným elektro
 **Typicky rozhodné důkazy / podklady:** systémové logy plateb a blokací, oznámení podezřelého obchodu, písemné potvrzení pokynu FAÚ, sdělení o podání trestního oznámení, rozhodnutí podle § 79a TŘ.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=21f150d8af9de848a167 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 20 — Odklad splnění příkazu klienta
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Pokud hrozí nebezpečí, že bezodkladným splněním příkazu klienta by mohlo být zmařeno nebo podstatně ztíženo zajištění výnosu z trestné činnosti nebo prostředků určených k financování terorismu, povinná osoba může splnit příkaz klienta týkající se podezřelého obchodu nejdříve po uplynutí 24 hodin od přijetí oznámení podezřelého obchodu Úřadem. Majetek, jehož se příkaz klienta týká, vhodným způsobem zajistí proti manipulaci, která by byla v rozporu s účelem tohoto zákona. Na odklad splnění příkazu klienta upozorní povinná osoba Úřad v oznámení o podezřelém obchodě.
+>
+> (2) Podle odstavce 1 se nepostupuje v případě, kdy odložení splnění příkazu klienta není možné, nebo kdy je povinné osobě známo, že by takové odložení mohlo zmařit nebo jinak ohrozit šetření podezřelého obchodu; o splnění příkazu klienta povinná osoba ihned informuje Úřad.
+>
+> (3) Jestliže hrozí nebezpečí podle odstavce 1 a šetření podezřelého obchodu si pro složitost vyžaduje delší dobu, Úřad vydá pokyn k provedení opatření, kterým dojde k
+>
+> - a) prodloužení doby, na kterou se odkládá splnění příkazu klienta, nejdéle však o další 2 pracovní dny, nebo
+>
+> - b) odložení splnění příkazu klienta nebo k zajištění majetku, který má být předmětem podezřelého obchodu, u povinné osoby, u které se tento majetek nachází, až na dobu 3 pracovních dnů.
+>
+> (4) Pokyn k provedení opatření podle odstavce 3 vydá Úřad povinné osobě ústně, telefonicky, telefaxem nebo elektronicky. Úřad tento pokyn povinné osobě dodatečně písemně potvrdí. O pokynu provést toto opatření je informována pouze povinná osoba, která podala oznámení podezřelého obchodu, nebo u které se nachází majetek, který má být předmětem podezřelého obchodu.
+>
+> (5) Opatření podle odstavce 3 provede povinná osoba okamžitě, jakmile Úřadu vydá pokyn k jeho provedení. Povinná osoba obratem sdělí Úřadu, že provedla opatření podle odstavce 3 písm. b), a potvrdí čas, od kterého se počítá běh lhůty podle odstavce 3 písm. b). Úřadu dále průběžně podává informace o všech podstatných skutečnostech týkajících se majetku, kterého se pokyn podle odstavce 3 týká.
+>
+> (6) Jestliže Úřad do konce lhůty stanovené v odstavci 3 povinné osobě nesdělí, že podal trestní oznámení, povinná osoba příkaz klienta provede.
+>
+> (7) Podá-li Úřad ve lhůtě stanovené v odstavci 1 nebo [[#§ 3|3]] oznámení orgánu činnému v trestním řízení podle § 32 odst. 1, odklad splnění příkazu klienta nebo zajištění majetku podle odstavce 1 nebo [[#§ 3|3]] se prodlužuje o 3 pracovní dny ode dne podání trestního oznámení, pokud orgán činný v trestním řízení do konce této lhůty nerozhodne o odnětí nebo zajištění předmětu podezřelého obchodu. O podání trestního oznámení informuje Úřad povinnou osobu před uplynutím lhůty podle odstavce 1 nebo [[#§ 3|3.]]
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 3, § 32
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=21f150d8af9de848a167 -->
 
 ### DALŠÍ POVINNOSTI POVINNÝCH OSOB
 
@@ -2006,6 +3878,96 @@ Systém vnitřních zásad je provozní mozek AML compliance: vyrůstá z vlastn
 
 **Typicky rozhodné důkazy / podklady:** text systému vnitřních zásad s revizemi, písemné hodnocení rizik, zápis o schválení statutárním orgánem, doklady o oznámení FAÚ/ČNB, záznamy o aktualizacích.
 
+
+<!-- LEGAL-REVISION:BEGIN id=c7c10fc752c81246adca generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 21 — Systém vnitřních zásad
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Povinná osoba zavede a uplatňuje odpovídající strategie a postupy vnitřní kontroly a komunikace ke zmírňování a účinnému řízení rizik legalizace výnosů z trestné činnosti a financování terorismu identifikovaných v hodnocení rizik podle [[#§ 21a|§ 21a]] a k naplnění dalších povinností stanovených tímto zákonem.
+>
+> (2) Povinná osoba uvedená v § 2 odst. 1 písm. a) až d) a h) vypracuje ve lhůtě do 60 dnů ode dne, kdy se stala povinnou osobou, na základě hodnocení rizik podle [[#§ 21a|§ 21a]] a v rozsahu, ve kterém provádí činnosti podléhající působnosti tohoto zákona, písemně systém vnitřních zásad, postupů a kontrolních opatření k naplnění povinností stanovených tímto zákonem (dále jen „systém vnitřních zásad“). Součástí písemného systému vnitřních zásad je i písemné hodnocení rizik podle § 21a odst. 2. Systém vnitřních zásad včetně hodnocení rizik schvaluje statutární orgán povinné osoby. Povinná osoba systém vnitřních zásad průběžně aktualizuje.
+>
+> (3) Povinná osoba uvedená v § 2 odst. 1 písm. b) až d) a h) nemusí vypracovat systém vnitřních zásad písemně, jestliže v oblastech činnosti podléhajících působnosti tohoto zákona nezaměstnává další osoby ani pro ni nejsou další osoby činné jinak než v základním pracovněprávním vztahu.
+>
+> (4) Povinná osoba uvedená v § 2 odst. 1 písm. b) až d) a h), která smluvně vykonává činnost podléhající působnosti tohoto zákona pouze pro jednu jinou povinnou osobu, nemusí vypracovat vlastní systém vnitřních zásad, pokud se řídí systémem vnitřních zásad této jiné povinné osoby, v němž je její činnost dostatečně popsána.
+>
+> (5) Systém vnitřních zásad podle odstavce 2 zahrnuje
+>
+> - a) podrobný demonstrativní výčet znaků podezřelých obchodů, které se mohou vyskytovat při činnosti konkrétní povinné osoby,
+>
+> - b) způsob identifikace klienta, zahrnující opatření k rozpoznání politicky exponovaných osob a subjektů, vůči nimž Česká republika uplatňuje mezinárodní sankce podle zákona [[o provádění mezinárodních sankcí|o provádění mezinárodních sankcí]],
+>
+> - c) postupy pro provádění kontroly klienta a stanovování rozsahu kontroly klienta odpovídající riziku legalizace výnosů z trestné činnosti a financování terorismu v závislosti na typu klienta, obchodního vztahu, produktu nebo obchodu,
+>
+> - d) přiměřené a vhodné metody a postupy pro posuzování rizik, řízení rizik, vnitřní kontrolu a zajišťování kontroly nad dodržováním povinností stanovených tímto zákonem,
+>
+> - e) postup pro zpřístupnění údajů uchovávaných podle části druhé hlavy II příslušným orgánům,
+>
+> - f) postup povinné osoby od zjištění podezřelého obchodu do okamžiku doručení oznámení Úřadu tak, aby byla dodržena lhůta stanovená v § 18 odst. 1, jakož i pravidla pro zpracování podezřelého obchodu a určení osob, které podezřelý obchod vyhodnocují,
+>
+> - g) pravidla a postupy, kterými se při nabízení služeb nebo produktů povinné osoby řídí třetí osoby jednající za tuto osobu,
+>
+> - h) opatření, která vyloučí zmaření nebo podstatné ztížení zajištění výnosu z trestné činnosti bezodkladným splněním příkazu klienta,
+>
+> - i) technická a personální opatření, která zajistí provedení odkladu splnění příkazu klienta podle [[#§ 20|§ 20]], a ve stanovené lhůtě splnění povinností podle [[#§ 24|§ 24]],
+>
+> - j) v případech uvedených v § 24a odst. 2 popis doplňkových opatření k účinnému zvládání rizika legalizace výnosů z trestné činnosti nebo financování terorismu.
+>
+> (6) Strategie a postupy vnitřní kontroly ke zmírňování a účinnému řízení rizik podle odstavce 1 zahrnují také
+>
+> - a) kontrolu dodržování právních předpisů povinnou osobou, prověřování zaměstnanců a osob činných pro povinnou osobu jinak než v základním pracovněprávním vztahu a prověřování účinnosti těchto strategií, postupů a komunikací; je-li to opodstatněno rozsahem a povahou činnosti povinné osoby, zřídí za účelem tohoto prověřování nezávislý útvar přímo podřízený statutárnímu orgánu povinné osoby, a
+>
+> - b) vnitřní oznamovací systém podle zákona [[o ochraně oznamovatelů|o ochraně oznamovatelů]], který umožňuje anonymně podat oznámení zaměstnanci a fyzické osobě, která je pro povinnou osobu činná jinak než v základním pracovněprávním vztahu; vnitřní oznamovací systém nemůže být veden třetí osobou; vnitřní oznamovací systém může povinná osoba sdílet pouze s vázaným zástupcem podle § 2 odst. 4; odpovědnost povinných subjektů, které vnitřní oznamovací systém sdílejí, za plnění povinností povinného subjektu podle zákona [[o ochraně oznamovatelů|o ochraně oznamovatelů]] není dotčena.
+>
+> (7) Povinné osoby, které jsou součástí skupiny, uplatňují skupinové strategie a postupy vnitřní kontroly ke zmírňování a účinnému řízení rizik podle odstavce 1, a to v rozsahu, který je v souladu s právním řádem České republiky. Tyto strategie a postupy povinné osoby rovněž uplatňují ve svých pobočkách a provozovnách a zajistí jejich uplatňování v dceřiných obchodních korporacích působících na území jiného členského státu Evropské unie, státu tvořícího Evropský hospodářský prostor nebo třetí země, a to v rozsahu, který právo daného státu umožňuje.
+>
+> (8) Úvěrová instituce, platební instituce, instituce elektronických peněz, právnická osoba, která spravuje majetek způsobem srovnatelným s obhospodařováním investičního fondu, finanční instituce podle § 2 odst. 1 písm. b) bodu 11, povinná osoba podle § 2 odst. 1 písm. c) a osoba poskytující služby spojené s virtuálním aktivem oznámí Úřadu znění systému vnitřních zásad do 60 dnů ode dne, kdy se stala povinnou osobou. Oznámení o změnách v systému vnitřních zásad a nové znění systému vnitřních zásad s vyznačením provedených změn oznámí Úřadu do 30 dnů ode dne jejich přijetí. Povinná osoba podle § 2 odst. 1 písm. b) bodů 1 až 4, s výjimkou investičního zprostředkovatele a právnické osoby, která spravuje majetek způsobem srovnatelným s obhospodařováním investičního fondu, plní tyto povinnosti vůči České národní bance.
+>
+> (9) Zahraniční úvěrová nebo finanční instituce, která na území České republiky působí prostřednictvím své pobočky nebo provozovny, nemusí pro jejich činnost vypracovat zvláštní systém vnitřních zásad, pokud je jejich činnost upravena obdobným vnitřním předpisem této zahraniční úvěrové nebo finanční instituce a tento vnitřní předpis splňuje požadavky alespoň rovnocenné požadavkům tohoto zákona. Uvedený vnitřní předpis musí být k dispozici v českém jazyce. Na oznámení vnitřního předpisu a oznámení o jeho změnách se použije odstavec 8 obdobně.
+>
+> (10) Je-li to účelné pro účinné naplňování požadavků tohoto zákona, může Česká národní banka v mezích stanovených odstavcem 5 písm. c) a d) vyhláškou stanovit požadavky na zavedení a uplatňování systému vnitřních zásad a hodnocení rizik podle [[#§ 21a|§ 21a]] některými povinnými osobami, vůči nimž Česká národní banka vykonává dohled21).
+>
+> (11) Příslušná profesní komora vypracuje písemně metodickou informaci k zavedení a uplatňování strategií a postupů podle odstavce 1 při činnosti jejích členů. Součástí metodické informace je i písemné hodnocení rizik podle § 21a odst. 4. Tuto metodickou informaci a její změny doručí příslušná profesní komora Úřadu do 30 dnů ode dne jejich vypracování. Zjistí-li Úřad nedostatky v doručené metodické informaci nebo jejích změnách, stanoví termín k jejich odstranění. Příslušná profesní komora ve stanoveném termínu podá písemnou informaci o způsobu odstranění zjištěných nedostatků. Konečné znění metodické informace příslušná profesní komora zpřístupní svým členům.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21a, § 2, § 18, § 20, § 24, § 24a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c7c10fc752c81246adca -->
+
 ### § 21a — Politika přijímání zaměstnanců
 
 > **§ 21a**
@@ -2057,6 +4019,58 @@ Hodnocení rizik je živý základ AML systému: vzniká do 60 dnů, aktualizuje
 - [ ] Provázat závěry se systémem vnitřních zásad a nastavením kontroly klienta.
 
 **Typicky rozhodné důkazy / podklady:** verze písemného hodnocení rizik s daty, použité podklady (národní/nadnárodní hodnocení), produktové analýzy, zápisy o schválení, vazba na systém vnitřních zásad.
+
+
+<!-- LEGAL-REVISION:BEGIN id=0e76333caabc6bb0d970 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 21a — Hodnocení rizik
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Povinná osoba identifikuje a posoudí rizika legalizace výnosů z trestné činnosti a financování terorismu, která mohou nastat v rámci její činnosti podléhající působnosti tohoto zákona. Při posuzování rizik zohlední povinná osoba rovněž výsledky hodnocení rizik na úrovni České republiky, výsledky nadnárodního hodnocení rizik, faktory možného zvýšeného rizika, uvedené v příloze č. 2 k tomuto zákonu, další dostupné informace, které souvisí s těmito riziky ve vztahu k činnosti povinné osoby, a případně hodnocení rizik provedené příslušnou profesní komorou podle odstavce 4.
+>
+> (2) Povinná osoba uvedená v § 2 odst. 1 písm. a) až d) a h), pokud se na ni nevztahuje výjimka podle § 21 odst. 3 nebo [[#§ 4|4]], vypracuje nejpozději do 60 dnů ode dne, kdy se stala povinnou osobou, písemné hodnocení rizik legalizace výnosů z trestné činnosti a financování terorismu pro typy poskytovaných obchodů a obchodních vztahů, a to v rozsahu, ve kterém provádí činnosti podléhající působnosti tohoto zákona. Zohlední v něm rizikové faktory, zejména typ klienta, účel, pravidelnost a délku trvání obchodního vztahu nebo obchodu mimo obchodní vztah, typ produktu, hodnotu a způsob uskutečnění obchodu a rizikovost zemí nebo zeměpisných oblastí, k nimž se obchody vztahují.
+>
+> (3) Povinná osoba hodnocení rizik podle odstavce 2 pravidelně aktualizuje, a to zejména před zahájením poskytování nových produktů a před zahájením využívání nových technologií, které mohou mít vliv na řízení rizik legalizace výnosů z trestné činnosti a financování terorismu.
+>
+> (4) Příslušná profesní komora písemně identifikuje a posoudí rizika legalizace výnosů z trestné činnosti a financování terorismu, která mohou nastat v rámci činnosti jejích členů, a toto písemné hodnocení rizik zpřístupní svým členům. Při posuzování rizik zohlední výsledky hodnocení rizik na úrovni České republiky, výsledky nadnárodního hodnocení rizik, faktory možného zvýšeného rizika podle přílohy č. 2 k tomuto zákonu a další dostupné informace, které souvisí s těmito riziky ve vztahu k činnosti jejích členů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2, § 21, § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=0e76333caabc6bb0d970 -->
 
 ### § 22 — Školení
 
@@ -2124,6 +4138,72 @@ Kontaktní osoba je operativní most k FAÚ: nezávislá na obchodu a auditu, do
 
 **Typicky rozhodné důkazy / podklady:** jmenovací listina, datové zprávy FAÚ, organizační schéma, popis pozice, doklad o zastupitelnosti.
 
+
+<!-- LEGAL-REVISION:BEGIN id=3ba3e58caf509c3e775b generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 22 — Kontaktní osoba
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Povinná osoba určí konkrétního zaměstnance nebo člena statutárního orgánu k plnění oznamovací povinnosti podle [[#§ 18|§ 18]] a k zajišťování průběžného styku s Úřadem v provozní době povinné osoby a v době, kdy uskutečňuje povinná osoba obchody. Pokud je povinná osoba fyzickou osobou a je to opodstatněno rozsahem její činnosti, určí jako kontaktní osobu sama sebe.
+>
+> (2) Povinná osoba s výjimkou povinné osoby podle § 2 odst. 1 písm. g) informuje Úřad prostřednictvím datové schránky do 30 dnů ode dne, kdy se stala povinnou osobou, nebo do 15 dnů ode dne, kdy došlo ke změnám v údajích podléhajících informační povinnosti, o
+>
+> - a) jménu kontaktní osoby,
+>
+> - b) pracovním zařazení kontaktní osoby,
+>
+> - c) údajích pro spojení včetně telefonického a elektronického,
+>
+> - d) době, kdy lze tuto osobu kontaktovat,
+>
+> - e) tom, o jaký druh povinné osoby podle § 2 odst. 1 se jedná, s uvedením typu povinné osoby.
+>
+> (3) Ministerstvo financí stanoví vyhláškou formát a strukturu podání podle odstavce 2.
+>
+> (4) Člen statutárního orgánu úvěrové nebo finanční instituce nesmí být kontaktní osobou, ledaže by to bylo opodstatněno rozsahem a povahou činnosti povinné osoby.
+>
+> (5) Kontaktní osobou úvěrové nebo finanční instituce nesmí být zaměstnanec, který je odpovědný za uzavírání nebo vypořádávání jejích obchodů, anebo je osobou podílející se na výkonu vnitřního auditu, ledaže by to bylo opodstatněno rozsahem a povahou činnosti povinné osoby.
+>
+> (6) Nezajišťuje-li činnosti kontaktní osoby člen statutárního orgánu, povinná osoba zajistí kontaktní osobě možnost přímé komunikace s členem statutárního a dozorčího orgánu povinné osoby.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 18, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3ba3e58caf509c3e775b -->
+
 ### § 22a — Anonymní oznamování (whistleblowing)
 
 > **§ 22a**
@@ -2173,6 +4253,56 @@ Každá povinná osoba s kolektivním statutárním orgánem musí mít do 60 dn
 - [ ] Dokumentovat dohled zbývajících členů orgánu (zápisy, pravidelné reporty).
 
 **Typicky rozhodné důkazy / podklady:** pověřovací listina, zápisy ze zasedání orgánu, organizační řád, reporty pověřeného člena statutárnímu orgánu.
+
+
+<!-- LEGAL-REVISION:BEGIN id=ebbe3ce027a05619ae6b generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 22a — Pověřená osoba
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Povinná osoba písemně pověří člena svého statutárního orgánu zajištěním plnění povinností vyplývajících z tohoto zákona.
+>
+> (2) K pověření podle odstavce 1 dojde do 60 dnů ode dne, kdy se tato osoba stala povinnou osobou, nebo ode dne, kdy zaniklo členství osoby pověřené podle odstavce 1 ve statutárním orgánu.
+>
+> (3) Pokud má povinná osoba pouze jednoho člena statutárního orgánu, platí, že byl pověřen podle odstavce 1.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ebbe3ce027a05619ae6b -->
 
 ### § 23 — Identifikační údaje při převodech peněz
 
@@ -2225,6 +4355,58 @@ Každá povinná osoba s kolektivním statutárním orgánem musí mít do 60 dn
 - [ ] Vést evidenci účasti a obsahu nejméně 5 let (odst. 4).
 
 **Typicky rozhodné důkazy / podklady:** osnovy a materiály školení, prezenční listiny či certifikáty e-learningu, evidence dat konání, smlouvy s externisty, vazba na systém vnitřních zásad.
+
+
+<!-- LEGAL-REVISION:BEGIN id=cd1cca1048f3b5811930 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 23 — Školení zaměstnanců
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Povinná osoba zajistí nejméně jedenkrát v průběhu 12 kalendářních měsíců proškolení zaměstnanců, kteří se mohou při výkonu své pracovní činnosti setkat s podezřelými obchody, a proškolení všech zaměstnanců před zařazením na takováto pracovní místa.
+>
+> (2) Školení podle odstavce 1 povinná osoba zajistí také pro osoby, které se na předmětu činnosti povinné osoby podílejí jinak než v základním pracovněprávním vztahu, pokud se tyto osoby mohou při výkonu své činnosti setkat s podezřelými obchody.
+>
+> (3) Obsahem školení je zejména typologie a znaky podezřelých obchodů, požadavky stanovené povinnou osobou pro provádění identifikace a kontroly klienta a postupy pro zjišťování rizikových faktorů klienta a postupy při zjištění podezřelého obchodu. Povinná osoba obsah školení průběžně doplňuje a aktualizuje.
+>
+> (4) Povinná osoba vede evidenci o účasti a obsahu školení, a to nejméně po dobu 5 let od jejich konání.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=cd1cca1048f3b5811930 -->
 
 ### § 24 — Informační povinnost
 
@@ -2280,6 +4462,60 @@ Pokynům FAÚ podle § 24 se vyhovuje vždy, včas a mlčky vůči klientovi; te
 
 **Typicky rozhodné důkazy / podklady:** pokyn FAÚ a odpověď s přílohami, výstupy vyhledávacího systému, KYC a transakční dokumentace, záznam o utajení vůči klientovi.
 
+
+<!-- LEGAL-REVISION:BEGIN id=e4bb69ee84e0c8b62534 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 24 — Informační povinnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Povinná osoba na pokyn Úřadu v jím stanovené lhůtě sdělí údaje o obchodních vztazích a o obchodech souvisejících s povinností identifikace nebo ohledně nichž Úřad provádí šetření, předloží doklady o těchto obchodech nebo k nim umožní přístup pověřeným zaměstnancům Úřadu při prověřování oznámení a výkonu správního dozoru a poskytne informace o osobách, které se jakýmkoliv způsobem účastnily takových obchodů.
+>
+> (2) Povinná osoba poskytne klientovi před navázáním obchodního vztahu nebo provedením obchodu mimo obchodní vztah informace o zpracování osobních údajů požadované podle právních předpisů upravujících ochranu a zpracování osobních údajů31), včetně obecného upozornění na povinnost zpracovávat osobní údaje pro účely předcházení legalizaci výnosů z trestné činnosti a financování terorismu.
+>
+> (3) Povinná osoba na pokyn Úřadu v jím stanovené lhůtě sdělí informaci, zda udržuje nebo v předchozích 10 letech udržovala obchodní vztah s konkrétní osobou, vůči níž měla povinnost identifikace, a o povaze tohoto vztahu. K tomuto účelu zavede povinná osoba účinný systém odpovídající rozsahu a povaze její podnikatelské činnosti.
+>
+> (4) Povinná osoba na pokyn dozorčího úřadu podle § 35 odst. 1 v jím stanovené lhůtě sdělí informaci potřebnou k tomu, aby správní dozor mohl být vykonáván způsobem podle § 35 odst. 7.
+>
+> (5) Povinná osoba na pokyn Úřadu v jím stanovené lhůtě sdělí informaci potřebnou pro strategickou finanční analýzu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 35
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e4bb69ee84e0c8b62534 -->
+
 ### § 24a — Informační povinnost vůči orgánům činným v trestním řízení
 
 > **§ 24a**
@@ -2331,6 +4567,56 @@ Skupina nese své AML standardy všude, kam sahá: ve třetích zemích alespoň
 **Typicky rozhodné důkazy / podklady:** právní analýzy práva třetí země, notifikace FAÚ, skupinové politiky, dokumentace doplňkových opatření, korespondence s dozorčím úřadem.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=7ea6d80015127401679b generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 24a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Povinná osoba ve svých pobočkách, provozovnách a dceřiných obchodních korporacích působících ve třetí zemi uplatňuje opatření proti legalizaci výnosů z trestné činnosti a financování terorismu, která jsou alespoň rovnocenná požadavkům práva Evropské unie1). Za tím účelem jim předává relevantní informace o uplatňovaných metodách a postupech, a to v rozsahu, který právo daného státu umožňuje.
+>
+> (2) Povinná osoba, která má pobočku, provozovnu nebo dceřinou obchodní korporaci ve třetí zemi, jejíž právní předpisy nedovolují uplatňování rovnocenných opatření podle odstavce 1, o tom informuje Úřad a přijme odpovídající doplňková opatření k účinnému zvládání rizika zneužití pro legalizaci výnosů z trestné činnosti nebo financování terorismu a zabránění přenosu těchto rizik na území České republiky, jiného členského státu Evropské unie nebo státu tvořícího Evropský hospodářský prostor. Pokud tato opatření nebudou dostatečná, může dozorčí úřad povinné osobě na základě nedostatků zjištěných při kontrole uložit opatření k jejich nápravě a určit přiměřenou lhůtu k jejich odstranění. Opatření k nápravě mohou zahrnovat požadavek, aby pobočka, provozovna nebo dceřiná obchodní korporace povinné osoby nenavazovaly nebo ukončily obchodní vztahy v této třetí zemi nebo aby neuskutečňovaly obchody související s touto třetí zemí, případně aby zcela ukončily působení v této třetí zemi. Povinná osoba, které bylo uloženo opatření k nápravě, informuje dozorčí úřad o odstranění nedostatku bez zbytečného odkladu poté, kdy byl nedostatek odstraněn, nejpozději však do 10 dnů po uplynutí určené lhůty.
+>
+> (3) Povinná osoba, která má pobočku nebo provozovnu v jiném členském státě Evropské unie nebo ve státě tvořícím Evropský hospodářský prostor, zajistí, že tato pobočka nebo provozovna dodržuje vnitrostátní předpisy v oblasti boje proti legalizaci výnosů z trestné činnosti a financování terorismu tohoto jiného členského státu Evropské unie nebo státu tvořícího Evropský hospodářský prostor.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7ea6d80015127401679b -->
 
 ### ZVLÁŠTNÍ USTANOVENÍ O NĚKTERÝCH POVINNÝCH OSOBÁCH
 
@@ -2410,6 +4696,82 @@ Korespondenční bankovnictví stojí na „know your customer's customer": žá
 
 **Typicky rozhodné důkazy / podklady:** AML dotazníky respondenta, licenční a dohledové dokumenty, zápis o souhlasu statutárního orgánu, záznamy periodických revizí, sankční a mediální screening.
 
+
+<!-- LEGAL-REVISION:BEGIN id=92e3516d747af4e78f10 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 25 — Zvláštní ustanovení o úvěrových a finančních institucích
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Úvěrová nebo finanční instituce nesmí vstoupit do korespondenčního vztahu se zahraniční úvěrovou, finanční nebo obdobnou institucí (dále jen „respondenční instituce“),
+>
+> - a) která je zapsána do obchodního nebo obdobného rejstříku v zemi, v níž není fyzicky přítomna ani se zde nenachází její skutečné vedení, a která není přičleněna k žádné regulované finanční skupině,
+>
+> - b) o níž je jí známo, že umožňuje využívání svých účtů institucí uvedenou v písmenu a), nebo
+>
+> - c) která neuplatňuje opatření proti legalizaci výnosů z trestné činnosti a financování terorismu alespoň rovnocenná požadavkům práva Evropské unie1),
+>
+> a pokud již do takového vztahu vstoupila, musí jej ukončit v době co nejkratší.
+>
+> (2) Úvěrová nebo finanční instituce před navázáním korespondenčního vztahu s respondenční institucí
+>
+> - a) shromáždí dostatek informací o respondenční instituci a povaze jejího podnikání a dalších rizikových faktorech,
+>
+> - b) z veřejně dostupných informací zjistí, jaká je kvalita dohledu, kterému respondenční instituce podléhá, a zda vůči ní nebylo vedeno šetření nebo řízení v souvislosti s porušením opatření proti legalizaci výnosů z trestné činnosti a financování terorismu,
+>
+> - c) zjistí a zhodnotí opatření prováděná respondenční institucí proti legalizaci výnosů z trestné činnosti a financování terorismu, včetně způsobu a kvality provádění identifikace a kontroly klienta a schopnosti poskytnout tyto informace na vyžádání, a to zejména ve vztahu k průběžným účtům, jakož i schopnosti poskytování informací o plátci a příjemci při převodech peněžních prostředků,
+>
+> - d) určí a zaznamená rozdělení povinností a odpovědnosti souvisejících s korespondenčním vztahem z hlediska uplatňování opatření proti legalizaci výnosů z trestné činnosti a financování terorismu mezi touto úvěrovou nebo finanční institucí a respondenční institucí.
+>
+> (3) K navázání korespondenčního vztahu musí vydat souhlas statutární orgán úvěrové nebo finanční instituce nebo vedoucí pobočky zahraniční úvěrové nebo finanční instituce působící na území České republiky.
+>
+> (4) Úvěrová nebo finanční instituce průběžně aktualizuje informace získané podle odstavce 2. Představuje-li korespondenční vztah zvýšené riziko legalizace výnosů z trestné činnosti nebo financování terorismu, upraví úvěrová nebo finanční instituce jeho podmínky anebo ho ukončí.
+>
+> (5) Práva a povinnosti, které tento zákon stanoví pro úvěrové instituce, se vztahují i na Českou národní banku při vedení účtů a poskytování dalších bankovních služeb.
+>
+> (6) K postoupení plnění ze životního pojištění na politicky exponovanou osobu, u které je zjištěno zvýšené riziko zneužití pro legalizaci výnosů z trestné činnosti nebo financování terorismu, musí vydat souhlas statutární orgán příslušné pojišťovny nebo zaměstnanec jím pověřený k řízení v oblasti opatření proti legalizaci výnosů z trestné činnosti a financování terorismu, který je dostatečně obeznámen s riziky v této oblasti a který má dostatečné postavení k tomu, aby přijímal rozhodnutí k řízení těchto rizik.
+>
+> (7) Úvěrová instituce nebo pojišťovna při provádění opatření ke zjištění původu majetku klienta, který je politicky exponovanou osobou a veřejným funkcionářem podle zákona upravujícího střet zájmů, přednostně využije údaje z oznámení o majetku, který vlastní ke dni předcházejícímu dni zahájení výkonu funkce, a majetku nabytém v průběhu výkonu funkce podle zákona upravujícího střet zájmů a oznámení o příjmech, darech a závazcích podle zákona upravujícího střet zájmů v registru oznámení o činnostech, oznámení o majetku a oznámení o příjmech a závazcích podle zákona upravujícího střet zájmů (dále jen „registr oznámení“).
+>
+> (8) Úvěrová instituce a finanční instituce podle § 2 odst. 1 písm. b) bodů 5 a [[#§ 14|14]] při postupu podle § 8 odst. 2 pořídí kopii využitého průkazu totožnosti. Je-li při postupu podle § 8 odst. 2 použit digitální stejnopis průkazu, úvěrová instituce a finanční instituce podle § 2 odst. 1 písm. b) bodů 5 a [[#§ 14|14]] získá elektronický dokument, který obsahuje údaje uvedené v digitálním stejnopisu průkazu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2, § 14, § 8
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=92e3516d747af4e78f10 -->
+
 ### § 25a — Pobočky a dceřiné společnosti v třetích zemích
 
 > **§ 25a**
@@ -2465,6 +4827,62 @@ Přeshraniční platební a e-money sítě s provozovnami v ČR musí při přek
 - [ ] Sledovat trvání podmínek; při jejich odpadnutí iniciovat zrušení rozhodnutí (odst. 3).
 
 **Typicky rozhodné důkazy / podklady:** statistiky transakcí a provozoven, doklad o určení kontaktního místa, komunikace s ČNB a FAÚ, jednotný systém vnitřních zásad sítě.
+
+
+<!-- LEGAL-REVISION:BEGIN id=d5009b87992dc7974ade generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 25a — Zvláštní ustanovení o zahraničních poskytovatelích platebních služeb
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Povinná osoba, která je zahraniční právnickou nebo fyzickou osobou oprávněnou k poskytování platebních služeb nebo vydávání elektronických peněz a která na území České republiky působí prostřednictvím provozovny, má povinnost určit ústřední kontaktní místo, pokud
+>
+> - a) je splněna alespoň jedna z podmínek pro jeho určení podle přímo použitelného předpisu Evropské unie upravujícího regulační technické normy týkající se kritérií pro určení ústředních kontaktních míst vydavatelů elektronických peněz a poskytovatelů platebních služeb a pravidel pro činnost těchto ústředních kontaktních míst42) nebo
+>
+> - b) tak rozhodne Česká národní banka na základě skutečnosti, že některá z provozoven povinné osoby představuje zvýšené riziko zneužití pro legalizaci výnosů z trestné činnosti nebo financování terorismu a stanovení této povinnosti je přiměřené riziku, které představují tyto povinné osoby nebo jejich provozovny.
+>
+> (2) Pokud jsou podmínky pro vydání rozhodnutí podle odstavce 1 písm. b) splněny u druhově určených osob, může Česká národní banka vydat namísto rozhodnutí opatření obecné povahy.
+>
+> (3) Přestanou-li být plněny podmínky, na základě kterých byly rozhodnutí nebo opatření obecné povahy vydány, Česká národní banka rozhodnutí nebo opatření obecné povahy zruší.
+>
+> (4) Činnost ústředních kontaktních míst povinné osoby vykonávají v rozsahu činností podle čl. 4 a čl. 6 odst. 1 přímo použitelného předpisu podle odstavce 1 písm. a).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d5009b87992dc7974ade -->
 
 ### § 25b — Anonymní účty
 
@@ -2534,6 +4952,74 @@ Poskytovatel služeb spojených s virtuálními aktivy musí mít nehostované a
 
 **Typicky rozhodné důkazy / podklady:** hodnocení rizik, výstupy blockchainové analytiky, záznamy ověření adres, licenční dokumentace partnerů, záznamy o ukončení vztahů.
 
+
+<!-- LEGAL-REVISION:BEGIN id=b679c5446105e27f4ae4 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 25b — Zvláštní ustanovení o poskytovatelích služeb spojených s virtuálními aktivy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Poskytovatel služeb spojených s virtuálními aktivy při hodnocení rizik podle § 21a odst. 1 vždy posoudí rizika legalizace výnosů z trestné činnosti a financování terorismu, která mohou nastat při převodu virtuálního aktiva na nehostovanou adresu nebo z nehostované adresy.
+>
+> (2) Při zesílené identifikaci a kontrole klienta poskytovatel služeb spojených s virtuálními aktivy získá v rozsahu potřebném k účinnému řízení zjištěného rizika také další dokumenty nebo informace o identifikačních údajích
+>
+> - a) původce nebo příjemce převodu virtuálního aktiva provedeného na nehostovanou adresu nebo z nehostované adresy, nebo
+>
+> - b) skutečného majitele původce nebo příjemce virtuálního aktiva podle písmene a).
+>
+> (3) Poskytovatel služeb spojených s virtuálními aktivy před navázáním korespondenčního vztahu s osobou, která není usazena v členském státě Evropské unie a poskytuje obdobné služby jako poskytovatel služeb spojených s virtuálními aktivy (dále jen „zahraniční poskytovatel služeb spojených s virtuálními aktivy“), je nad rámec § 25 odst. 2 povinen zjistit, zda
+>
+> - a) je zahraniční poskytovatel služeb spojených s virtuálními aktivy licencovaný nebo registrovaný, a
+>
+> - b) tento zahraniční poskytovatel služeb spojených s virtuálními aktivy s ohledem na průběžné korespondenční účty virtuálních aktiv
+>
+> - 1. provádí identifikaci a kontrolu klientů majících přímý přístup k účtům zahraničního poskytovatele služeb spojených s virtuálními aktivy a
+>
+> - 2. je na vyžádání schopen poskytnout relevantní údaje získané při identifikaci a kontrole klienta.
+>
+> (4) Poskytovatel služeb spojených s virtuálními aktivy aktualizuje informace získané v rámci kontroly zahraničního poskytovatele služeb spojených s virtuálními aktivy také, pokud zjistí nové riziko související s tímto zahraničním poskytovatelem služeb spojených s virtuálními aktivy.
+>
+> (5) Ukončí-li poskytovatel služeb spojených s virtuálními aktivy korespondenční vztah se zahraničním poskytovatelem služeb spojených s virtuálními aktivy podle § 25 odst. 4, zaznamená všechny okolnosti týkající se tohoto rozhodnutí.
+>
+> (6) Poskytovatel služeb spojených s virtuálními aktivy, který je usazen v jiném členském státě Evropské unie a který na území České republiky působí prostřednictvím provozovny, má povinnost určit ústřední kontaktní místo. Ustanovení [[#§ 25a|§ 25a]] se na činnost ústředního kontaktního místa použije obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21a, § 25, § 25a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b679c5446105e27f4ae4 -->
+
 ### § 26 — Sázkové, herní a kasinové činnosti
 
 > **§ 26**
@@ -2593,6 +5079,66 @@ Auditor, soudní exekutor a daňový poradce oznamují podezřelé obchody přes
 - [ ] Výzvy podle § 24 odst. 4 a 5 plnit jen prostřednictvím komory (odst. 5).
 
 **Typicky rozhodné důkazy / podklady:** spis o zastupování, zadání služby klientem, oznámení komoře a doklad o předání FAÚ, roční přehledy komory.
+
+
+<!-- LEGAL-REVISION:BEGIN id=11c2f449ddc2b5b56c5c generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 26 — Zvláštní ustanovení o auditorech, soudních exekutorech a daňových poradcích
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Ustanovení [[#§ 15a|§ 15a]], § 18 odst. 1 a § 24 odst. 1, [[#§ 3|3]], [[#§ 4|4]] a [[#§ 5|5]] a oprávnění Úřadu při správním dozoru nad plněním povinností stanovených tímto zákonem nebo v rámci řízení o přestupku požadovat poskytnutí informací se nevztahují na auditora, soudního exekutora nebo daňového poradce, pokud jde o informace, které získá od svého klienta nebo které získá o svém klientovi během zjišťování jeho právního postavení, během jeho zastupování v soudním řízení anebo v souvislosti s takovým řízením, včetně poradenství ohledně zahájení takového řízení nebo vyhnutí se takovému řízení, bez ohledu na to, zda jsou takové informace získány před tímto řízením, během něj nebo po něm.
+>
+> (2) Má-li auditor, soudní exekutor nebo daňový poradce za to, že klient žádá o právní poradenství za účelem legalizace výnosů z trestné činnosti nebo za účelem financování terorismu, odstavec 1 se nepoužije.
+>
+> (3) Oznámení podle [[#§ 18|§ 18]] učiní
+>
+> - a) auditor Komoře auditorů České republiky,
+>
+> - b) soudní exekutor Exekutorské komoře České republiky,
+>
+> - c) daňový poradce Komoře daňových poradců České republiky.
+>
+> (4) Příslušná profesní komora oznámení přijaté podle odstavce 3 přezkoumá z hlediska, zda není v rozporu s odstavcem 1 nebo s § 18 odst. 1 a zda má všechny náležitosti stanovené tímto zákonem. Pokud oznámení náležitosti stanovené tímto zákonem nemá, příslušná profesní komora na to oznamovatele upozorní. Splňuje-li oznámení podmínky uvedené ve větě první, příslušná profesní komora postupuje tak, aby je předala Úřadu bez zbytečného odkladu, nejpozději do 7 kalendářních dnů ode dne zjištění podezřelého obchodu. Příslušná profesní komora předkládá Úřadu do konce prvního kalendářního měsíce následujícího po skončení kalendářního roku přehled o počtu oznámení o podezřelých obchodech, která v daném kalendářním roce obdržela, a počtu oznámení, která předala Úřadu. Tento přehled příslušná profesní komora ve stejné lhůtě zveřejní způsobem umožňujícím dálkový přístup.
+>
+> (5) Sdělení informace podle § 24 odst. 4 a [[#§ 5|5]] vyžaduje Úřad po auditorovi, soudním exekutorovi nebo daňovém poradci prostřednictvím příslušné profesní komory. Auditor, soudní exekutor nebo daňový poradce sdělí Úřadu ve lhůtě jím stanovené požadované informace prostřednictvím příslušné profesní komory.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 15a, § 18, § 24, § 3, § 4, § 5
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=11c2f449ddc2b5b56c5c -->
 
 ### § 27 — Advokáti, notáři, daňoví poradci
 
@@ -2664,6 +5210,72 @@ Advokát a notář plní AML povinnosti jen v gatekeeper činnostech a vždy př
 
 **Typicky rozhodné důkazy / podklady:** smlouva o úschově a pokyny klienta, oddělené spisy (úschova vs. obhajoba), oznámení komoře a doklad o předání FAÚ, korespondence s FAÚ a komorou.
 
+
+<!-- LEGAL-REVISION:BEGIN id=7a3cb00fee3667cfaf29 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 27 — Zvláštní ustanovení o advokátech a notářích
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Ustanovení [[#§ 9|§ 9]], [[#§ 15a|§ 15a]], § 18 odst. 1 a § 24 odst. 1, [[#§ 3|3]], [[#§ 4|4]] a [[#§ 5|5]] a oprávnění Úřadu při správním dozoru nad plněním povinností stanovených tímto zákonem nebo v rámci řízení o přestupku požadovat poskytnutí informací se nepoužijí u advokáta, pokud jde o informace o klientovi, které získal od klienta nebo jakýmkoliv jiným způsobem během nebo v souvislosti s
+>
+> - a) poskytováním právních porad nebo následným ověřováním právního postavení klienta,
+>
+> - b) obhajobou klienta v trestním řízení,
+>
+> - c) zastupováním klienta v řízení před soudy, nebo
+>
+> - d) poskytováním jakýchkoliv právních porad týkajících se řízení uvedených v písmenech b) a c), a to bez ohledu na to, zda tato řízení již byla zahájena či nikoliv nebo zda již byla ukončena.
+>
+> (2) Ustanovení [[#§ 9|§ 9]], [[#§ 15a|§ 15a]], § 18 odst. 1 a § 24 odst. 1, [[#§ 3|3]], [[#§ 4|4]] a [[#§ 5|5]] a oprávnění Úřadu při správním dozoru nad plněním povinností stanovených tímto zákonem nebo v rámci řízení o přestupku požadovat poskytnutí informací se nepoužijí u notáře, pokud jde o informace o klientovi, které získal od klienta nebo jakýmkoliv jiným způsobem během nebo v souvislosti s
+>
+> - a) poskytováním právních porad nebo následným ověřováním právního postavení klienta22),
+>
+> - b) zastupováním klienta v řízení před soudy v rozsahu svého oprávnění stanoveného jiným právním předpisem23), nebo
+>
+> - c) poskytováním jakýchkoliv právních porad týkajících se řízení uvedených v písmenu b), a to bez ohledu na to, zda tato řízení již byla zahájena či nikoliv nebo zda již byla ukončena.
+>
+> (3) Oznámení podle [[#§ 18|§ 18]] učiní advokát České advokátní komoře a notář Notářské komoře České republiky. Příslušná profesní komora oznámení advokáta nebo notáře přezkoumá z hlediska, zda není v rozporu s odstavcem 1 nebo [[#§ 2|2]], § 2 odst. 1 písm. g) anebo § 18 odst. 1 a zda má všechny náležitosti stanovené tímto zákonem. Pokud oznámení advokáta nebo notáře náležitosti stanovené tímto zákonem nemá, příslušná profesní komora na to advokáta nebo notáře upozorní. Splňuje-li oznámení advokáta nebo notáře podmínky uvedené ve větě první, postupuje příslušná profesní komora tak, aby je předala Úřadu bez zbytečného odkladu, nejpozději do 7 kalendářních dnů ode dne zjištění podezřelého obchodu. Příslušná profesní komora předkládá Úřadu do konce prvního kalendářního měsíce následujícího po skončení kalendářního roku přehled o počtu oznámení o podezřelých obchodech, která v daném kalendářním roce obdržela, a počtu oznámení, která předala Úřadu. Tento přehled příslušná profesní komora ve stejné lhůtě zveřejní způsobem umožňujícím dálkový přístup.
+>
+> (4) Sdělení údajů, předložení dokladů nebo poskytnutí informací podle § 24 odst. 1, [[#§ 3|3]], [[#§ 4|4]] a [[#§ 5|5]] vyžaduje Úřad po advokátovi nebo notáři prostřednictvím příslušné profesní komory. Advokát nebo notář sdělí Úřadu ve lhůtě jím stanovené požadované údaje, předloží doklady nebo mu poskytne požadované informace prostřednictvím příslušné profesní komory.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 9, § 15a, § 18, § 24, § 3, § 4, § 5, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7a3cb00fee3667cfaf29 -->
+
 ### § 27a — Profesní komora jako kanál pro oznámení
 
 > **§ 27a**
@@ -2717,6 +5329,60 @@ Insolvenční a restrukturalizační správce má „odlehčený" AML režim: ž
 - [ ] Plnit výzvy podle § 24 odst. 1 a 3; zachovávat mlčenlivost (§ 38).
 
 **Typicky rozhodné důkazy / podklady:** soupis majetkové podstaty, převodní smlouvy a výpisy, oznámení podezřelého obchodu, korespondence s FAÚ, doklad o ohlášení kontaktní osoby.
+
+
+<!-- LEGAL-REVISION:BEGIN id=61934cbd26b501f83dad generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 27a — Zvláštní ustanovení o insolvenčních správcích a restrukturalizačních správcích
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> Povinná osoba podle § 2 odst. 1 písm. m) má pouze
+>
+> - a) povinnost podávat oznámení podezřelého obchodu podle [[#§ 18|§ 18]],
+>
+> - b) povinnost určit kontaktní osobu a informovat Úřad podle [[#§ 22|§ 22]],
+>
+> - c) informační povinnost podle § 24 odst. 1 a [[#§ 3|3]] a
+>
+> - d) povinnost mlčenlivosti podle [[#§ 38|§ 38]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2, § 18, § 22, § 24, § 3, § 38
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=61934cbd26b501f83dad -->
 
 ### § 28 — Soudní exekutor
 
@@ -2778,6 +5444,66 @@ Insolvenční a restrukturalizační správce má „odlehčený" AML režim: ž
 - [ ] Zachovávat mlčenlivost (§ 38).
 
 **Typicky rozhodné důkazy / podklady:** kupní a pokladní doklady, záznam o identifikaci, interní evidence obchodů a přepočtů, informace FAÚ o odmítnutí, oznámení podezřelého obchodu.
+
+
+<!-- LEGAL-REVISION:BEGIN id=769bb6eae54f37c36be6 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 28 — Zvláštní ustanovení o platbách v hotovosti a uměleckých dílech
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> Povinná osoba podle § 2 odst. 1 písm. i), s výjimkou provozovatele svobodného pásma, povinná osoba podle § 2 odst. 1 písm. n) a povinná osoba podle § 2 odst. 2 písm. c) a d), pokud se povinnou osobou stávají tehdy, jestliže uskutečňují obchod ve výši 10 000 EUR nebo vyšší, mají povinnost pouze
+>
+> - a) provést identifikaci klienta,
+>
+> - b) odmítnout uskutečnění obchodu podle [[#§ 15|§ 15]]; o této skutečnosti současně informuje Úřad,
+>
+> - c) provádět kontrolu klienta podle § 9 odst. 2,
+>
+> - d) uchovávat informace podle § 16 odst. 1 a [[#§ 2|2]],
+>
+> - e) podávat oznámení podezřelého obchodu podle [[#§ 18|§ 18]],
+>
+> - f) informační podle [[#§ 24|§ 24]],
+>
+> - g) mlčenlivosti podle [[#§ 38|§ 38]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2, § 15, § 9, § 16, § 18, § 24, § 38
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=769bb6eae54f37c36be6 -->
 
 ### § 29 — Insolvenční a restrukturalizační správce
 
@@ -2843,6 +5569,70 @@ Dodávat poukázané peněžní částky na základě poštovní smlouvy smí je
 
 **Typicky rozhodné důkazy / podklady:** výpisy z evidence Rejstříku trestů a zahraniční ekvivalenty, čestná prohlášení, doklady o vlastnické struktuře a skutečném majiteli, poštovní smlouva.
 
+
+<!-- LEGAL-REVISION:BEGIN id=fe4706e5f05c56a36f1c generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 29 — Zvláštní ustanovení o provozování peněžních poštovních služeb
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Vykonávat činnost na základě poštovní smlouvy a za podmínek stanovených zákonem [[o poštovních službách|o poštovních službách]], jejímž účelem je dodání poukázané peněžní částky, může pouze osoba, která je držitelem osvědčení o způsobilosti vydaného Úřadem. Osvědčení se vydává na žádost osoby, která hodlá tuto činnost vykonávat.
+>
+> (2) Úřad vydá osvědčení podle odstavce 1, pokud žadatel, osoba, která je společníkem žadatele, členem statutárního orgánu žadatele, osoba, která bude řídit podnikání žadatele, a skutečný majitel žadatele jsou osobami bezúhonnými.
+>
+> (3) Za bezúhonnou se pro účely tohoto zákona považuje osoba, která nebyla pravomocně odsouzena pro trestný čin spáchaný
+>
+> - a) úmyslně, nebo
+>
+> - b) z nedbalosti, jehož skutková podstata souvisí s předmětem podnikání,
+>
+> pokud se na ni nehledí, jako by nebyla odsouzena.
+>
+> (4) Bezúhonnost se prokazuje výpisem z evidence Rejstříku trestů ne starším než 1 měsíc. Dále se bezúhonnost prokazuje
+>
+> - a) u fyzické osoby s místem trvalého nebo jiného pobytu mimo území České republiky a u osoby, která se v posledních 5 letech nepřetržitě zdržovala mimo území České republiky po dobu delší než 3 měsíce, dokladem obdobným výpisu z evidence Rejstříku trestů ne starším než 3 měsíce, vydaným k tomu oprávněným orgánem státu trvalého nebo jiného pobytu této osoby a států, ve kterých se tato osoba v posledních 5 letech nepřetržitě zdržovala po dobu delší než 3 měsíce; pokud stát trvalého nebo jiného pobytu této osoby není totožný se státem, jehož je tato osoba občanem, též dokladem vydaným státem, jehož je občanem,
+>
+> - b) u právnické osoby se sídlem mimo území České republiky dokladem obdobným výpisu z evidence Rejstříku trestů ne starším než 3 měsíce, vydaným k tomu oprávněným orgánem státu sídla, nebo
+>
+> - c) čestným prohlášením o bezúhonnosti ve smyslu odstavce 3 ne starším než 3 měsíce, učiněným před správním nebo soudním orgánem příslušného státu, jestliže tento stát nevydává doklad uvedený v písmenech a) a b).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=fe4706e5f05c56a36f1c -->
+
 ### § 29a — Svěřenský správce
 
 > **§ 29a**
@@ -2905,6 +5695,68 @@ Národní správce rejstříku povolenek provádí plnou vstupní kontrolu klien
 
 **Typicky rozhodné důkazy / podklady:** žádost o otevření účtu a smlouva, doklady o skutečném majiteli a struktuře, záznam o kontrole klienta, oznámení podezřelého obchodu, interní předpisy a doklady o školení.
 
+
+<!-- LEGAL-REVISION:BEGIN id=3cb71ca0cb6b908bad05 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 29a — Zvláštní ustanovení o národním správci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Národní správce uchovává informace o osobách s účtem v Rejstříku obchodování s povolenkami na emise skleníkových plynů, včetně smlouvy a dokladů předložených k otevření účtu a informací spojených s kontrolou klienta po dobu 10 let od ukončení příslušného obchodního vztahu.
+>
+> (2) Národní správce dále
+>
+> - a) provádí kontrolu klienta podle [[#§ 9|§ 9]] v rozsahu odpovídajícím činnostem při zakládání účtu,
+>
+> - b) podává oznámení podezřelého obchodu podle [[#§ 18|§ 18]],
+>
+> - c) zavede a uplatňuje systém vnitřní kontroly a komunikace podle § 21 odst. 1,
+>
+> - d) určí kontaktní osobu podle [[#§ 22|§ 22]],
+>
+> - e) provádí školení zaměstnanců podle [[#§ 23|§ 23]],
+>
+> - f) plní informační povinnost podle [[#§ 24|§ 24]],
+>
+> - g) dodržuje povinnost mlčenlivosti podle [[#§ 38|§ 38]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 9, § 18, § 21, § 22, § 23, § 24, § 38
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=3cb71ca0cb6b908bad05 -->
+
 ### § 29b — Národní správce rejstříku povolenek
 
 > **§ 29b**
@@ -2954,6 +5806,56 @@ Zahraniční podnikatel působící v ČR bez pobočky má z AML zákona jen dv�
 - [ ] Při vzniku usazení přejít do plného režimu podle § 2 odst. 2 písm. a).
 
 **Typicky rozhodné důkazy / podklady:** doklady o formě a stálosti působení v ČR, výzva FAÚ a odpověď, obchodní dokumentace k dotčenému obchodu.
+
+
+<!-- LEGAL-REVISION:BEGIN id=95b397fdbe5f4cdf25b8 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 29b — Zvláštní ustanovení o přeshraničních poskytovatelích služeb
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> Povinná osoba podle § 2 odst. 2 písm. b) má pouze
+>
+> - a) informační povinnost podle § 24 odst. 1 a
+>
+> - b) povinnost mlčenlivosti podle [[#§ 38|§ 38]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2, § 24, § 38
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=95b397fdbe5f4cdf25b8 -->
 
 ### Povolení k poskytování služeb spojených s virtuálním aktivem
 
@@ -3028,6 +5930,78 @@ Kdo chce soustavně a výdělečně poskytovat služby s virtuálními aktivy mi
 - [ ] Průběžně hlídat trvání podmínek (odst. 5) a změny hlásit podle § 29bj.
 
 **Typicky rozhodné důkazy / podklady:** výpisy z RT, potvrzení o bezdlužnosti, doklad o složení jistoty, systém vnitřních zásad, obchodní plán, doklady o skutečném majiteli.
+
+
+<!-- LEGAL-REVISION:BEGIN id=5e900e81c2817d8aac8c generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 29ba — Podmínky poskytování služeb spojených s virtuálním aktivem
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Osoba může poskytovat služby spojené s virtuálním aktivem, které nepodléhají povolení podle jiného právního předpisu, soustavně, samostatně, na vlastní účet a odpovědnost a za účelem dosažení zisku, pokud je
+>
+> - a) držitelem povolení k poskytování služeb spojených s virtuálním aktivem (dále jen „povolení“), nebo
+>
+> - b) poskytovatelem služeb souvisejících s kryptoaktivy podle přímo použitelného předpisu Evropské unie upravujícího trhy kryptoaktiv48).
+>
+> (2) Povolení vydává Úřad na žádost do 120 dnů ode dne jejího podání, pokud
+>
+> - a) žadatel splňuje podmínku spolehlivosti,
+>
+> - b) žadatel splňuje podmínku bezdlužnosti,
+>
+> - c) žadatel poskytne Úřadu jistotu ve výši 250 000 Kč,
+>
+> - d) nemá pochybnosti o správnosti informací a dokumentů zaslaných podle § 29bb odst. 1 a [[#§ 4|4]] nebo [[#§ 29bg|§ 29bg]].
+>
+> (3) Za spolehlivou se pro účely vydání povolení považuje osoba,
+>
+> - a) která nebyla pravomocně odsouzena pro trestný čin proti majetku nebo pro trestný čin hospodářský, anebo se na ni hledí, jako by nebyla odsouzena,
+>
+> - b) která v posledních 3 letech neporušila závažným způsobem daňové předpisy, tento zákon, zákon upravující evidenci skutečných majitelů, zákon upravující omezení plateb v hotovosti nebo zákon upravující provádění mezinárodních sankcí a
+>
+> - c) u které, pokud je právnickou osobou, osoby, které jsou jejím skutečným majitelem nebo které jsou v ní statutárním orgánem nebo členem statutárního orgánu, splňují podmínky podle písmen a) a b).
+>
+> (4) Pokud právnická osoba závažným způsobem porušila tento zákon, zákon upravující evidenci skutečných majitelů, zákon upravující omezení plateb v hotovosti nebo zákon upravující provádění mezinárodních sankcí, hledí se pro účely posouzení splnění podmínky spolehlivosti pro vydání povolení na osobu, která byla v době tohoto porušení skutečným majitelem této právnické osoby, a na osobu, která byla v této právnické osobě statutárním orgánem nebo členem statutárního orgánu, jako by je tyto osoby také porušily.
+>
+> (5) Podmínky spolehlivosti a bezdlužnosti musí být splňovány po celou dobu trvání povolení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 29bb, § 4, § 29bg
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5e900e81c2817d8aac8c -->
 
 ### § 29bb — Žádost o povolení
 
@@ -3115,6 +6089,92 @@ Kdo chce soustavně a výdělečně poskytovat služby s virtuálními aktivy mi
 
 **Typicky rozhodné důkazy / podklady:** žádost s přílohami, doklad o poplatku, systém vnitřních zásad, popis technologických prostředků a zabezpečení, výzvy FAÚ a doplnění.
 
+
+<!-- LEGAL-REVISION:BEGIN id=21e74a9c19c2d62bfdcd generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 29bb — Žádost o povolení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Žádost o vydání povolení vedle obecných náležitostí stanovených správním řádem obsahuje
+>
+> - a) informaci o
+>
+> - 1. rozsahu činnosti v oblasti poskytování služeb spojených s virtuálním aktivem,
+>
+> - 2. státu, ve kterém bude činnost v oblasti poskytování služeb spojených s virtuálním aktivem vykonávána,
+>
+> - 3. všech internetových stránkách, které budou využívány pro činnost v oblasti poskytování služeb spojených s virtuálním aktivem,
+>
+> - 4. všech platebních účtech, které budou využívány pro činnost v oblasti poskytování služeb spojených s virtuálním aktivem,
+>
+> - b) identifikační údaje kontaktní osoby a
+>
+> - c) v případě, kdy je žadatel právnickou osobou, identifikační údaje
+>
+> - 1. statutárního orgánu nebo osoby zastupující právnickou osobu ve statutárním orgánu žadatele,
+>
+> - 2. pověřené osoby a
+>
+> - 3. skutečného majitele žadatele.
+>
+> (2) Žádost o vydání povolení se podává Úřadu prostřednictvím datové schránky ve stanoveném formátu a struktuře.
+>
+> (3) Ministerstvo financí stanoví vyhláškou formát a strukturu žádosti podle odstavce 2.
+>
+> (4) K žádosti o vydání povolení žadatel dále přiloží
+>
+> - a) dokumenty prokazující spolehlivost,
+>
+> - b) potvrzení prokazující bezdlužnost,
+>
+> - c) potvrzení prokazující zaplacení správního poplatku za žádost o povolení,
+>
+> - d) systém vnitřních zásad podle § 21 odst. 2 a
+>
+> - e) popis
+>
+> - 1. technologických a organizačních prostředků používaných k poskytování služeb spojených s virtuálním aktivem a popis bezpečnostních opatření k ochraně prostředků klienta v souvislosti s poskytováním těchto služeb a
+>
+> - 2. obchodního plánu žadatele, včetně informací o poskytovaných službách.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=21e74a9c19c2d62bfdcd -->
+
 ### § 29bc — Rozhodnutí o povolení
 
 > **§ 29bc**
@@ -3170,6 +6230,62 @@ U každé posuzované osoby se zahraniční stopou je třeba zmapovat státy př
 - [ ] U států nevydávajících doklad připravit čestné prohlášení (odst. 4) a doložit nemožnost jeho získání.
 
 **Typicky rozhodné důkazy / podklady:** zahraniční výpisy z trestních evidencí, úřední překlady, čestná prohlášení, doklady o pobytech (víza, pracovní smlouvy, potvrzení o pobytu).
+
+
+<!-- LEGAL-REVISION:BEGIN id=4caf3a7c07d9b2242f76 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 29bc — Prokazování spolehlivosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Pokud je osoba, která musí splňovat podmínku spolehlivosti pro vydání povolení, cizincem, nebo právnickou osobou, která nemá sídlo na území České republiky, připojí žadatel k žádosti o povolení také výpis z evidence trestů nebo rovnocenný doklad vydaný státem,
+>
+> - a) jehož je tato osoba státním příslušníkem, nebo ve kterém sídlí a
+>
+> - b) ve kterém se v posledních 3 letech tato osoba zdržovala, nebo sídlila nepřetržitě po dobu delší než 3 měsíce.
+>
+> (2) Pokud je osoba, která musí splňovat podmínku spolehlivosti pro vydání povolení, státním příslušníkem České republiky, který se v posledních 3 letech zdržoval nepřetržitě po dobu delší než 3 měsíce na území jiného státu, připojí žadatel k žádosti o vydání povolení také výpis z evidence trestů nebo rovnocenný doklad vydaný tímto státem.
+>
+> (3) Osoba, která je nebo byla státním příslušníkem jiného členského státu Evropské unie nebo státu, který je smluvní stranou Dohody o Evropském hospodářském prostoru, než České republiky, nebo osoba, která má nebo měla bydliště v jiném členském státě Evropské unie nebo státě, který je smluvní stranou Dohody o Evropském hospodářském prostoru, než v České republice, může místo dokladů podle odstavce 1 nebo [[#§ 2|2]] k žádosti o vydání povolení připojit jinou písemnost prokazující její spolehlivost.
+>
+> (4) Doklady a písemnosti podle odstavců 1 až 3 nesmí být starší než 3 měsíce. Nevydává-li stát doklad nebo písemnost podle odstavců 1 až 3, lze je nahradit čestným prohlášením učiněným před notářem nebo obdobným orgánem jiného členského státu Evropské unie nebo státu, který je smluvní stranou Dohody o Evropském hospodářském prostoru, než České republiky, které není starší než 3 měsíce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4caf3a7c07d9b2242f76 -->
 
 ### § 29bd — Změny v povolení
 
@@ -3233,6 +6349,68 @@ Bezdlužnost znamená čistou evidenci u pěti okruhů (FAÚ, daně, clo, zdravo
 
 **Typicky rozhodné důkazy / podklady:** potvrzení o bezdlužnosti (FÚ, CS, ČSSZ, zdravotní pojišťovny), rozhodnutí o posečkání, doklady o úhradě nedoplatků.
 
+
+<!-- LEGAL-REVISION:BEGIN id=f499be01530d652cabfa generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 29bd — Bezdlužnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Za bezdlužnou se pro účely vydání povolení považuje osoba, která nemá evidován nedoplatek
+>
+> - a) u Úřadu,
+>
+> - b) u orgánů Finanční správy České republiky,
+>
+> - c) u orgánů Celní správy České republiky,
+>
+> - d) na pojistném a na penále na všeobecné zdravotní pojištění a
+>
+> - e) na pojistném a na penále na sociální zabezpečení a příspěvku na státní politiku zaměstnanosti.
+>
+> (2) Bezdlužnost podle odstavce 1 písm. d) a e) se prokazuje potvrzeními, která nejsou starší než 30 dnů přede dnem podání žádosti o vydání povolení, ze kterých musí současně vyplývat splnění podmínek bezdlužnosti u
+>
+> - a) žadatele a
+>
+> - b) osoby, která je statutárním orgánem nebo členem statutárního orgánu žadatele, je-li žadatelem právnická osoba.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f499be01530d652cabfa -->
+
 ### § 29be — Zánik povolení
 
 > **§ 29be**
@@ -3284,6 +6462,58 @@ Jistota je vstupenkou do řízení: 250 000 Kč, správný zvláštní účet po
 - [ ] Počítat s tím, že vracení jistoty se řídí § 29bf (odložená vratitelnost).
 
 **Typicky rozhodné důkazy / podklady:** platební příkaz a výpis z účtu, potvrzení o připsání na zvláštní účet, doručenka datové schránky k žádosti.
+
+
+<!-- LEGAL-REVISION:BEGIN id=9e3e4fa7bad52b7efeba generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 29be — Jistota
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Jistota podle [[#§ 29ba|§ 29ba]] se poskytuje složením částky na zvláštní platební účet Úřadu.
+>
+> (2) Jistota podle [[#§ 29ba|§ 29ba]] musí být žadatelem složena na zvláštní platební účet Úřadu nejpozději v den podání žádosti o povolení podle [[#§ 29ba|§ 29ba]]. Pokud není jistota složena včas v plné výši, Úřad řízení o vydání povolení zastaví.
+>
+> (3) Identifikátor zvláštního platebního účtu pro složení jistoty zveřejní Úřad způsobem umožňujícím dálkový přístup.
+>
+> (4) Pro správu placení jistoty se použijí přiměřeně ustanovení [[daňového řádu|daňového řádu]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 29ba
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9e3e4fa7bad52b7efeba -->
 
 ### § 29bf — Odnětí povolení
 
@@ -3365,6 +6595,86 @@ Jistota se po skončení povolení nevrací automaticky: nejdříve po 90 dnech,
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o zrušení/zániku povolení, žádost o vrácení přeplatku, doklady o zahájených řízeních, pravomocný rozsudek s adhezním výrokem.
 
+
+<!-- LEGAL-REVISION:BEGIN id=54a3c148f018be0226e1 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 29bf — Použití jistoty
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Dojde-li k pravomocnému zrušení nebo k zániku povolení, anebo pokud Úřad nevyhoví žádosti o povolení, stává se jistota podle [[#§ 29be|§ 29be]] přeplatkem osoby, která ji poskytla. Tento přeplatek se stane vratitelným nejdříve po uplynutí 90 dnů ode dne jeho vzniku; Úřad vrátí vratitelný přeplatek pouze na žádost na účet vedený
+>
+> - a) bankou,
+>
+> - b) spořitelním a úvěrním družstvem,
+>
+> - c) zahraniční bankou se sídlem v jiném členském státě Evropské unie nebo ve státě, který je smluvní stranou Dohody o Evropském hospodářském prostoru, nebo
+>
+> - d) zahraniční bankou se sídlem v jiném než členském státě Evropské unie nebo ve státě, který je smluvní stranou Dohody o Evropském hospodářském prostoru, pokud vykonává činnost na území členského státu Evropské unie nebo státu, který je smluvní stranou Dohody o Evropském hospodářském prostoru, prostřednictvím své pobočky.
+>
+> (2) Lhůta podle odstavce 1 neběží po dobu, kdy je
+>
+> - a) Úřadem vedeno řízení,
+>
+> - 1. jehož výsledkem může být rozhodnutí o uložení pokuty nebo propadnutí náhradní hodnoty a
+>
+> - 2. které bylo zahájeno do 90 dnů ode dne zániku nebo pravomocného zrušení povolení,
+>
+> - b) správcem daně vedeno řízení,
+>
+> - 1. jehož výsledkem může být rozhodnutí o stanovení daně,
+>
+> - 2. které bylo zahájeno do 90 dnů ode dne zániku nebo pravomocného zrušení povolení a
+>
+> - 3. jehož zahájení správce daně včas oznámí Úřadu; správce daně je povinen oznámit Úřadu ukončení takového řízení,
+>
+> - c) vedeno proti osobě, která poskytla jistotu, trestní řízení,
+>
+> - 1. jehož výsledkem může být rozsudek o spáchání trestného činu proti majetku nebo trestného činu hospodářského,
+>
+> - 2. které bylo zahájeno do 90 dnů ode dne zániku nebo pravomocného zrušení povolení a
+>
+> - 3. jehož zahájení orgán činný v trestním řízení včas oznámí Úřadu; orgán činný v trestním řízení je povinen oznámit Úřadu ukončení takového řízení.
+>
+> (3) Nárok poškozeného v trestním řízení, který má na základě pravomocného rozsudku v trestním řízení nárok na náhradu škody nebo nemajetkové újmy v penězích nebo na vydání bezdůvodného obohacení a který o jeho uhrazení Úřad požádá, se pro účely správy placení jistoty považují za nedoplatek evidovaný Úřadem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 29be
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=54a3c148f018be0226e1 -->
+
 ### § 29bg — Pasportizace CASP
 
 > **§ 29bg**
@@ -3425,6 +6735,66 @@ Bez kompletní sady čestných prohlášení (kontaktní osoba, statutáři, pov
 
 **Typicky rozhodné důkazy / podklady:** čestná prohlášení, doručenky datových schránek, ověřovací doložky podpisů, výpis z evidence skutečných majitelů.
 
+
+<!-- LEGAL-REVISION:BEGIN id=b3d7a83d535a242c1de3 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 29bg — Součinnost třetích osob
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Je-li žadatel podle [[#§ 29ba|§ 29ba]] právnickou osobou, zajistí žadatel, aby Úřadu zaslali prostřednictvím své datové schránky nebo v listinné podobě s úředně ověřeným podpisem čestné prohlášení o svém ustanovení do funkce
+>
+> - a) kontaktní osoba,
+>
+> - b) člen statutárního orgánu žadatele,
+>
+> - c) osoba zastupující právnickou osobu ve statutárním orgánu žadatele,
+>
+> - d) pověřená osoba a
+>
+> - e) skutečný majitel.
+>
+> (2) Čestné prohlášení podle odstavce 1 musí být Úřadu zasláno nejpozději do 10 pracovních dnů ode dne podání žádosti o vydání povolení.
+>
+> (3) Z čestného prohlášení podle odstavce 1 musí být zřejmé, k jakému žadateli o vydání povolení se vztahuje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 29ba
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b3d7a83d535a242c1de3 -->
+
 ### § 29bh — Dohled nad CASP
 
 > **§ 29bh**
@@ -3477,6 +6847,58 @@ Povolení není uděleno navždy: ztráta spolehlivosti či bezdlužnosti nezhoj
 
 **Typicky rozhodné důkazy / podklady:** výpisy z RT, potvrzení o bezdlužnosti, doklady o nápravě (změny v obchodním rejstříku), korespondence s FAÚ, evidence poskytovaných služeb.
 
+
+<!-- LEGAL-REVISION:BEGIN id=c6e81aded067931afb51 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 29bh — Zrušení povolení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Úřad zruší povolení na žádost osoby, které bylo vydáno.
+>
+> (2) Zjistí-li Úřad, že osoba, které bylo vydáno povolení, přestala splňovat některou z podmínek podle § 29ba odst. 2 písm. a) nebo b), zruší vydané povolení, nezajistí-li tato osoba nápravu do 30 dnů ode dne, kdy přestala tuto podmínku splňovat.
+>
+> (3) Zjistí-li Úřad, že osoba, které bylo vydáno povolení, nesplnila povinnosti podle § 29bj odst. 2 a [[#§ 3|3]] ani na výzvu nebo že neposkytla služby spojené s virtuálním aktivem po dobu 2 let, zruší vydané povolení.
+>
+> (4) Rozhodnutí o zrušení povolení může být prvním úkonem v řízení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 29ba, § 29bj, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c6e81aded067931afb51 -->
+
 ### § 29bi — Mezinárodní spolupráce
 
 > **§ 29bi**
@@ -3528,6 +6950,58 @@ Výmaz, smrt a rozhodnutí o úpadku ukončují povolení okamžitě, ze zákona
 - [ ] Nástupce: podat vlastní žádost o povolení s dostatečným předstihem.
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o úpadku, úmrtní list, výpis z obchodního rejstříku, seznam držitelů FAÚ, dokumentace vypořádání klientských aktiv.
+
+
+<!-- LEGAL-REVISION:BEGIN id=142ab65f41bf16baa71b generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 29bi — Zánik povolení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> Povolení zaniká
+>
+> - a) výmazem právnické osoby z obchodního nebo jiného rejstříku,
+>
+> - b) smrtí fyzické osoby, nebo
+>
+> - c) rozhodnutím o úpadku právnické nebo fyzické osoby.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=142ab65f41bf16baa71b -->
 
 ### § 29bj — Některé povinnosti CASP
 
@@ -3596,6 +7070,72 @@ Povolení je osobní a „živé": změny webů, účtů a dokumentů se hlásí
 **Typicky rozhodné důkazy / podklady:** oznámení změn s doručenkami, čestná prohlášení, výpis ze seznamu FAÚ, projekt přeměny, smlouvy o platebních účtech.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=ddeb141f694b9eb8f963 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 29bj — Společná ustanovení k poskytování služeb spojených s virtuálním aktivem
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Povolení je nepřenosné; při zániku právnické osoby nebo smrti fyzické osoby nepřechází na jejího právního nástupce.
+>
+> (2) Osoba, která je držitelem povolení, informuje Úřad o změně obsahu informace nebo dokumentu podle § 29bb odst. 1 a § 29bb odst. 4 písm. a), b) a e) do 30 dnů ode dne, kdy tato změna nastala, nestanoví-li tento zákon jinak.
+>
+> (3) Osoba, která je držitelem povolení, zajistí zaslání čestných prohlášení při změně osoby ve funkci podle § 29bg odst. 1 do 15 dnů ode dne, kdy tato změna nastala; ustanovení § 29bg odst. 3 se použije obdobně.
+>
+> (4) Úřad zveřejňuje způsobem umožňujícím dálkový přístup aktuální seznam osob, kterým
+>
+> - a) bylo uděleno povolení, v rozsahu
+>
+> - 1. označení držitele povolení,
+>
+> - 2. identifikátoru všech platebních účtů, které držitel povolení využívá pro činnost v oblasti poskytování služeb spojených s virtuálním aktivem, a
+>
+> - 3. dne, kdy povolení nabylo právní moci,
+>
+> - b) bylo zrušeno povolení podle § 29bh odst. 2 nebo [[#§ 3|3]], v rozsahu
+>
+> - 1. označení osoby, které bylo povolení zrušeno, a
+>
+> - 2. dne, kdy rozhodnutí o zrušení povolení nabylo právní moci.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 29bb, § 29bg, § 29bh, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ddeb141f694b9eb8f963 -->
 
 ### ČINNOST ÚŘADU A DALŠÍCH ORGÁNŮ
 
@@ -3671,6 +7211,76 @@ FAÚ je centrální finanční zpravodajskou jednotkou: přijímá a analyzuje o
 
 **Typicky rozhodné důkazy / podklady:** oznámení podezřelého obchodu, korespondence s FAÚ, organizační a bezpečnostní předpisy FAÚ, záznamy o přístupech k údajům, předávací dokumentace vůči PČR.
 
+
+<!-- LEGAL-REVISION:BEGIN id=e297750dfd58be1c1bbd generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 29c
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Zřizuje se Úřad jako správní úřad se sídlem v Praze, který plní funkci finanční zpravodajské jednotky pro Českou republiku a je podřízen Ministerstvu financí.
+>
+> (2) Úřad působí v oblastech činnosti upravených tímto zákonem a jinými právními předpisy, včetně oblastí činnosti spočívajících
+>
+> - a) v přijímání a shromažďování oznámení podezřelého obchodu a jiných podnětů,
+>
+> - b) ve vyhodnocování oznámení podezřelého obchodu a jiných podnětů,
+>
+> - c) v posuzování účelnosti zahájení šetření podezřelého obchodu,
+>
+> - d) v posuzování způsobu ukončení šetření podezřelého obchodu,
+>
+> - e) v rozhodování o získávání, zpracování a sdílení informací,
+>
+> - f) v provádění strategické finanční analýzy, která se zabývá trendy a způsoby legalizace výnosů z trestné činnosti a financování terorismu, a v tvorbě výstupů na základě této analýzy,
+>
+> - g) v provádění operativní finanční analýzy, spojené se šetřením oznámení podezřelého obchodu a jiných podnětů a s vyhodnocováním, získáváním, zpracováním a sdílením souvisejících informací,
+>
+> - h) v rozhodování o provádění kontrol a
+>
+> - i) ve spolupráci s orgány činnými v trestním řízení a zpravodajskými službami, včetně poskytování informací na jejich žádost.
+>
+> (3) Úřad při své činnosti uplatňuje taková organizační, personální a jiná opatření, která zaručují, že s informacemi získanými při jeho činnosti podle tohoto zákona nepřijde do styku nepovolaná osoba.
+>
+> (4) Činnost Úřadu materiálně, administrativně a finančně zajišťuje Ministerstvo financí. Úřad je účetní jednotkou; jeho příjmy a výdaje jsou součástí rozpočtové kapitoly Ministerstva financí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e297750dfd58be1c1bbd -->
+
 ### § 29d — Úkoly Úřadu
 
 > **§ 29d**
@@ -3717,6 +7327,54 @@ FAÚ je centrální finanční zpravodajskou jednotkou: přijímá a analyzuje o
 - [ ] Oddělovat personální otázky od běžících šetření a mezinárodní spolupráce.
 
 **Typicky rozhodné důkazy / podklady:** akt jmenování či odvolání s odůvodněním, dokumentace výběrového řízení, služební hodnocení, organizační řád Úřadu.
+
+
+<!-- LEGAL-REVISION:BEGIN id=28e7365cd682e4d9828a generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 29d
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Úřad řídí ředitel.
+>
+> (2) Výběr, jmenování a odvolání ředitele se řídí zákonem o státní službě.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=28e7365cd682e4d9828a -->
 
 ### § 29e — Spolupráce s orgány státu
 
@@ -3774,6 +7432,62 @@ Krycí prostředky jsou výjimečným ochranným nástrojem FAÚ: nastupují jen
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o vydání krycího dokladu, interní dokumentace podmínek a nasazení, záznamy o zásazích do informačních systémů, doklady o ukončení použití.
 
+
+<!-- LEGAL-REVISION:BEGIN id=70fddab94d27a4c5edb0 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 29e — Krycí prostředek
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Krycím prostředkem se rozumí věc, včetně krycího dokladu, prostor nebo činnost sloužící k zastírání skutečné totožnosti osoby, k zabránění vyzrazení její činnosti nebo k zastírání činnosti Úřadu.
+>
+> (2) Krycím dokladem se rozumí listina, popřípadě jiný dokument sloužící k zastírání skutečné totožnosti fyzické osoby nebo k zabránění vyzrazení činnosti Úřadu.
+>
+> (3) Zaměstnanec Úřadu je oprávněn používat krycí prostředky při výkonu působnosti Úřadu podle tohoto zákona nebo podle zákona upravujícího provádění mezinárodních sankcí, pokud by bez jeho použití došlo ke zmaření tohoto výkonu působnosti nebo k ohrožení života, zdraví nebo majetku zaměstnance Úřadu nebo jiné osoby anebo k vyzrazení činnosti Úřadu.
+>
+> (4) Krycím dokladem nesmí být průkaz poslance nebo senátora, člena vlády, člena bankovní rady České národní banky, člena kolegia Nejvyššího kontrolního úřadu a soudce Ústavního soudu, služební průkaz soudce a státního zástupce a doklad osoby žijící nebo zemřelé.
+>
+> (5) O vydání krycího dokladu rozhoduje ministr financí. Vydání krycího dokladu technicky zabezpečuje Ministerstvo vnitra.
+>
+> (6) Je-li to vzhledem k povaze krycího dokladu nutné, je Ministerstvo vnitra oprávněno při opatřování nebo vydávání krycího dokladu zajistit v nezbytné míře v informačních systémech veřejné správy vedených podle zvláštních právních předpisů vložení, změnu, blokování nebo likvidaci údajů souvisejících s vydáním a užíváním krycího dokladu. Správce informačního systému je povinen poskytnout k provádění informační činnosti v uvedeném rozsahu a zajištění jejího účelu potřebnou součinnost a přitom postupovat tak, aby nedošlo k vyzrazení činnosti Ministerstva vnitra nebo Úřadu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=70fddab94d27a4c5edb0 -->
+
 ### § 29f — Mezinárodní spolupráce FIU
 
 > **§ 29f**
@@ -3819,6 +7533,52 @@ Krycí prostředky jsou výjimečným ochranným nástrojem FAÚ: nastupují jen
 - [ ] Pravidelně přehodnocovat trvání rizika a opatření ukončit, pomine-li.
 
 **Typicky rozhodné důkazy / podklady:** záznamy o výhrůžkách, vyhodnocení rizika, žádost FAÚ a potvrzení MV o opatřeních, dokumentace šetření zakládajícího riziko.
+
+
+<!-- LEGAL-REVISION:BEGIN id=1f014e97f21f22d02e4f generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 29f — Opatření k evidenční ochraně
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> V souvislosti s výkonem své působnosti podle tohoto zákona nebo podle zákona upravujícího provádění mezinárodních sankcí může Úřad požadovat po Ministerstvu vnitra opatření k evidenční ochraně osobních údajů zaměstnance Úřadu, jeho manžela, partnera, dítěte, rodiče a jejich soukromých vozidel, lze-li u nich důvodně předpokládat ohrožení jejich života nebo zdraví, jakož i opatření k evidenční ochraně krycích dokladů zaměstnanců Úřadu a vozidel užívaných Úřadem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1f014e97f21f22d02e4f -->
 
 ### § 30 — Oprávnění Úřadu
 
@@ -3875,6 +7635,62 @@ Krycí prostředky jsou výjimečným ochranným nástrojem FAÚ: nastupují jen
 - [ ] Uchovávat logy nejméně 5 let; umožnit vnitřní a parlamentní kontrolu.
 
 **Typicky rozhodné důkazy / podklady:** logy přístupů (zaměstnanec, účel, čas), žádosti a odpovědi dožádaných orgánů, spis šetření, záznam o podnětu zpravodajské služby.
+
+
+<!-- LEGAL-REVISION:BEGIN id=36b93f3d94da6ddc971a generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 30 — Získávání informací
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Úřad může vyžadovat informace nezbytné pro plnění povinností podle tohoto zákona od Policie České republiky, zpravodajských služeb a orgánů veřejné moci.
+>
+> (2) Při šetření podezřelého obchodu může Úřad v souladu se zákonem upravujícím správu daní vyžadovat od orgánů věcně příslušných podle jiných právních předpisů ke správě daní informace získané při správě daní; tyto orgány informují bezodkladně Úřad o podezření, že daňový subjekt zneužívá systém správy daní k legalizaci výnosů z trestné činnosti nebo k financování terorismu.
+>
+> (3) Úřad může v rozsahu potřebném pro šetření podezřelého obchodu žádat od zpracovatele nebo správce evidence poskytnutí informací z evidence uvedené v odstavci 4. Zpracovatel nebo správce evidence poskytne informace bezplatně, nestanoví-li jiný právní předpis jinak. Zpracovatel nebo správce evidence jsou povinni žádosti bez zbytečného odkladu vyhovět.
+>
+> (4) Úřad může v rozsahu potřebném pro šetření podezřelého obchodu a výkon správního dozoru žádat od zpracovatele nebo správce evidence poskytnutí informací způsobem umožňujícím dálkový a nepřetržitý přístup z informačního systému evidence občanských průkazů32), informačního systému evidence cestovních dokladů33), informačního systému evidence diplomatických a služebních pasů33), informačního systému cizinců, informačního systému evidence obyvatel34), katastru nemovitostí35), základního registru obyvatel36), základního registru právnických osob, podnikajících fyzických osob a orgánů veřejné moci36), základního registru územní identifikace, adres a nemovitostí36), základního registru agend orgánů veřejné moci a některých práv a povinností36), informačního systému územní identifikace36), registru silničních vozidel37), centrálního registru silničních vozidel37), registru historických a sportovních vozidel37), registru řidičů38) a centrálního registru řidičů38), registru lobbování48)a z informačního systému registru oznámení.
+>
+> (5) Úřad žádá o poskytnutí informací podle odstavců 3 a [[#§ 4|4]] pouze způsobem, který mu umožní uchovávat identifikační údaje zaměstnance, který o poskytnutí informací žádal, a o účelu, k němuž bylo o poskytnutí informací žádáno, nejméně po dobu 5 let. O těchto skutečnostech jsou zpracovatel nebo správce evidence povinni zachovávat mlčenlivost.
+>
+> (6) Na základě oznámení zpravodajské služby o zjištění skutečností nasvědčujících podezřelému obchodu zahájí Úřad šetření podezřelého obchodu; o výsledku tohoto šetření informuje zpravodajskou službu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=36b93f3d94da6ddc971a -->
 
 ### § 30a — Zajištění finančních prostředků
 
@@ -3946,6 +7762,76 @@ Národní hodnocení rizik je centrální mapou rizik ČR: FAÚ je koordinuje, v
 
 **Typicky rozhodné důkazy / podklady:** NRA a jeho zveřejněné shrnutí, interní hodnocení rizik s revizní historií, korespondence s FAÚ o podkladech, kontrolní protokoly.
 
+
+<!-- LEGAL-REVISION:BEGIN id=36e7a200b4faea9b99a9 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 30a — Hodnocení rizik na úrovni České republiky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Úřad koordinuje proces posouzení rizik legalizace výnosů z trestné činnosti a financování terorismu v České republice a na úrovni České republiky zpracovává národní hodnocení rizik; na zpracování národního hodnocení rizik se podílí a na žádost Úřadu poskytují informace pro účely zpracování národního hodnocení rizik
+>
+> - a) orgán veřejné moci,
+>
+> - b) povinná osoba,
+>
+> - c) podnikající fyzická osoba a právnická osoba, pokud mohou mít informace spojené s riziky legalizace výnosů z trestné činnosti a financování terorismu.
+>
+> (2) V rámci národního hodnocení rizik Úřad, povinné osoby a orgány veřejné moci identifikují a posoudí rizika legalizace výnosů z trestné činnosti a financování terorismu, která mohou nastat na území České republiky, a zohlední faktory možného zvýšeného rizika podle přílohy č. 2 k tomuto zákonu, nadnárodní hodnocení rizik, hodnocení rizik provedené mezinárodní institucí a další dostupné informace, které souvisí s těmito riziky. Národní hodnocení rizik obsahuje popis institucionální struktury systému boje proti legalizaci výnosů z trestné činnosti a financování terorismu a přidělených lidských a peněžních zdrojů.
+>
+> (3) Národní hodnocení rizik slouží zejména ke zdokonalení opatření proti legalizaci výnosů z trestné činnosti a financování terorismu na úrovni státní správy a u povinných osob.
+>
+> (4) Při zpracování hodnocení rizik se Úřad a orgány veřejné moci řídí mezinárodně uznávanými standardy v oblasti opatření proti legalizaci výnosů z trestné činnosti a financování terorismu. Na základě dílčích hodnocení rizik Úřad zpracuje a předloží vládě k projednání národní hodnocení rizik, a to nejpozději do 5 let od schválení předchozího hodnocení rizik vládou.
+>
+> (5) Úřad poskytne výsledky národního hodnocení rizik příslušnému výboru Rady Evropy, Evropské komisi, evropskému orgánu dohledu a orgánům ostatních členských států Evropské unie za předpokladu, že mají srovnatelnou věcnou působnost a že sdělené informace se použijí výhradně pro účely předcházení legalizace výnosů z trestné činnosti a financování terorismu. Úřad zajistí, aby shrnutí národního hodnocení rizik bylo veřejně přístupné.
+>
+> (6) Úřad koordinuje provádění opatření ke zmírňování rizik identifikovaných v národním hodnocení rizik, k čemuž mu orgány veřejné moci poskytují součinnost včetně
+>
+> - a) předkládání přehledu o provedených opatřeních ke zmírnění rizik a souvisejících statistických údajů a
+>
+> - b) vedení statistik relevantních pro posouzení účinnosti systému opatření proti legalizaci výnosů z trestné činnosti a financování terorismu.
+>
+> (7) Úřad průběžně informuje povinné osoby o rizicích identifikovaných v národním hodnocení rizik a opatřeních prováděných k jejich zmírnění.
+>
+> (8) Úřad průběžně aktualizuje národní hodnocení rizik, a to zejména s ohledem na vývoj rizik legalizace výnosů z trestné činnosti a financování terorismu a činnost orgánů Evropské unie. Ustanovení vztahující se k národnímu hodnocení rizik se použijí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=36e7a200b4faea9b99a9 -->
+
 ### § 31 — Mezinárodní výměna informací
 
 > **§ 31**
@@ -4000,6 +7886,60 @@ Národní hodnocení rizik je centrální mapou rizik ČR: FAÚ je koordinuje, v
 - [ ] Akreditovaná mezinárodní organizace: na žádost poskytnout a aktualizovat údaje o svých významných veřejných funkcích.
 
 **Typicky rozhodné důkazy / podklady:** záznam o ukončení šetření, log informačního systému FAÚ, nové oznámení podezřelého obchodu, zveřejněné statistické přehledy, aktuální seznam významných veřejných funkcí.
+
+
+<!-- LEGAL-REVISION:BEGIN id=35ae18efce19a714cc16 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 31 — Zpracování informací
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Úřad soustřeďuje a analyzuje údaje získané při své činnosti podle tohoto zákona. Je oprávněn vést údaje získané při plnění úkolů podle tohoto zákona v informačním systému. Při výkonu své působnosti je oprávněn sdružovat informace a informační systémy sloužící k rozdílným účelům.
+>
+> (2) Úřad uchovává údaje a doklady o přijatých oznámeních a o vlastním šetření po dobu 10 let od konce roku, v němž bylo šetření ukončeno. Přijetím nového oznámení nebo obnovením šetření v téže věci nebo vůči stejnému subjektu se běh lhůty podle věty první přerušuje do ukončení nového šetření.
+>
+> (3) Úřad vede a nejméně jednou ročně uveřejňuje na internetových stránkách statistické přehledy o účinnosti a výsledcích opatření proti legalizaci výnosů z trestné činnosti a financování terorismu. Tyto údaje jednou ročně poskytuje Evropské komisi pro účely vypracování a zveřejnění její výroční zprávy o účinnosti opatření proti legalizaci výnosů z trestné činnosti a financování terorismu v Evropské unii. Orgány činné v trestním řízení poskytují Úřadu průběžně zobecněné informace o řízeních ve věcech souvisejících s legalizací výnosů z trestné činnosti nebo financováním terorismu.
+>
+> (4) Úřad zašle Evropské komisi seznam tuzemských významných veřejných funkcí. Úřad tento seznam průběžně aktualizuje a může jej uveřejnit způsobem umožňujícím dálkový přístup.
+>
+> (5) Mezinárodní organizace akreditovaná na území České republiky poskytne na žádost Úřadu údaje o svých významných veřejných funkcích. Mezinárodní organizace akreditovaná na území České republiky, která poskytla tyto údaje, má povinnost je aktualizovat.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=35ae18efce19a714cc16 -->
 
 ### § 31a — Předání informací orgánům EU
 
@@ -4070,6 +8010,72 @@ Národní hodnocení rizik je centrální mapou rizik ČR: FAÚ je koordinuje, v
 
 **Typicky rozhodné důkazy / podklady:** žádost subjektu údajů, odeslaná odpověď, interní záznam o posouzení ohrožení, jmenovací akt pověřence, prezenční listiny ze školení, evidence přístupů k citlivým údajům.
 
+
+<!-- LEGAL-REVISION:BEGIN id=ce37bb1713d7e74910e3 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 31a — Zvláštní ustanovení o ochraně osobních údajů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Pověřence pro ochranu osobních údajů v Úřadu jmenuje ředitel.
+>
+> (2) Úřad v rozsahu nezbytném pro plnění povinností podle tohoto zákona zpracovává osobní údaje.
+>
+> (3) Úřad nevyhoví žádosti o přístup k osobním údajům, popřípadě takové žádosti vyhoví pouze částečně, pokud by vyhověním došlo k ohrožení
+>
+> - a) plnění úkolu za účelem zabránění zneužívání finančního systému k legalizaci výnosů z trestné činnosti nebo k financování terorismu,
+>
+> - b) vytváření podmínek pro odhalování legalizace výnosů z trestné činnosti nebo financování terorismu, nebo
+>
+> - c) ochrany utajovaných informací.
+>
+> (4) Pokud by vyhověním žádosti o přístup k osobním údajům nebo sdělením o nevyhovění této žádosti, včetně odůvodnění, došlo k ohrožení podle odstavce 3, Úřad informuje subjekt údajů stejně jako ty žadatele, jejichž osobní údaje nezpracovává.
+>
+> (5) Úřad nevyhoví žádosti o opravu nebo výmaz osobních údajů nebo omezení jejich zpracování, popřípadě vyhoví pouze částečně, pokud by vyhověním došlo k ohrožení podle odstavce 3. Pokud by sdělením o nevyhovění žádosti, včetně odůvodnění, došlo k ohrožení podle odstavce 3, Úřad žadatele informuje tak, aby takovému ohrožení předcházel.
+>
+> (6) Úřad neoznámí porušení zabezpečení osobních údajů subjektu údajů, popřípadě oznámí pouze v takovém rozsahu, aby sdělením nedošlo k ohrožení podle odstavce 3.
+>
+> (7) Pokud Úřad zpracovává osobní údaj, který vypovídá o rasovém nebo etnickém původu, politických názorech, náboženském vyznání nebo filosofickém přesvědčení, členství v odborové organizaci, zdravotním stavu, sexuálním chování nebo sexuální orientaci, tak zajistí, že k takovému osobnímu údaji má přístup pouze kvalifikovaná úřední osoba.
+>
+> (8) Úřad zajistí proškolení kvalifikované úřední osoby v oblasti ochrany osobních údajů zpracovávaných podle odstavce 7 nejméně jedenkrát v průběhu 12 kalendářních měsíců.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ce37bb1713d7e74910e3 -->
+
 ### Kontrola činnosti Úřadu
 
 ### § 31b — Kontrola Úřadu Poslaneckou sněmovnou
@@ -4121,6 +8127,56 @@ Národní hodnocení rizik je centrální mapou rizik ČR: FAÚ je koordinuje, v
 - [ ] FAÚ poskytuje součinnost v mezích § 31c (zpráva, informace, vstup v doprovodu).
 
 **Typicky rozhodné důkazy / podklady:** zřizovací usnesení PS, zápisy a usnesení komise, korespondence ředitele FAÚ s komisí, výroční zpráva podle § 31c.
+
+
+<!-- LEGAL-REVISION:BEGIN id=b9202b27b410e6cac963 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 31b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Kontrolu činnosti Úřadu vykonává Poslanecká sněmovna, která k tomuto účelu zřizuje stálou komisi podle zákona upravujícího jednací řád Poslanecké sněmovny (dále jen „stálá komise“), a vláda.
+>
+> (2) Stálá komise se skládá nejméně ze 7 členů. Poslanecká sněmovna stanoví počet členů tak, aby byl zastoupen každý poslanecký klub ustavený podle příslušnosti k politické straně nebo politickému hnutí, za něž poslanci kandidovali ve volbách; počet členů je vždy lichý. Členem stálé komise může být pouze poslanec Poslanecké sněmovny.
+>
+> (3) Stálá komise není oprávněna zasahovat do personálních pravomocí ředitele Úřadu a nahrazovat jeho řídicí činnost.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b9202b27b410e6cac963 -->
 
 ### § 31c — Předávání informací komisi
 
@@ -4176,6 +8232,60 @@ Národní hodnocení rizik je centrální mapou rizik ČR: FAÚ je koordinuje, v
 
 **Typicky rozhodné důkazy / podklady:** výroční zpráva, žádost komise a odpověď FAÚ, zápis z neveřejného zasedání, evidence vstupů na pracoviště.
 
+
+<!-- LEGAL-REVISION:BEGIN id=5acb10ae46914a1cee63 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 31c
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Úřad předkládá stálé komisi a vládě zprávu o své činnosti za uplynulý kalendářní rok do 31. března následujícího kalendářního roku.
+>
+> (2) Úřad poskytne stálé komisi na její žádost informaci o své činnosti.
+>
+> (3) Ve zprávě podle odstavce 1 a informaci podle odstavce 2 se neuvádí identifikační údaje osob ani informace, na které se vztahuje mlčenlivost podle jiného právního předpisu28), a nelze v nich podat informaci o neukončeném šetření vedeném podle tohoto zákona, nebo o šetření vedeném na základě § 30 odst. 6 anebo předaném podle [[#§ 32|§ 32]], pokud by takový údaj mohl ohrozit činnost orgánu činného v trestním řízení nebo zpravodajské služby.
+>
+> (4) Zprávu podle odstavce 1 a informaci podle odstavce 2 lze projednávat pouze na neveřejném zasedání stálé komise nebo uzavřeném jednání schůze vlády; stálá komise je projednává za účasti zástupce Úřadu.
+>
+> (5) Členové stálé komise mohou vstupovat v doprovodu ředitele nebo jím pověřeného zaměstnance na pracoviště Úřadu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 30, § 32
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5acb10ae46914a1cee63 -->
+
 ### § 31d — Mlčenlivost členů komise
 
 > **§ 31d**
@@ -4223,6 +8333,54 @@ Národní hodnocení rizik je centrální mapou rizik ČR: FAÚ je koordinuje, v
 - [ ] Oznamovatel: podávat výhradně vnitřním systémem, nikoli mimo něj (média, MSp).
 
 **Typicky rozhodné důkazy / podklady:** záznam ze zabezpečeného systému, personální spis a odůvodnění opatření, časová osa událostí, dokumentace technického zabezpečení systému.
+
+
+<!-- LEGAL-REVISION:BEGIN id=ca16b26b94c211bdd173 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 31d — Ochrana oznamovatelů v Úřadu
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Úřad zavede vnitřní oznamovací systém, který umožní zaměstnanci Úřadu nebo fyzické osobě činné pro Úřad jinak než v základním pracovněprávním vztahu anonymně a zabezpečeným způsobem podat oznámení o porušení tohoto zákona. Oznamovatel a osoba podle [[§ 4 odst. 2 písm. a) až h)|§ 4 odst. 2 písm. a) až h)]] zákona [[o ochraně oznamovatelů|o ochraně oznamovatelů]] nesmí být z důvodu podání oznámení vystaveni odvetnému opatření.
+>
+> (2) Na vnitřní oznamovací systém podle odstavce 1 a na oznámení o porušení povinnosti podle tohoto zákona podané zaměstnancem Úřadu nebo fyzickou osobou činnou pro Úřad jinak než v základním pracovněprávním vztahu se zákon [[o ochraně oznamovatelů|o ochraně oznamovatelů]] nepoužije.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ca16b26b94c211bdd173 -->
 
 ### § 32 — Předávání informací
 
@@ -4273,6 +8431,56 @@ Národní hodnocení rizik je centrální mapou rizik ČR: FAÚ je koordinuje, v
 - [ ] Příjemce: použít informace jen v rámci své působnosti; chránit zdroj.
 
 **Typicky rozhodné důkazy / podklady:** analytická zpráva FAÚ, oznámení podle TŘ s doručenkou, předávací protokol GFŘ/GŘC, transakční výpisy, záznam o testu rozporu s účelem zákona.
+
+
+<!-- LEGAL-REVISION:BEGIN id=f9b83576efc8ac9d8e79 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 32 — Nakládání s výsledky šetření
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Zjistí-li Úřad skutečnosti nasvědčující tomu, že byl spáchán trestný čin, podá oznámení podle [[trestního řádu|trestního řádu]] a současně orgánu činnému v trestním řízení poskytne všechny související informace z výsledků vlastního šetření.
+>
+> (2) Zjistí-li Úřad skutečnosti, které jsou významné pro výkon činnosti Policie České republiky, orgánů Finanční správy České republiky nebo orgánů Celní správy České republiky, informuje o těchto zjištěních Policii České republiky, Generální finanční ředitelství nebo Generální ředitelství cel a poskytne mu všechny související informace z výsledků vlastního šetření, pokud poskytnutí takových informací není v rozporu s účelem tohoto zákona.
+>
+> (3) Zjistí-li Úřad skutečnosti důležité pro ochranu významného hospodářského, finančního nebo bezpečnostního zájmu České republiky nebo Evropské unie, poskytne o tom informaci příslušné instituci, není-li poskytnutí této informace v rozporu s účelem tohoto zákona. Uplatní přitom ochranu oprávněných zájmů jiných osob podle § 39 odst. 4.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 39
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f9b83576efc8ac9d8e79 -->
 
 ### § 33 — Vztah ke správě daní
 
@@ -4329,6 +8537,62 @@ Národní hodnocení rizik je centrální mapou rizik ČR: FAÚ je koordinuje, v
 - [ ] U vlastních žádostí uvést odůvodnění a způsob využití; dodržet podmínky dožádané strany.
 
 **Typicky rozhodné důkazy / podklady:** žádost a její doplnění, předávací doložka s podmínkami, záznam o posouzení podle § 39 odst. 4, MoU či doklad vzájemnosti.
+
+
+<!-- LEGAL-REVISION:BEGIN id=73a3ecabbc7f11ce5622 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 33 — Mezinárodní spolupráce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) K dosažení účelu stanoveného tímto zákonem Úřad spolupracuje se zahraničními orgány a mezinárodními organizacemi se srovnatelnou věcnou působností v rozsahu stanoveném mezinárodní smlouvou, kterou je Česká republika vázána, nebo předpisem Evropské unie43).
+>
+> (2) Obsahem mezinárodní spolupráce je zejména předávání a získávání údajů na žádost či z moci úřední, a to bez zbytečného odkladu. Mezinárodní spolupráci nelze omezit; ustanovení § 39 odst. 4 tímto není dotčeno.
+>
+> (3) Úřad může spolupracovat s
+>
+> - a) mezinárodními organizacemi a zahraničními orgány se srovnatelnou věcnou působností na základě vzájemnosti,
+>
+> - b) dalšími mezinárodními organizacemi a zahraničními orgány za podmínek, že informace budou užity pouze k dosažení účelu tohoto zákona a budou požívat ochrany alespoň v rozsahu stanoveném tímto zákonem.
+>
+> (4) V případě mezinárodní spolupráce na žádost Úřadu musí být žádost odůvodněna a musí obsahovat způsob využití získaných údajů. Údaje získané v rámci mezinárodní spolupráce Úřad použije podle podmínek, které stanoví dožádaný zahraniční orgán či mezinárodní instituce.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 39
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=73a3ecabbc7f11ce5622 -->
 
 ### § 33a — Spolupráce s ČNB
 
@@ -4398,6 +8662,74 @@ Národní hodnocení rizik je centrální mapou rizik ČR: FAÚ je koordinuje, v
 - [ ] Evidenci uchovávat 5 let a zpřístupnit ji jen dozoru nad osobními údaji.
 
 **Typicky rozhodné důkazy / podklady:** odůvodněná žádost se spisovou značkou, záznam v evidenci žádostí, doložka účelového omezení, odůvodnění odepření, korespondence s národní jednotkou.
+
+
+<!-- LEGAL-REVISION:BEGIN id=253e140d9f640bba25cf generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 33a — Poskytnutí údajů souvisejících se závažnými trestnými činy
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Je-li to nezbytné pro plnění konkrétního úkolu orgánu vykonávajícího působnost úřadu pro vyhledávání majetku z trestné činnosti v České republice podle předpisu Evropské unie upravujícího spolupráci mezi úřady pro vyhledávání majetku z trestné činnosti45) (dále jen „orgán pro vyhledávání majetku z trestné činnosti“), týkajícího se trestné činnosti podle přílohy č. 1 přímo použitelného právního předpisu Evropské unie upravujícího Europol46), poskytne Úřad bez zbytečného odkladu na základě odůvodněné žádosti údaje, které získal při své činnosti podle tohoto zákona. Odepření poskytnutí údajů Úřad odůvodní.
+>
+> (2) Je-li to nezbytné pro plnění konkrétního úkolu Europolu, poskytne Úřad bez zbytečného odkladu na základě odůvodněné žádosti Europolu, zaslané prostřednictvím národní jednotky podle přímo použitelného právního předpisu Evropské unie upravujícího Europol46) (dále jen „národní jednotka Europolu“), údaje, které získal při své činnosti podle tohoto zákona. Úřad při vyřizování této žádosti uplatňuje stejné zacházení, jaké by poskytoval zahraničnímu orgánu s věcnou působností srovnatelnou s Úřadem. Odepření poskytnutí údajů Úřad odůvodní.
+>
+> (3) Bez souhlasu Úřadu nelze údaje poskytnuté podle odstavce 1 využít k jiným účelům, než ke kterým byly poskytnuty, ani je nelze předat jinému orgánu veřejné moci nebo orgánu jiného státu. Odepření poskytnutí souhlasu k využití k jiným účelům Úřad odůvodní.
+>
+> (4) Úřad vede evidenci žádostí o poskytnutí údajů podle odstavce 1 nebo [[#§ 2|2]], která obsahuje:
+>
+> - a) název a kontaktní údaje žadatele,
+>
+> - b) jméno a kontaktní údaje fyzické osoby, která jménem žadatele o údaje požádala,
+>
+> - c) název nebo jméno příjemce poskytnutých údajů,
+>
+> - d) spisovou značku obsaženou v žádosti,
+>
+> - e) předmět žádosti a
+>
+> - f) opatření přijatá Úřadem v souvislosti s vyřizováním žádosti.
+>
+> (5) Evidenci podle odstavce 4 lze použít pouze pro ověření zákonnosti zpracování osobních údajů. Úřad zpřístupní evidenci podle odstavce 4 orgánu příslušnému k dozoru nad zpracováním osobních údajů na základě žádosti pro účely výkonu jeho působnosti.
+>
+> (6) Úřad uchovává údaje v evidenci podle odstavce 4 po dobu 5 let ode dne jejich vzniku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=253e140d9f640bba25cf -->
 
 ### § 34 — Mlčenlivost zaměstnanců Úřadu
 
@@ -4471,6 +8803,78 @@ Národní hodnocení rizik je centrální mapou rizik ČR: FAÚ je koordinuje, v
 
 **Typicky rozhodné důkazy / podklady:** žádost s přílohami, účetní závěrka a výpočet podílu obratu, vnitřní předpis k limitům, evidence transakcí, rozhodnutí FAÚ a kontrolní protokoly.
 
+
+<!-- LEGAL-REVISION:BEGIN id=bdf41beb00b77a4c2804 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 34 — Povolování výjimek
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Úřad na základě žádosti rozhodne, že finanční instituce, která některou z činností uvedených v § 2 odst. 1 písm. b), s výjimkou činnosti spočívající v provedení převodu peněžních prostředků, při němž plátce ani příjemce nevyužívají platební účet u poskytovatele plátce (poukazování peněz), vykonává pouze příležitostně nebo ve velmi omezené míře a takovým způsobem, že je vyloučeno nebo značně omezeno její zneužití k legalizaci výnosů z trestné činnosti nebo financování terorismu, nebude v souvislosti s touto činností považována za povinnou osobu podle tohoto zákona.
+>
+> (2) Výjimka podle odstavce 1 se udělí, pokud
+>
+> - a) vykonávaná činnost je pouze doplňkovou činností, která přímo souvisí s hlavní činností povinné osoby, která jinak s výjimkou činnosti uvedené v § 2 odst. 2 písm. d) není povinnou osobou podle tohoto zákona, a je poskytována pouze klientovi, se kterým uzavírá obchod nebo je navázán obchodní vztah v rámci hlavní činnosti,
+>
+> - b) čistý celkový roční obrat z této činnosti za účetní období nepřesahuje 5 % z celkového čistého obratu povinné osoby za účetní období a současně nepřekročí částku, kterou Úřad v rozhodnutí stanoví s ohledem na druh činnosti, a
+>
+> - c) je zajištěno, že hodnota jednotlivého obchodu nebo více obchodů v rámci činnosti uvedené v písmenu a) uskutečněných v průběhu 30 po sobě jdoucích dnů s týmž klientem nepřekročí částku 1 000 EUR.
+>
+> (3) K žádosti podle odstavce 1 povinná osoba písemně doloží splnění podmínek v odstavcích 1 a [[#§ 2|2]].
+>
+> (4) Výjimku podle odstavce 1 lze udělit i na dobu určitou. V rozhodnutí stanoví Úřad případné další povinnosti v rozsahu povinností povinných osob za účelem zabránění zneužití výjimky pro legalizaci výnosů z trestné činnosti nebo financování terorismu.
+>
+> (5) Úřad výjimku udělí pouze tehdy, je-li při výkonu činnosti povinné osoby vyloučeno nebo značně omezeno nebezpečí jejího zneužití k legalizaci výnosů z trestné činnosti nebo financování terorismu.
+>
+> (6) Povinná osoba umožní dozorčímu úřadu (§ 35 odst. 1) v době trvání výjimky podle odstavce 1 kontrolu plnění stanovených podmínek a kontrolu, zda tato výjimka není zneužívána k činnostem, které by usnadňovaly legalizaci výnosů z trestné činnosti nebo financování terorismu. Dozorčí úřady mají stejná oprávnění jako při provádění kontroly povinné osoby.
+>
+> (7) Povinnost povinné osoby stanovená v [[#§ 18|§ 18]] a postup Úřadu vůči povinné osobě podle [[#§ 24|§ 24]] při provádění šetření podezřelého obchodu nejsou rozhodnutím o výjimce podle odstavce 1 dotčeny.
+>
+> (8) Výjimku podle odstavce 1 Úřad rozhodnutím odejme, jestliže
+>
+> - a) se významně změnilo hodnocení rizikovosti příslušné činnosti z hlediska možnosti zneužití k legalizaci výnosů z trestné činnosti nebo financování terorismu, nebo
+>
+> - b) ten, komu byla udělena výjimka, porušil stanovené podmínky.
+>
+> (9) Odvolání proti rozhodnutí podle odstavce 8 nemá odkladný účinek.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2, § 35, § 18, § 24
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=bdf41beb00b77a4c2804 -->
+
 ### § 34a — Mlčenlivost a soudní řízení
 
 > **§ 34a**
@@ -4526,6 +8930,62 @@ Národní hodnocení rizik je centrální mapou rizik ČR: FAÚ je koordinuje, v
 - [ ] Povinná osoba: zdržet se odvetných opatření; personální kroky vůči oznamovatelům řádně odůvodnit.
 
 **Typicky rozhodné důkazy / podklady:** záznam o podání oznámení, výsledek přezkumu důvodnosti, personální spis a výpověď, časová osa, interní komunikace, podklady k § 49a.
+
+
+<!-- LEGAL-REVISION:BEGIN id=30ea4a05daba0203f4d5 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 34a — Přijímání oznámení o porušení povinností podle tohoto zákona
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Úřad a příslušné profesní komory zavedou systém pro přijímání oznámení o porušení povinností podle tohoto zákona (dále jen „systém pro přijímání oznámení“).
+>
+> (2) Úřad zavede systém pro přijímání oznámení o porušení povinností podle přímo použitelného předpisu Evropské unie upravujícího informace doprovázející převody peněžních prostředků a některých kryptoaktiv20).
+>
+> (3) Systém pro přijímání oznámení obsahuje podrobné postupy pro přijetí oznámení, přezkoumání jeho důvodnosti a nakládání s jeho výsledky.
+>
+> (4) Postupy podle odstavce 3 zajistí ochranu oprávněných zájmů oznamovatele a osoby, která je podle oznámení odpovědná za porušení povinností podle tohoto zákona.
+>
+> (5) Oznamovatel nesmí být z důvodu podání oznámení vystaven odvetným opatřením.
+>
+> (6) Oznámení podle zákona [[o ochraně oznamovatelů|o ochraně oznamovatelů]] o porušení povinnosti podle tohoto zákona nelze podat Ministerstvu spravedlnosti. Zakazuje se uveřejnit informace tvořící obsah oznámení podle zákona [[o ochraně oznamovatelů|o ochraně oznamovatelů]], na které se vztahuje povinnost mlčenlivosti podle tohoto zákona.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=30ea4a05daba0203f4d5 -->
 
 ### SPRÁVNÍ DOZOR
 
@@ -4630,6 +9090,96 @@ Model **„private supervisor"** (profesní komora kontroluje své členy) má k
 
 **Typicky rozhodné důkazy / podklady:** kontrolní protokol, riziková analýza dozoru, rozhodnutí o opatření k nápravě, oznámení o jeho splnění, korespondence FAÚ–ČNB a se zahraničním dozorem.
 
+
+<!-- LEGAL-REVISION:BEGIN id=5b966ecc79633227d99c generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 35 — Výkon správního dozoru
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Dozorčím úřadem pro správní dozor nad plněním povinností stanovených tímto zákonem je Úřad, který současně kontroluje, zda nedochází k legalizaci výnosů z trestné činnosti nebo financování terorismu. Dozorčím úřadem pro správní dozor nad plněním povinností stanovených tímto zákonem je také
+>
+> - a) Česká národní banka u povinných osob, vůči nimž vykonává dohled21), s výjimkou povinných osob podle § 2 odst. 2 písm. b),
+>
+> - b) orgán Celní správy České republiky vykonávající dozor nad dodržováním zákona upravujícího hazardní hry u povinných osob uvedených v § 2 odst. 1 písm. c),
+>
+> - c) Česká obchodní inspekce u povinných osob uvedených v § 2 odst. 1 písm. i) a j),
+>
+> - d) příslušná profesní komora u advokáta, notáře, auditora, soudního exekutora nebo daňového poradce,
+>
+> - e) Ministerstvo spravedlnosti u insolvenčního správce a restrukturalizačního správce.
+>
+> (2) Úřad dále vykonává kontrolu plnění povinností podle přímo použitelného předpisu Evropské unie upravujícího informace doprovázející převody peněžních prostředků a některých kryptoaktiv20); Česká národní banka vykonává kontrolu plnění povinností podle uvedeného předpisu u povinných osob, vůči nimž vykonává dohled21).
+>
+> (3) Úřad poskytuje ostatním dozorčím úřadům informace z vlastní činnosti potřebné pro výkon správního dozoru nebo dohledu a další potřebnou součinnost.
+>
+> (4) Ostatní dozorčí úřady poskytnou Úřadu na vyžádání písemná stanoviska nebo jinou požadovanou součinnost.
+>
+> (5) Pokud dozorčí úřad uvedený v odstavci 1 písm. a) až c) zjistí skutečnosti, které by mohly souviset s legalizací výnosů z trestné činnosti nebo financováním terorismu, bez odkladu o tom informuje Úřad a sdělí mu současně všechny informace v rozsahu uvedeném v § 18 odst. 2.
+>
+> (6) Dozorčí úřad uvedený v odstavci 1 písm. a) ažd) uplatňuje při výkonu správního dozoru podle tohoto zákona svá dozorová oprávnění podle právních předpisů upravujících jeho působnost.
+>
+> (7) Výkon správního dozoru je založen na analýze rizik, která zohledňuje rovněž výsledky národního hodnocení rizik, nadnárodního hodnocení rizik, hodnocení rizik provedené mezinárodní institucí a případně hodnocení rizik provedené příslušnou profesní komorou. Tato analýza je aktualizována v závislosti na vývoji rizik.
+>
+> (8) Úřad a Česká národní banka
+>
+> - a) v případě výkonu správního dozoru nad povinnou osobou se sídlem v České republice, která má pobočku nebo provozovnu v jiném členském státě, spolupracují s dozorčím orgánem tohoto jiného členského státu,
+>
+> - b) v případě výkonu správního dozoru nad povinnou osobou, která v České republice působí prostřednictvím pobočky nebo provozovny, spolupracují s dozorčím úřadem členského státu, ve kterém má tato právnická osoba sídlo,
+>
+> - c) vykonávají správní dozor nad uplatňováním skupinových strategií a postupů úvěrovými nebo finančními institucemi, které jsou součástí skupiny a jejichž mateřská obchodní korporace má sídlo v České republice, a spolupracují za tímto účelem s dozorčími úřady z členských států, ve kterých mají tyto finanční nebo úvěrové instituce sídlo, pobočku nebo provozovnu,
+>
+> - d) poskytují součinnost dozorčím úřadům z jiných členských států, které vykonávají správní dozor nad dodržováním skupinových strategií a postupů úvěrovými a finančními institucemi, které jsou součástí skupiny a které mají sídlo, pobočku nebo provozovnu v České republice,
+>
+> - e) poskytují součinnost dozorčím úřadům z jiných členských států, které vykonávají správní dozor nad úvěrovými a finančními institucemi, které jsou součástí skupiny a jejichž mateřská obchodní korporace má sídlo v České republice.
+>
+> (9) Úřad zašle Evropské komisi seznam dozorčích úřadů, včetně jejich kontaktních údajů. Tento seznam Úřad průběžně aktualizuje.
+>
+> (10) Úřad a Česká národní banka spolupracují v souvislosti s výkonem správního dozoru nebo dohledu s Evropskou centrální bankou.
+>
+> (11) Úřad a Česká národní banka informují evropské orgány dohledu nad úvěrovými nebo finančními institucemi o všech pravomocných rozhodnutích, kterými byl uložen správní trest za přestupek podle tohoto zákona.
+>
+> (12) Při kontrole plnění povinností stanovených tímto zákonem poskytovateli služeb spojených s virtuálním aktivem prověří Úřad také, zda je tento poskytovatel oprávněn k výkonu činnosti poskytovatele služeb souvisejících s kryptoaktivy, a v případě zjištění nedostatků informuje Českou národní banku.
+>
+> (13) Pokud Úřad zjistí porušení povinnosti, může povinné osobě uložit opatření k nápravě zjištěného nedostatku odpovídající povaze a závažnosti porušení a určit přiměřenou lhůtu k jeho splnění. Povinná osoba, které bylo uloženo opatření k nápravě, informuje Úřad o splnění opatření bez zbytečného odkladu poté, kdy k jeho splnění došlo, nejpozději do 10 dnů po uplynutí lhůty určené k jeho splnění.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2, § 18
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5b966ecc79633227d99c -->
+
 ### § 36 — Oprávnění při kontrole
 
 > **§ 36**
@@ -4675,6 +9225,52 @@ Model **„private supervisor"** (profesní komora kontroluje své členy) má k
 - [ ] FAÚ: při nečinnosti uplatnit opatření proti nečinnosti u nadřízeného orgánu.
 
 **Typicky rozhodné důkazy / podklady:** pravomocná rozhodnutí o přestupcích, kontrolní protokoly, podnět s doručenkou, vyrozumění orgánu o vyřízení, výpis z živnostenského rejstříku.
+
+
+<!-- LEGAL-REVISION:BEGIN id=dcd860c6f5aeead17169 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 36 — Podnět k odnětí oprávnění k podnikatelské nebo jiné samostatné výdělečné činnosti nebo k uložení sankce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> Zjistí-li Úřad, že právnická nebo fyzická osoba mající příjmy z podnikatelské nebo jiné samostatné výdělečné činnosti zvlášť závažným způsobem nebo opětovně porušuje některou z povinností stanovených v tomto zákoně nebo uložených rozhodnutím vydaným podle tohoto zákona nebo k takové činnosti není oprávněna, předloží podnět ke zrušení nebo odnětí oprávnění k podnikatelské nebo jiné samostatné výdělečné činnosti nebo k uložení sankce orgánu, který je podle jiného právního předpisu oprávněn o odnětí oprávnění nebo uložení sankce rozhodnout. Tento orgán je povinen do 30 dnů ode dne doručení podnětu Úřad vyrozumět o svých opatřeních a o způsobu jeho vyřízení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=dcd860c6f5aeead17169 -->
 
 ### § 37 — Mlčenlivost kontrolních orgánů
 
@@ -4741,6 +9337,68 @@ Model **„private supervisor"** (profesní komora kontroluje své členy) má k
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=e1425e03886a56182311 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 37 — Zvláštní ustanovení o správním dozoru u advokáta, notáře, auditora, soudního exekutora nebo daňového poradce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Příslušná profesní komora provede kontrolu dodržování povinností vyplývajících z tohoto zákona advokátem, notářem, auditorem, soudním exekutorem nebo daňovým poradcem rovněž na základě písemného podnětu Úřadu. Příslušná profesní komora písemně informuje Úřad o zahájení kontroly a ukončení kontroly a jejím výsledku do 10 pracovních dnů ode dne, kdy tyto skutečnosti nastaly.
+>
+> (2) Úřad může zahájit kontrolu dodržování povinností vyplývajících z tohoto zákona advokátem, notářem, auditorem, soudním exekutorem nebo daňovým poradcem, pouze pokud příslušná profesní komora na základě písemného podnětu Úřadu podle odstavce 1 nezahájí kontrolu nejpozději do 60 dnů ode dne, kdy jí byl podnět doručen.
+>
+> (3) Úřad je oprávněn vstupovat do prostor, v nichž se může nacházet písemnost, která obsahuje informace podle § 26 odst. 1, s výjimkou informací podle § 26 odst. 2, nebo § 27 odst. 1 nebo [[#§ 2|2]], pouze za přítomnosti povinné osoby. Pokud povinná osoba o písemnosti prohlásí, že obsahuje tyto informace, může se Úřad s jejím obsahem seznámit pouze za přítomnosti a se souhlasem zástupce příslušné profesní komory, kterého na základě podnětu Úřadu ustanoví její předseda, nebo prezident z řad jejích zaměstnanců nebo členů.
+>
+> (4) Zástupce příslušné profesní komory neudělí souhlas se seznámením se s příslušnou písemností pouze, pokud obsahuje informace podle § 26 odst. 1, s výjimkou informací podle § 26 odst. 2, nebo § 27 odst. 1 nebo [[#§ 2|2.]] V případě neudělení souhlasu se písemnost
+>
+> - a) za účasti Úřadu, povinné osoby a zástupce příslušné profesní komory zabezpečí tak, aby se s jejím obsahem nemohl nikdo seznámit, popřípadě ji zničit nebo poškodit, a
+>
+> - b) bezprostředně po jejím zabezpečení předá příslušné profesní komoře.
+>
+> (5) Souhlas zástupce příslušné profesní komory se seznámením se s příslušnou písemností lze nahradit na návrh Úřadu rozhodnutím soudu podle zákona upravujícího zvláštní řízení soudní; pokud marně uplyne lhůta k podání návrhu, příslušná profesní komora písemnost povinné osobě vrátí.
+>
+> (6) Příslušná profesní komora předkládá Úřadu do konce prvního kalendářního měsíce následujícího po skončení kalendářního roku přehled o počtu přijatých oznámení o porušení tohoto zákona, provedených kontrolách, zjištěných porušeních a rozhodnutí o přestupcích v daném kalendářním roce. Současně tento přehled zveřejní způsobem umožňujícím dálkový přístup.
+>
+> (7) Pokud příslušná profesní komora zjistí skutečnosti, které by mohly souviset s legalizací výnosů z trestné činnosti nebo financováním terorismu, bez odkladu o tom informuje Úřad a sdělí mu současně všechny informace v rozsahu podle § 18 odst. 2, pokud se nejedná o informace podle § 26 odst. 1 nebo § 27 odst. 1 nebo [[#§ 2|2.]] Při plnění této povinnosti se obdobně použije postup podle § 26 odst. 2.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 26, § 27, § 2, § 18
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e1425e03886a56182311 -->
+
 ## ČÁST TŘETÍ — MLČENLIVOST
 
 ### § 38 — Povinnost mlčenlivosti
@@ -4796,6 +9454,58 @@ Mlčenlivost přesahuje pracovněprávní vztah — bývalý zaměstnanec banky 
 - [ ] Sdělení klientovi pro účely náhrady škody jen v režimu a lhůtách § 39 odst. 1 písm. j).
 
 **Typicky rozhodné důkazy / podklady:** logy přístupů k oznámení, telekomunikační záznamy, svědecké výpovědi, interní předpis o důvěrnosti, doklad o poučení zaměstnance.
+
+
+<!-- LEGAL-REVISION:BEGIN id=aa73d4c135929d0dd687 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 38 — Povinnost mlčenlivosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Nestanoví-li tento zákon jinak, jsou povinné osoby a jejich zaměstnanci, zaměstnanci Úřadu, zaměstnanci ostatních dozorčích úřadů nebo Rady pro veřejný dohled nad auditem a fyzické osoby, které jsou pro povinnou osobu, Úřad, jiný dozorčí úřad nebo Radu pro veřejný dohled nad auditem činné jinak než v základním pracovněprávním vztahu, povinni zachovávat mlčenlivost o skutečnostech, týkajících se oznámení a šetření podezřelého obchodu, úkonů učiněných Úřadem nebo plnění povinností stanovených v § 24 odst. 1, [[#§ 3|3]], [[#§ 4|4]] nebo [[#§ 5|5]] nebo [[#§ 31c|§ 31c]].
+>
+> (2) Převedením osob uvedených v odstavci 1 na jinou práci, skončením jejich pracovněprávního nebo jiného vztahu k povinné osobě, Úřadu, jinému dozorčímu úřadu nebo Radě pro veřejný dohled nad auditem ani tím, že povinná osoba přestala vykonávat činnosti uvedené v [[#§ 2|§ 2]], povinnost mlčenlivosti nezaniká.
+>
+> (3) O skutečnostech uvedených v odstavci 1 je povinen zachovávat mlčenlivost každý, kdo se o nich dozví.
+>
+> (4) Zprostit osoby uvedené v odstavcích 1 až 3 povinnosti mlčenlivosti je v odůvodněných případech oprávněn předseda vlády nebo v jednotlivých případech jím pověřený člen vlády.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 24, § 3, § 4, § 5, § 31c, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=aa73d4c135929d0dd687 -->
 
 ### § 39 — Výjimky z mlčenlivosti
 
@@ -4907,6 +9617,116 @@ Mlčenlivost přesahuje pracovněprávní vztah — bývalý zaměstnanec banky 
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o odložení příkazu, doklad o vykonání zajištění OČTŘ, písemný souhlas FAÚ, skupinová AML politika, protokol o rozsahu informací poskytnutých soudu.
 
+
+<!-- LEGAL-REVISION:BEGIN id=6e1b826ed2b635a501d5 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 39 — Výjimky z mlčenlivosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Povinnosti zachovávat mlčenlivost stanovené v [[#§ 38|§ 38]] se nelze dovolávat vůči
+>
+> - a) orgánu činnému v trestním řízení, pokud provádí řízení o trestném činu souvisejícím s legalizací výnosu z trestné činnosti nebo financováním terorismu, anebo jedná-li se o splnění oznamovací povinnosti vztahující se k takovému trestnému činu,
+>
+> - b) specializovaným policejním složkám pro vyhledávání legalizace výnosů z trestné činnosti a financování terorismu, pokud jde o informace získané podle § 42 odst. 3,
+>
+> - c) zahraničnímu orgánu uvedenému v [[#§ 33|§ 33]] při předávání údajů sloužících k dosažení účelu stanoveného tímto zákonem, a informací souvisejících s trestnými činy podle § 3 odst. 2,
+>
+> - d) Policii České republiky, Generálnímu finančnímu ředitelství nebo Generálnímu ředitelství cel, pokud jde o skutečnosti, které jsou součástí informace uvedené v § 32 odst. 2,
+>
+> - e) dozorčím úřadům uvedeným v § 35 odst. 1 nebo Radě pro veřejný dohled nad auditem, pokud vykonávají působnost podle tohoto zákona,
+>
+> - f) správnímu orgánu, který plní úkoly v systému certifikace surových diamantů podle jiného právního předpisu,
+>
+> - g) správnímu orgánu oprávněnému vykonávat státní kontrolu nebo vést řízení o přestupku podle zákona [[o provádění mezinárodních sankcí|o provádění mezinárodních sankcí]],
+>
+> - h) orgánu oprávněnému podle jiného právního předpisu rozhodovat o odnětí oprávnění k podnikatelské nebo jiné samostatné výdělečné činnosti nebo o uložení sankce v případě, že Úřad předloží podnět k odnětí takového oprávnění nebo k uložení takové sankce,
+>
+> - i) finančnímu arbitrovi rozhodujícímu podle jiného právního předpisu ve sporu navrhovatele proti instituci,
+>
+> - j) osobě, která by mohla uplatnit nárok na náhradu škody způsobené postupem podle tohoto zákona, jde-li o následné sdělení skutečností rozhodných pro uplatnění takového nároku; povinná osoba může v tomto případě sdělit klientovi, že bylo jednáno podle tohoto zákona, až po dni, ve kterém bylo vykonáno rozhodnutí orgánu činného v trestním řízení o odnětí nebo zajištění předmětu podezřelého obchodu nebo ve kterém skončila lhůta stanovená v § 20 odst. 7; v ostatních případech až po předchozím písemném souhlasu Úřadu,
+>
+> - k) soudu
+>
+> - 1. rozhodujícímu v občanském soudním řízení spory týkající se podezřelého obchodu nebo nároku na náhradu škody nebo nemajetkové újmy vzniklé v důsledku splnění povinnosti podle tohoto zákona,
+>
+> - 2. příslušnému k rozhodování v řízení o nesrovnalosti podle zákona upravujícího evidenci skutečných majitelů,
+>
+> - l) Národnímu bezpečnostnímu úřadu, Ministerstvu vnitra nebo zpravodajské službě při provádění bezpečnostního řízení podle jiného právního předpisu24),
+>
+> - m) příslušné zpravodajské službě, jedná-li se o informace, které jsou významné pro plnění jejích úkolů v oblastech působnosti vymezených zákonem upravujícím zpravodajské služby,
+>
+> - n) správci daně při poskytování informací při plnění povinností stanovených daňovým řádem povinné osobě,
+>
+> - o) orgánu pro vyhledávání majetku z trestné činnosti a národní jednotce Europolu při plnění povinnosti Úřadu podle [[#§ 33a|§ 33a]],
+>
+> - p) orgánu příslušnému k dozoru nad zpracováním osobních údajů, pokud jde o přístup k evidenci žádostí o poskytnutí údajů podle [[#§ 33a|§ 33a]],
+>
+> - q) Ministerstvu průmyslu a obchodu při provádění řízení o prověření zahraniční investice podle zákona upravujícího prověřování zahraničních investic,
+>
+> - r) Národnímu úřadu pro kybernetickou a informační bezpečnost při prověřování rizik spojených s dodavatelem podle zákona [[o kybernetické bezpečnosti|o kybernetické bezpečnosti]],
+>
+> - r) příslušnému orgánu podle přímo použitelného předpisu Evropské unie upravujícího obezřetnostní požadavky na úvěrové instituce50) pro účely
+>
+> - 1. udělení bankovní licence podle [[zákona upravujícího činnost bank|zákona upravujícího činnost bank]] nebo obdobné licence v jiném členském státě Evropské unie,
+>
+> - 2. udělení povolení podle [[zákona upravujícího činnost spořitelních a úvěrních družstev|zákona upravujícího činnost spořitelních a úvěrních družstev]] nebo obdobného povolení v jiném členském státě Evropské unie, nebo
+>
+> - 3. konzultace informací podle [[zákona upravujícího činnost bank|zákona upravujícího činnost bank]], [[zákona upravujícího činnost spořitelních a úvěrních družstev|zákona upravujícího činnost spořitelních a úvěrních družstev]] nebo srovnatelného právního předpisu jiného členského státu Evropské unie.
+>
+> (2) Povinnosti zachovávat mlčenlivost stanovené v [[#§ 38|§ 38]] se, za předpokladu, že sdělené informace se použijí výhradně pro účely předcházení legalizaci výnosů z trestné činnosti a financování terorismu, nelze dovolávat při sdělování informací mezi
+>
+> - a) úvěrovými nebo finančními institucemi, včetně zahraničních úvěrových a finančních institucí, jestliže působí na území členského státu Evropské unie nebo státu tvořícího Evropský hospodářský prostor a náležejí do stejné skupiny, nebo mezi těmito institucemi a jejich dceřinými obchodními korporacemi působícími ve třetích zemích, ve kterých tyto instituce vlastní většinový podíl a které plně dodržují skupinové strategie a postupy pro boj proti legalizaci výnosů z trestné činnosti a financování terorismu,
+>
+> - b) povinnými osobami uvedenými v § 2 odst. 1 písm. e) a f) nebo osobami stejného typu působícími na území státu, který jim ukládá v oblasti boje proti legalizaci výnosů z trestné činnosti a financování terorismu povinnosti rovnocenné požadavkům práva Evropské unie, pokud vykonávají svou profesní činnost jako zaměstnanci nebo osoby činné pro povinnou osobu jinak než v základním pracovněprávním vztahu, v rámci téže právnické osoby a mezi právnickými osobami, které jsou spolu smluvně nebo personálně propojeny, nebo
+>
+> - c) úvěrovými nebo finančními institucemi, nebo mezi povinnými osobami uvedenými v § 2 odst. 1 písm. e) a f), nebo osobami stejného typu působícími na území státu, který jim ukládá v oblasti boje proti legalizaci výnosů z trestné činnosti a financování terorismu povinnosti rovnocenné požadavkům práva Evropské unie, a to v případech, které se týkají stejného klienta a stejného obchodu, a na nichž se podílí dvě nebo více osob, pokud jsou ze stejné profesní kategorie a vztahují se na ně rovnocenné povinnosti o zachování profesního tajemství a ochrany osobních údajů.
+>
+> (3) Povinnosti mlčenlivosti se nelze dovolávat v řízení podle zákona [[o provádění mezinárodních sankcí|o provádění mezinárodních sankcí]].
+>
+> (4) Výjimky uvedené v odstavci 1 písm. c) až r)
+>
+> - a) se uplatní jen v nezbytně nutném rozsahu podle účelu poskytované informace, a to zejména s ohledem na ochranu informací o oznamovatelích podezřelých obchodů,
+>
+> - b) nelze uplatnit, pokud by poskytnutí informací mohlo zmařit nebo ohrozit šetření podezřelého obchodu nebo probíhající trestní řízení, nebo jestliže by poskytnutí informací bylo zjevně nepřiměřené oprávněným zájmům osoby, jíž se informace týká, nebo účelu, pro který byla žádost podána.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 38, § 42, § 33, § 3, § 32, § 35, § 20, § 33a, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6e1b826ed2b635a501d5 -->
+
 ### § 40 — Mlčenlivost advokáta, notáře, auditora, exekutora, daňového poradce
 
 > **§ 40**
@@ -4961,6 +9781,58 @@ Hranice mezi „normální" právní pomocí a kolaborací s ML je v praxi tenk�
 
 **Typicky rozhodné důkazy / podklady:** klientský spis s pokyny, smlouva o úschově a platební struktura, záznam o interním posouzení podezření, oznámení podané přes komoru, korespondence s klientem dokládající rozsah sdělení.
 
+
+<!-- LEGAL-REVISION:BEGIN id=ff7ac8c262879a24451a generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 40 — Zvláštní ustanovení o mlčenlivosti advokáta, notáře, auditora, soudního exekutora nebo daňového poradce
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Ustanovení [[#§ 39|§ 39]] se s výjimkou odstavce 1 písm. e) a n) na advokáty a notáře nevztahují.
+>
+> (2) Ustanovení [[#§ 39|§ 39]] se s výjimkou odstavce 1 písm. e) a n) a odstavce 2 na auditory, soudní exekutory a daňové poradce nevztahují.
+>
+> (3) Advokát, notář, auditor, soudní exekutor a daňový poradce není ve vztahu ke klientovi povinen zachovávat mlčenlivost o skutečnostech uvedených v § 38 odst. 1, pokud mají být tyto skutečnosti klientovi sděleny ve snaze odradit ho od zapojení se do nedovolené činnosti.
+>
+> (4) Odstavce 1 až 3 se použijí i u jiných osob, na které se podle jiných právních předpisů vztahuje povinnost mlčenlivosti uložená advokátům, notářům, auditorům, soudním exekutorům a daňovým poradcům.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 39, § 38
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ff7ac8c262879a24451a -->
+
 ### § 40a — Mlčenlivost osob činných pro profesní komoru nebo RVDA
 
 > **§ 40a**
@@ -5006,6 +9878,52 @@ Hranice mezi „normální" právní pomocí a kolaborací s ML je v praxi tenk�
 - [ ] Poučit kontrolory o trvání mlčenlivosti i po skončení činnosti pro komoru.
 
 **Typicky rozhodné důkazy / podklady:** kontrolní spis komory, protokol o vyloučení chráněných informací, předávací protokol FAÚ, interní metodika komory.
+
+
+<!-- LEGAL-REVISION:BEGIN id=5b286d34dfbcec6487c7 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 40a — Zvláštní ustanovení o mlčenlivosti osob činných pro příslušnou profesní komoru nebo Radu pro veřejný dohled nad auditem
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> Zaměstnanci příslušných profesních komor nebo Rady pro veřejný dohled nad auditem a fyzické osoby, které jsou pro příslušnou profesní komoru nebo Radu pro veřejný dohled nad auditem činné jinak než v základním pracovněprávním vztahu, při plnění povinností stanovených tímto zákonem vůči Úřadu vyloučí informace, které získal advokát, notář, auditor, soudní exekutor a daňový poradce podle § 26 odst. 1 a § 27 odst. 1 a [[#§ 2|2.]] Při plnění těchto povinností se obdobně použije postup podle § 26 odst. 2.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 26, § 27, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5b286d34dfbcec6487c7 -->
 
 ### § 40b — Mlčenlivost o totožnosti oznamovatele
 
@@ -5069,6 +9987,66 @@ Hranice mezi „normální" právní pomocí a kolaborací s ML je v praxi tenk�
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=f79e2186d14935609b67 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 40b — Zvláštní ustanovení o mlčenlivosti o totožnosti oznamovatele
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Nestanoví-li tento zákon jinak, jsou zaměstnanci Úřadu, ostatních dozorčích úřadů nebo Rady pro veřejný dohled nad auditem a fyzické osoby, které jsou pro Úřad, ostatní dozorčí úřady nebo Radu pro veřejný dohled nad auditem činné jinak než v základním pracovněprávním vztahu, povinni zachovávat mlčenlivost o totožnosti oznamovatele podle [[#§ 34a|§ 34a]].
+>
+> (2) Převedením osob podle odstavce 1 na jinou práci, skončením jejich pracovněprávního nebo jiného vztahu k Úřadu, jinému dozorčímu úřadu nebo Radě pro veřejný dohled nad auditem povinnost mlčenlivosti o totožnosti oznamovatele nezaniká.
+>
+> (3) Mlčenlivosti o totožnosti oznamovatele se nelze dovolávat
+>
+> - a) vůči dozorčím úřadům podle § 35 odst. 1 nebo Radě pro veřejný dohled nad auditem, pokud vykonávají působnost podle tohoto zákona,
+>
+> - b) vůči orgánu činnému v trestním řízení,
+>
+> - c) v řízení podle zákona [[o provádění mezinárodních sankcí|o provádění mezinárodních sankcí]].
+>
+> (4) Výjimky podle odstavce 3 nelze uplatnit, pokud by poskytnutí informací mohlo zmařit nebo ohrozit šetření podezřelého obchodu nebo probíhající trestní řízení, nebo jestliže by poskytnutí informací bylo zjevně nepřiměřené oprávněným zájmům oznamovatele podle [[#§ 34a|§ 34a]].
+>
+> (5) Zprostit osoby uvedené podle odstavce 1 nebo [[#§ 2|2]] povinnosti mlčenlivosti o totožnosti oznamovatele je oprávněn pouze oznamovatel podle [[#§ 34a|§ 34a]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 34a, § 35, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f79e2186d14935609b67 -->
+
 ## ČÁST ČTVRTÁ — PŘEVOZ PENĚŽNÍ HOTOVOSTI PŘES HRANICE
 
 ### § 41 — Oznamovací povinnost při převozu hotovosti
@@ -5129,6 +10107,60 @@ Hranice mezi „normální" právní pomocí a kolaborací s ML je v praxi tenk�
 - [ ] Sledovat úhrn převozů za 12 měsíců; mít doklady o původu prostředků pro případ kontroly.
 
 **Typicky rozhodné důkazy / podklady:** společný ohlašovací formulář, protokol o celní kontrole, doklady o původu hotovosti (výpisy, faktury), ocenění nepeněžních složek, cestovní doklady k sčítacímu pravidlu.
+
+
+<!-- LEGAL-REVISION:BEGIN id=8d4e4a65b01b0914bfc9 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 41 — Oznamovací povinnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba při vstupu do České republiky z oblasti mimo území Evropské unie a při výstupu z České republiky do takové oblasti je povinna písemně oznámit celnímu úřadu dovoz a vývoz peněžní hotovosti v úhrnné hodnotě alespoň 10 000 EUR a předložit je celnímu úřadu ke kontrole.
+>
+> (2) Povinnost uvedenou v odstavci 1 má rovněž právnická nebo podnikající fyzická osoba, která peněžní hotovost podle odstavce 1 dováží nebo vyváží. Tuto povinnost za právnickou nebo podnikající fyzickou osobu plní fyzická osoba, která má peněžní hotovost u sebe při překročení hranice území Evropské unie.
+>
+> (3) Osoba odesílající z České republiky mimo území Evropské unie nebo přijímající odtud poštovní nebo jinou zásilku, která obsahuje peněžní hotovost v úhrnné hodnotě alespoň 10 000 EUR, je povinna oznámit celnímu úřadu tuto zásilku a zajistit, aby mu byla zásilka předložena ke kontrole.
+>
+> (4) Oznamovací povinnost podle odstavců 1 až 3 má osoba i tehdy, pokud na území Evropské unie dováží nebo z něj vyváží anebo v zásilce přijímá nebo odesílá v průběhu 12 po sobě jdoucích měsíců peněžní hotovost v úhrnné hodnotě alespoň 10 000 EUR. Oznamovací povinnost vzniká v době, kdy je osobě známo, že stanovené hranice bude dosaženo.
+>
+> (5) Oznámení se podává na společném ohlašovacím formuláři Evropské unie, jehož vzor je uveden v přímo použitelném předpise Evropské unie47). Tiskopis společného ohlašovacího formuláře Evropské unie je k dispozici u celního úřadu; Úřad společný ohlašovací formulář Evropské unie, včetně všech jeho ostatních jazykových verzí zveřejněných Evropskou komisí, rovněž zveřejní způsobem umožňujícím dálkový přístup. Osoba, která oznámení podává, odpovídá za správnost a úplnost v něm vyplněných údajů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8d4e4a65b01b0914bfc9 -->
 
 ### § 41a — Informační povinnost při převodu nad rámec hotovosti
 
@@ -5196,6 +10228,72 @@ Hranice mezi „normální" právní pomocí a kolaborací s ML je v praxi tenk�
 
 **Typicky rozhodné důkazy / podklady:** záznam o výzvě a sdělené údaje, zmocnění či smlouva s vlastníkem hotovosti, bankovní výpisy o původu, přepravní dokumentace zásilky, protokol o kontrole.
 
+
+<!-- LEGAL-REVISION:BEGIN id=efc99cc0ac20bdedf004 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 41a — Informační povinnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Osoba převážející peněžní hotovost v úhrnné hodnotě alespoň 15 000 EUR má na základě výzvy celního úřadu povinnost sdělit údaje o tomto převozu.
+>
+> (2) Osoba odesílající z České republiky poštovní nebo jinou zásilku do členského státu Evropské unie obsahující peněžní hotovost v úhrnné hodnotě alespoň 15 000 EUR nebo přijímající v České republice takovou poštovní nebo jinou zásilku z jiného členského státu Evropské unie má na základě výzvy celního úřadu povinnost sdělit údaje o této zásilce.
+>
+> (3) Ve sdělení podle odstavce 1 nebo [[#§ 2|2]] uvede osoba převážející, odesílající nebo přijímající peněžní hotovost
+>
+> - a) své identifikační údaje,
+>
+> - b) identifikační údaje vlastníka peněžní hotovosti,
+>
+> - c) identifikační údaje příjemce peněžní hotovosti a
+>
+> - d) údaje o
+>
+> - 1. druhu a hodnotě peněžní hotovosti,
+>
+> - 2. původu peněžní hotovosti,
+>
+> - 3. účelu, pro který je peněžní hotovost převážena, zasílána nebo přijímána, a
+>
+> - 4. povaze vztahu, na základě kterého se přeprava peněžní hotovosti uskutečňuje.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=efc99cc0ac20bdedf004 -->
+
 ### § 41b — Stanovení hodnoty peněžní hotovosti
 
 > **§ 41b**
@@ -5243,6 +10341,54 @@ Hranice mezi „normální" právní pomocí a kolaborací s ML je v praxi tenk�
 - [ ] Celní úřad: v protokolu uvést rozhodný kurz a výpočet přepočtu.
 
 **Typicky rozhodné důkazy / podklady:** kurzovní lístek ČNB k rozhodné středě, protokol o kontrole s výčtem hotovosti, ocenění komodit podle zákona č. 151/1997 Sb.
+
+
+<!-- LEGAL-REVISION:BEGIN id=eb6f8e99917cba59752b generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 41b — Stanovení hodnoty peněžní hotovosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Pro účely plnění povinnosti podle § 41 odst. 1 až 3 a podle § 41a odst. 1 a [[#§ 2|2]] se pro přepočet měny na euro použije kurz vyhlášený Českou národní bankou pro předposlední středu kalendářního měsíce bezprostředně předcházejícího kalendářnímu měsíci, kdy vznikne tato povinnost.
+>
+> (2) Hodnota peněžní hotovosti jiné než oběživa podle přímo použitelného předpisu Evropské unie upravujícího kontroly peněžní hotovosti vstupující do Evropské unie nebo ji opouštějící49) se určí podle zákona upravujícího oceňování majetku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 41, § 41a, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=eb6f8e99917cba59752b -->
 
 ### § 42 — Činnost Celní správy
 
@@ -5304,6 +10450,66 @@ Hranice mezi „normální" právní pomocí a kolaborací s ML je v praxi tenk�
 
 **Typicky rozhodné důkazy / podklady:** rentgenový snímek, protokol o vnitřní kontrole zásilky, poštovní deklarace obsahu, záznam o předání údajů FAÚ.
 
+
+<!-- LEGAL-REVISION:BEGIN id=82fb2baa32adea0f04cb generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 42 — Činnost orgánů Celní správy České republiky
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Celní úřad vykonává kontrolu plnění povinností podle [[#§ 41|§ 41]] a [[#§ 41a|41a]] a podle přímo použitelného předpisu Evropské unie upravujícího kontroly peněžní hotovosti vstupující do Evropské unie nebo ji opouštějící49).
+>
+> (2) Celní úřady zaznamenávají a zpracovávají informace podle [[#§ 41|§ 41]] a [[#§ 41a|41a]] včetně osobních údajů.
+>
+> (3) Celní úřad prostřednictvím Generálního ředitelství cel neprodleně zasílá Úřadu údaje o plnění povinností podle [[#§ 41|§ 41]] a [[#§ 41a|41a]] a podle přímo použitelného předpisu Evropské unie upravujícího kontroly peněžní hotovosti vstupující do Evropské unie nebo ji opouštějící49) včetně případů, kdy došlo k porušení této povinnosti. Na uchovávání těchto údajů Úřadem se přímo použitelný předpis Evropské unie upravující kontroly peněžní hotovosti vstupující do Evropské unie nebo ji opouštějící49) použije obdobně.
+>
+> (4) Celní úřad může provést vnitřní kontrolu poštovní nebo jiné zásilky i v případě, že se na obsah zásilky vztahuje listovní tajemství, pokud
+>
+> - a) má důvodné podezření, že obsahuje peněžní hotovost, u které nebyla splněna oznamovací povinnost podle [[#§ 41|§ 41]],
+>
+> - b) ověřuje správnost a úplnost údajů uvedených v oznámení podle [[#§ 41|§ 41]], nebo
+>
+> - c) má důvodné podezření, že obsahuje peněžní hotovost, u které může být požadováno splnění informační povinnosti podle [[#§ 41a|§ 41a]].
+>
+> (5) Na vnitřní kontrolu zásilky podle odstavce 4 se ustanovení [[celního zákona|celního zákona]] o vnitřní kontrole zásilek a o vynětí z celní kontroly použijí obdobně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 41, § 41a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=82fb2baa32adea0f04cb -->
+
 ### § 42a — Zadržení peněžní hotovosti
 
 > **§ 42a**
@@ -5357,6 +10563,60 @@ Hranice mezi „normální" právní pomocí a kolaborací s ML je v praxi tenk�
 - [ ] Držitel: neprodleně doložit původ a účel hotovosti, žádat vrácení podle § 42b.
 
 **Typicky rozhodné důkazy / podklady:** protokol o zadržení, doklady o původu prostředků (výpisy, faktury), záznam o vyrozumění FAÚ, případné usnesení o zajištění podle § 79a TŘ.
+
+
+<!-- LEGAL-REVISION:BEGIN id=f4aa50f0db8b4946a461 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 42a — Zadržení peněžní hotovosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Celní úřad zadrží peněžní hotovost, pokud má důvodné podezření, že
+>
+> - a) dochází k porušení povinnosti podle § 41 odst. 1 až 4,
+>
+> - b) dochází k porušení povinnosti podle § 41a odst. 1 a [[#§ 2|2]], nebo
+>
+> - c) souvisí s legalizací výnosů z trestné činnosti nebo financováním terorismu.
+>
+> (2) Na postup při zadržení peněžní hotovosti se zákon upravující Celní správu České republiky použije obdobně. Celní úřad peněžní hotovost nezadrží, pokud by tímto postupem mohl zmařit nebo ohrozit šetření podezřelého obchodu nebo probíhající trestní řízení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 41, § 41a, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f4aa50f0db8b4946a461 -->
 
 ### § 42b — Vrácení zadržené peněžní hotovosti
 
@@ -5422,6 +10682,70 @@ Hranice mezi „normální" právní pomocí a kolaborací s ML je v praxi tenk�
 
 **Typicky rozhodné důkazy / podklady:** protokol o zadržení, doklad o vlastnictví hotovosti (smlouvy, účetnictví, výpisy), rozhodnutí v přestupkovém řízení, žádost vlastníka o vrácení.
 
+
+<!-- LEGAL-REVISION:BEGIN id=5056e64f85f3c1fa0096 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 42b — Vrácení zadržené peněžní hotovosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Celní úřad peněžní hotovost vrátí bez zbytečného odkladu nebo po uplynutí doby pro zadržení peněžní hotovosti stanovené přímo použitelným předpisem Evropské unie upravujícím kontroly peněžní hotovosti vstupující do Evropské unie nebo ji opouštějící49), pokud
+>
+> - a) není rozhodnuto o jejím propadnutí nebo zabrání,
+>
+> - b) zjevně nepřichází v úvahu její využití na úhradu pokuty, nákladů řízení nebo exekuce a
+>
+> - c) vrácení nebrání jiná právní překážka.
+>
+> (2) Peněžní hotovost se vrací
+>
+> - a) osobě, které byla zadržena,
+>
+> - b) vlastníkovi, pokud
+>
+> - 1. s vynaložením přiměřeného úsilí nelze vrátit peněžní hotovost osobě podle písmene a), nebo
+>
+> - 2. o vrácení peněžní hotovosti požádá.
+>
+> (3) Celní úřad může na žádost osoby podle odstavce 2 vrátit část zadržené peněžní hotovosti z důvodu odstranění tvrdosti zákona, jsou-li u vracené části zadržené peněžní hotovosti splněny podmínky pro vrácení podle odstavce 1.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=5056e64f85f3c1fa0096 -->
+
 ### § 42c — Použití daňového řádu
 
 > **§ 42c**
@@ -5469,6 +10793,52 @@ Hranice mezi „normální" právní pomocí a kolaborací s ML je v praxi tenk�
 **Typicky rozhodné důkazy / podklady:** žádost o vrácení hotovosti, doklad o jejím doručení, spisová dokumentace celního úřadu, podnět podle § 38 DŘ a reakce GŘC.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=b1c96edb33f71917862a generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 42c — Použití [[daňového řádu|daňového řádu]]
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> Při výkonu působnosti podle této části se postupuje podle [[daňového řádu|daňového řádu]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=b1c96edb33f71917862a -->
 
 ## ČÁST PÁTÁ — PŘESTUPKY
 
@@ -5526,6 +10896,60 @@ Hranice mezi „normální" právní pomocí a kolaborací s ML je v praxi tenk�
 
 **Typicky rozhodné důkazy / podklady:** přístupové logy k systému oznámení, záznamy komunikace s klientem, časová osa výběrů a převodů, interní šetření povinné osoby.
 
+
+<!-- LEGAL-REVISION:BEGIN id=f4ae7f63411cd00bc358 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 43 — Porušení povinnosti mlčenlivosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Povinná osoba, zaměstnanec povinné osoby, zaměstnanec Úřadu, jiného dozorčího úřadu nebo Rady pro veřejný dohled nad auditem anebo fyzická osoba, která je pro povinnou osobu, Úřad, jiný dozorčí úřad nebo Radu pro veřejný dohled nad auditem činná jinak než v základním pracovněprávním vztahu, se dopustí přestupku tím, že poruší povinnost mlčenlivosti podle § 38 odst. 1 nebo [[#§ 2|2.]]
+>
+> (2) Fyzická osoba neuvedená v odstavci 1 se dopustí přestupku tím, že poruší povinnost mlčenlivosti podle § 38 odst. 3.
+>
+> (3) Zaměstnanec Úřadu, jiného dozorčího úřadu nebo Rady pro veřejný dohled nad auditem anebo fyzická osoba, která je pro Úřad, jiný dozorčí úřad nebo Radu pro veřejný dohled nad auditem činná jinak než v základním pracovněprávním vztahu, se dopustí přestupku tím, že poruší povinnost mlčenlivosti podle [[#§ 40b|§ 40b]].
+>
+> (4) Za přestupek podle odstavce 1 až 3 lze uložit pokutu do 200 000 Kč.
+>
+> (5) Za přestupek podle odstavce 1 nebo [[#§ 3|3]] lze uložit pokutu do 1 000 000 Kč, jestliže tímto jednáním bylo znemožněno nebo ztíženo zajištění nebo odčerpání výnosu z trestné činnosti nebo umožněno financování terorismu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 38, § 2, § 40b, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f4ae7f63411cd00bc358 -->
+
 ### § 44 — Nesplnění povinností při identifikaci a kontrole
 
 > **§ 44**
@@ -5574,6 +10998,84 @@ V praxi ČNB i FAÚ ukládají pokuty v desítkách milionů — např. Sberbank
 
 **Typicky rozhodné důkazy / podklady:** kontrolní protokol § 35, klientské složky (identifikace, kontrola, rizikový profil), vnitřní předpisy, údaje o objemu transakcí, předchozí rozhodnutí o pokutách.
 
+
+<!-- LEGAL-REVISION:BEGIN id=4405d76c93604c774279 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 44 — Nesplnění povinností při identifikaci a kontrole klienta
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Povinná osoba se dopustí přestupku tím, že
+>
+> - a) nesplní povinnost identifikace klienta,
+>
+> - b) nesplní povinnost kontroly klienta,
+>
+> - c) poruší zákaz uskutečnit obchod nebo navázat obchodní vztah podle [[#§ 15|§ 15]], nebo
+>
+> - d) nesplní povinnost uchovávat údaje.
+>
+> (2) Povinná osoba se dopustí přestupku tím, že nesplní povinnost postupovat v souladu s pokynem Úřadu podle § 9b písm. b).
+>
+> (3) Za přestupek podle odstavce 1 lze uložit pokutu do 10 000 000 Kč.
+>
+> (4) Za přestupek podle odstavce 1, který byl spáchán závažně, opakovaně, nebo byl páchán soustavně, lze uložit
+>
+> - a) pokutu do výše dvojnásobku neoprávněně získaného prospěchu nebo do 30 000 000 Kč, podle toho, která z těchto hodnot je vyšší,
+>
+> - b) pokutu do výše dvojnásobku neoprávněně získaného prospěchu nebo do 130 000 000 Kč, podle toho, která z těchto hodnot je vyšší, je-li pachatelem finanční instituce,
+>
+> - c) pokutu do výše dvojnásobku neoprávněně získaného prospěchu, do výše 130 000 000 Kč nebo do výše 10 % čistého ročního obratu dosaženého pachatelem podle poslední řádné účetní závěrky, podle toho, která z těchto hodnot je vyšší, je-li pachatelem úvěrová nebo finanční instituce, která je právnickou osobou,
+>
+> - d) pokutu do výše dvojnásobku neoprávněně získaného prospěchu, do výše 130 000 000 Kč nebo do výše 10 % čistého ročního obratu dosaženého podle poslední konsolidované účetní závěrky konsolidačním celkem, do kterého je pachatel zahrnut, podle toho, která z těchto hodnot je vyšší, je-li pachatelem úvěrová nebo finanční instituce, která je právnickou osobou zahrnutou do konsolidačního celku,
+>
+> - e) zákaz činnosti, nebo
+>
+> - f) zveřejnění rozhodnutí o přestupku.
+>
+> (5) Za přestupek podle odstavce 2 lze uložit pokutu do
+>
+> - a) 200 000 Kč, nebo
+>
+> - b) 1 000 000 Kč, jestliže bylo tímto jednáním znemožněno nebo ztíženo zajištění nebo odčerpání výnosu z trestné činnosti nebo umožněno financování terorismu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 15, § 9b
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=4405d76c93604c774279 -->
+
 ### § 44a — Nesplnění povinnosti k UBO evidenci
 
 > **§ 44a**
@@ -5619,6 +11121,68 @@ V praxi ČNB i FAÚ ukládají pokuty v desítkách milionů — např. Sberbank
 - [ ] Vést evidenci učiněných oznámení pro případ kontroly FAÚ.
 
 **Typicky rozhodné důkazy / podklady:** klientská složka (struktura vlastnictví), výpis z evidence skutečných majitelů, interní záznam o zjištění a eskalaci, korespondence s klientem, kopie oznámení.
+
+
+<!-- LEGAL-REVISION:BEGIN id=632575b29cb490c2745b generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 44a — Nesplnění povinnosti ve vztahu k nesrovnalostem v evidenci skutečných majitelů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Povinná osoba se dopustí přestupku tím, že nesplní povinnost
+>
+> - a) upozornit klienta podle § 15a odst. 1 na nesrovnalost,
+>
+> - b) oznámit nesrovnalost soudu podle § 15a odst. 2, nebo
+>
+> - c) postupovat v souladu s pokynem Úřadu podle § 15a odst. 4.
+>
+> (2) Za přestupek podle odstavce 1 písm. a) lze uložit pokutu do 100 000 Kč.
+>
+> (3) Za přestupek podle odstavce 1 písm. b) lze uložit pokutu do 1 000 000 Kč.
+>
+> (4) Za přestupek podle odstavce 1 písm. c) lze uložit pokutu do
+>
+> - a) 200 000 Kč, nebo
+>
+> - b) 1 000 000 Kč, jestliže bylo tímto jednáním znemožněno nebo ztíženo zajištění nebo odčerpání výnosu z trestné činnosti nebo umožněno financování terorismu.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 15a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=632575b29cb490c2745b -->
 
 ### § 45 — Nesplnění informační povinnosti
 
@@ -5692,6 +11256,78 @@ V praxi ČNB i FAÚ ukládají pokuty v desítkách milionů — např. Sberbank
 
 **Typicky rozhodné důkazy / podklady:** výzva FAÚ a doklad o doručení, odpověď povinné osoby s časovým razítkem, seznam chybějících podkladů, korespondence o prodloužení lhůty.
 
+
+<!-- LEGAL-REVISION:BEGIN id=e405d761c056a2884284 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 45 — Nesplnění informační povinnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Povinná osoba se dopustí přestupku tím, že
+>
+> - a) nesplní informační povinnost podle § 24 odst. 1, nebo
+>
+> - b) nesplní informační povinnost podle § 24 odst. 3 až 5.
+>
+> (2) Osoba podle § 30a odst. 1 písm. b) a c) se dopustí přestupku tím, že nesplní některou z povinností podle § 30a odst. 1.
+>
+> (3) Povinná osoba se dopustí přestupku tím, že poruší informační povinnost podle § 22 odst. 2.
+>
+> (4) Za přestupek podle odstavce 2 lze uložit pokutu do 1 000 000 Kč.
+>
+> (5) Za přestupek podle odstavce 1 nebo [[#§ 3|3]] lze uložit pokutu do 10 000 000 Kč.
+>
+> (6) Za přestupek podle odstavce 1 písm. a), který byl spáchán závažně, opakovaně, nebo byl páchán soustavně, lze uložit
+>
+> - a) pokutu do výše dvojnásobku neoprávněně získaného prospěchu nebo do 30 000 000 Kč, podle toho, která z těchto hodnot je vyšší,
+>
+> - b) pokutu do výše dvojnásobku neoprávněně získaného prospěchu nebo do 130 000 000 Kč, podle toho, která z těchto hodnot je vyšší, je-li pachatelem finanční instituce,
+>
+> - c) pokutu do výše dvojnásobku neoprávněně získaného prospěchu, do výše 130 000 000 Kč nebo do výše 10 % čistého ročního obratu dosaženého pachatelem podle poslední řádné účetní závěrky, podle toho, která z těchto hodnot je vyšší, je-li pachatelem úvěrová nebo finanční instituce, která je právnickou osobou,
+>
+> - d) pokutu do výše dvojnásobku neoprávněně získaného prospěchu, do výše 130 000 000 Kč nebo do výše 10 % čistého ročního obratu dosaženého podle poslední konsolidované účetní závěrky konsolidačním celkem, do kterého je pachatel zahrnut, podle toho, která z těchto hodnot je vyšší, je-li pachatelem úvěrová nebo finanční instituce, která je právnickou osobou zahrnutou do konsolidačního celku,
+>
+> - e) zákaz činnosti, nebo
+>
+> - f) zveřejnění rozhodnutí o přestupku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 24, § 30a, § 22, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=e405d761c056a2884284 -->
+
 ### § 46 — Nesplnění oznamovací povinnosti
 
 > **§ 46**
@@ -5738,6 +11374,68 @@ V praxi ČNB i FAÚ ukládají pokuty v desítkách milionů — např. Sberbank
 
 **Typicky rozhodné důkazy / podklady:** transakční a smluvní dokumentace, interní záznamy o vyhodnocení, detekční scénáře a SVZ, školicí záznamy, srovnání s STR podanými jinými povinnými osobami.
 
+
+<!-- LEGAL-REVISION:BEGIN id=68fb3f8d92a0344de29b generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 46 — Nesplnění oznamovací povinnosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Povinná osoba se dopustí přestupku tím, že poruší některou z povinností podle § 18 odst. 1.
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu do 5 000 000 Kč.
+>
+> (3) Za přestupek podle odstavce 1, který byl spáchán závažně, opakovaně, nebo byl páchán soustavně, lze uložit
+>
+> - a) pokutu do výše dvojnásobku neoprávněně získaného prospěchu nebo do 30 000 000 Kč, podle toho, která z těchto hodnot je vyšší,
+>
+> - b) pokutu do výše dvojnásobku neoprávněně získaného prospěchu nebo do 130 000 000 Kč, podle toho, která z těchto hodnot je vyšší, je-li pachatelem finanční instituce,
+>
+> - c) pokutu do výše dvojnásobku neoprávněně získaného prospěchu, do výše 130 000 000 Kč nebo do výše 10 % čistého ročního obratu dosaženého pachatelem podle poslední řádné účetní závěrky, podle toho, která z těchto hodnot je vyšší, je-li pachatelem úvěrová nebo finanční instituce, která je právnickou osobou,
+>
+> - d) pokutu do výše dvojnásobku neoprávněně získaného prospěchu, do výše 130 000 000 Kč nebo do výše 10 % čistého ročního obratu dosaženého podle poslední konsolidované účetní závěrky konsolidačním celkem, do kterého je pachatel zahrnut, podle toho, která z těchto hodnot je vyšší, je-li pachatelem úvěrová nebo finanční instituce, která je právnickou osobou zahrnutou do konsolidačního celku,
+>
+> - e) zákaz činnosti, nebo
+>
+> - f) zveřejnění rozhodnutí o přestupku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 18
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=68fb3f8d92a0344de29b -->
+
 ### § 47 — Nesplnění povinnosti odložit příkaz klienta
 
 > **§ 47**
@@ -5783,6 +11481,72 @@ V praxi ČNB i FAÚ ukládají pokuty v desítkách milionů — např. Sberbank
 - [ ] FAÚ/ČNB: doložit existenci a doručení pokynu a přesný čas provedení příkazu.
 
 **Typicky rozhodné důkazy / podklady:** systémové logy blokací a plateb, oznámení podezřelého obchodu s vyznačeným odkladem, písemné potvrzení pokynu FAÚ, vnitřní předpisy a záznamy o oprávněních zaměstnanců.
+
+
+<!-- LEGAL-REVISION:BEGIN id=d6b09de1d78ff40d1108 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 47 — Nesplnění povinnosti odložit příkaz klienta
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Povinná osoba se dopustí přestupku tím, že poruší povinnost odložit splnění příkazu klienta podle § 20 odst. 1.
+>
+> (2) Povinná osoba se dopustí přestupku tím, že nesplní povinnost odložit splnění příkazu klienta nebo zajistit majetek na základě rozhodnutí vydaného Úřadem podle § 20 odst. 3.
+>
+> (3) Za přestupek podle odstavce 1 lze uložit pokutu do 1 000 000 Kč.
+>
+> (4) Za přestupek podle odstavce 2 lze uložit pokutu do 10 000 000 Kč.
+>
+> (5) Za přestupek podle odstavce 1 nebo [[#§ 2|2]], který byl spáchán závažně, opakovaně, nebo byl páchán soustavně, lze uložit
+>
+> - a) pokutu do výše dvojnásobku neoprávněně získaného prospěchu nebo do 30 000 000 Kč, podle toho, která z těchto hodnot je vyšší,
+>
+> - b) pokutu do výše dvojnásobku neoprávněně získaného prospěchu nebo do 130 000 000 Kč, podle toho, která z těchto hodnot je vyšší, je-li pachatelem finanční instituce,
+>
+> - c) pokutu do výše dvojnásobku neoprávněně získaného prospěchu, do výše 130 000 000 Kč nebo do výše 10 % čistého ročního obratu dosaženého pachatelem podle poslední řádné účetní závěrky, podle toho, která z těchto hodnot je vyšší, je-li pachatelem úvěrová nebo finanční instituce, která je právnickou osobou,
+>
+> - d) pokutu do výše dvojnásobku neoprávněně získaného prospěchu, do výše 130 000 000 Kč nebo do výše 10 % čistého ročního obratu dosaženého podle poslední konsolidované účetní závěrky konsolidačním celkem, do kterého je pachatel zahrnut, podle toho, která z těchto hodnot je vyšší, je-li pachatelem úvěrová nebo finanční instituce, která je právnickou osobou zahrnutou do konsolidačního celku,
+>
+> - e) zákaz činnosti, nebo
+>
+> - f) zveřejnění rozhodnutí o přestupku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 20, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d6b09de1d78ff40d1108 -->
 
 ### § 47a — Nesplnění opatření k nápravě
 
@@ -5838,6 +11602,60 @@ V praxi ČNB i FAÚ ukládají pokuty v desítkách milionů — např. Sberbank
 
 **Typicky rozhodné důkazy / podklady:** rozhodnutí o opatření k nápravě s doložkou právní moci a doručenkou, oznámení o splnění, dokumentace provedené nápravy (nové vnitřní zásady, záznamy o školení), následný kontrolní protokol.
 
+
+<!-- LEGAL-REVISION:BEGIN id=c4cd84a8d0a2663e4e0c generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 47a — Nesplnění opatření k nápravě
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Povinná osoba se dopustí přestupku tím, že
+>
+> - a) nesplní opatření k nápravě uložené podle § 35 odst. 13, nebo
+>
+> - b) neinformuje Úřad o splnění opatření k nápravě podle § 35 odst. 13.
+>
+> (2) Za přestupek podle odstavce 1 písm. a) lze uložit pokutu do výše, v jaké lze uložit pokutu za přestupek vztahující se k porušení povinnosti, na základě kterého bylo uloženo opatření k nápravě.
+>
+> (3) Za přestupek podle odstavce 1 písm. b) lze uložit pokutu do 1 000 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 35
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=c4cd84a8d0a2663e4e0c -->
+
 ### § 48 — Nesplnění povinností k prevenci
 
 > **§ 48**
@@ -5884,6 +11702,86 @@ V praxi ČNB i FAÚ ukládají pokuty v desítkách milionů — např. Sberbank
 
 **Typicky rozhodné důkazy / podklady:** hodnocení rizik a vnitřní zásady, záznamy o školeních, organizační dokumentace (kdo odpovídá za AML), kontrolní protokol FAÚ, doklady o dodatečné nápravě.
 
+
+<!-- LEGAL-REVISION:BEGIN id=908c49ffc46c1733d917 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 48 — Nesplnění povinností k prevenci
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Povinná osoba se dopustí přestupku tím, že v rozporu s § 21 odst. 1 nebo [[#§ 6|6]] nezavede, nebo neuplatňuje odpovídající strategie a postupy vnitřní kontroly a komunikace ke zmírňování a účinnému řízení rizik legalizace výnosů z trestné činnosti a financování terorismu identifikovaných v hodnocení rizik a k naplnění dalších povinností stanovených tímto zákonem.
+>
+> (2) Povinná osoba, které je v § 21 odst. 2 uložena povinnost vypracovat písemně systém vnitřních zásad a nevztahuje se na ni výjimka podle § 21 odst. 3 nebo [[#§ 4|4]], se dopustí přestupku tím, že systém vnitřních zásad nevypracuje v rozsahu podle § 21 odst. 5 nejpozději ve lhůtě 60 dnů ode dne, kdy se stala povinnou osobou.
+>
+> (3) Povinná osoba, které je podle § 21 odst. 8 nebo [[#§ 9|9]] uložena povinnost oznámit Úřadu nebo České národní bance znění systému vnitřních zásad, vnitřního předpisu nebo jejich změny, se dopustí přestupku tím, že znění systému vnitřních zásad, vnitřního předpisu nebo jejich změny neoznámí podle § 21 odst. 8.
+>
+> (4) Povinná osoba, které je v § 21a odst. 2 uložena povinnost vypracovat písemně hodnocení rizik, se dopustí přestupku tím, že
+>
+> - a) nevypracuje hodnocení rizik ve stanoveném rozsahu nebo ve stanovené lhůtě, nebo
+>
+> - b) hodnocení rizik pravidelně neaktualizuje.
+>
+> (5) Povinná osoba se dopustí přestupku tím, že neurčí člena svého statutárního orgánu pověřeného zajištěním plnění povinností vyplývajících z tohoto zákona podle [[#§ 22a|§ 22a]].
+>
+> (6) Povinná osoba se dopustí přestupku tím, že nezajistí proškolení zaměstnanců podle [[#§ 23|§ 23]].
+>
+> (7) Za přestupek podle odstavců 2 až 5 lze uložit pokutu do 1 000 000 Kč.
+>
+> (8) Za přestupek podle odstavce 6 lze uložit pokutu do 5 000 000 Kč.
+>
+> (9) Za přestupek podle odstavce 1 lze uložit pokutu do 10 000 000 Kč.
+>
+> (10) Za přestupek podle odstavce 5 nebo [[#§ 6|6]], který byl spáchán závažně, opakovaně, nebo byl páchán soustavně, lze uložit
+>
+> - a) pokutu do výše dvojnásobku neoprávněně získaného prospěchu nebo do 30 000 000 Kč, podle toho, která z těchto hodnot je vyšší,
+>
+> - b) pokutu do výše dvojnásobku neoprávněně získaného prospěchu nebo do 130 000 000 Kč, podle toho, která z těchto hodnot je vyšší, je-li pachatelem finanční instituce,
+>
+> - c) pokutu do výše dvojnásobku neoprávněně získaného prospěchu, do výše 130 000 000 Kč nebo do výše 10 % čistého ročního obratu dosaženého pachatelem podle poslední řádné účetní závěrky, podle toho, která z těchto hodnot je vyšší, je-li pachatelem úvěrová nebo finanční instituce, která je právnickou osobou,
+>
+> - d) pokutu do výše dvojnásobku neoprávněně získaného prospěchu, do výše 130 000 000 Kč nebo do výše 10 % čistého ročního obratu dosaženého podle poslední konsolidované účetní závěrky konsolidačním celkem, do kterého je pachatel zahrnut, podle toho, která z těchto hodnot je vyšší, je-li pachatelem úvěrová nebo finanční instituce, která je právnickou osobou zahrnutou do konsolidačního celku,
+>
+> - e) zákaz činnosti, nebo
+>
+> - f) zveřejnění rozhodnutí o přestupku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21, § 6, § 4, § 9, § 21a, § 22a, § 23
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=908c49ffc46c1733d917 -->
+
 ### § 48a — Neplnění povinností skupiny
 
 > **§ 48a**
@@ -5929,6 +11827,84 @@ V praxi ČNB i FAÚ ukládají pokuty v desítkách milionů — např. Sberbank
 - [ ] Pravidelně auditovat plnění standardů v dcerách a zjištění dokumentovat.
 
 **Typicky rozhodné důkazy / podklady:** skupinové politiky a doklad o jejich schválení, implementační dokumentace dceřiných společností, právní analýzy práva třetích zemí, auditní zprávy, korespondence s ČNB/FAÚ a zahraničním dozorem.
+
+
+<!-- LEGAL-REVISION:BEGIN id=7505d25b5381bdebb6f1 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 48a — Neplnění povinností skupiny
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Povinná osoba, která je součástí skupiny, se dopustí přestupku tím, že v rozporu s § 21 odst. 7
+>
+> - a) neuplatňuje skupinové strategie a postupy vnitřní kontroly ke zmírňování a účinnému řízení rizik, nebo
+>
+> - b) nezajistí uplatňování skupinových strategií a postupů vnitřní kontroly ke zmírňování a účinnému řízení rizik ve svých dceřiných obchodních korporacích ve třetích zemích.
+>
+> (2) Povinná osoba, která má pobočku, provozovnu nebo dceřinou obchodní korporaci ve třetí zemi, se dopustí přestupku tím, že
+>
+> - a) v rozporu s § 24a odst. 1 neuplatňuje v dané pobočce, provozovně nebo dceřiné obchodní korporaci opatření pro kontrolu klienta a uchovávání záznamů alespoň rovnocenná požadavkům práva Evropské unie,
+>
+> - b) v rozporu s § 24a odst. 1 nepředá relevantní informaci své pobočce, provozovně nebo obchodní korporaci,
+>
+> - c) v rozporu s § 24a odst. 2 nepřijme odpovídající doplňková opatření k účinnému zvládání rizika zneužití, nebo
+>
+> - d) v rozporu s § 24a odst. 2 neinformuje Úřad o tom, že právo třetího státu nedovoluje uplatňování opatření alespoň rovnocenných požadavkům práva Evropské unie.
+>
+> (3) Povinná osoba, která má pobočku nebo provozovnu ve státě, který je členským státem Evropské unie nebo ve státě tvořícím Evropský hospodářský prostor, se dopustí přestupku tím, že v rozporu s § 24a odst. 3 nezajistí dodržování předpisů tohoto jiného státu v oblasti boje proti legalizaci výnosů z trestné činnosti a financování terorismu v dané pobočce nebo provozovně.
+>
+> (4) Za přestupek podle odstavců 1 až 3 lze uložit pokutu do 10 000 000 Kč.
+>
+> (5) Za přestupek podle odstavce 1, odstavce 2 písm. a), c) a d) a odstavce 3, který byl spáchán závažně, opakovaně, nebo byl páchán soustavně, lze uložit
+>
+> - a) pokutu do výše dvojnásobku neoprávněně získaného prospěchu nebo do 30 000 000 Kč, podle toho, která z těchto hodnot je vyšší,
+>
+> - b) pokutu do výše dvojnásobku neoprávněně získaného prospěchu nebo do 130 000 000 Kč, podle toho, která z těchto hodnot je vyšší, je-li pachatelem finanční instituce,
+>
+> - c) pokutu do výše dvojnásobku neoprávněně získaného prospěchu, do výše 130 000 000 Kč nebo do výše 10 % čistého ročního obratu dosaženého pachatelem podle poslední řádné účetní závěrky, podle toho, která z těchto hodnot je vyšší, je-li pachatelem úvěrová nebo finanční instituce, která je právnickou osobou,
+>
+> - d) pokutu do výše dvojnásobku neoprávněně získaného prospěchu, do výše 130 000 000 Kč nebo do výše 10 % čistého ročního obratu dosaženého podle poslední konsolidované účetní závěrky konsolidačním celkem, do kterého je pachatel zahrnut, podle toho, která z těchto hodnot je vyšší, je-li pachatelem úvěrová nebo finanční instituce, která je právnickou osobou zahrnutou do konsolidačního celku,
+>
+> - e) zákaz činnosti, nebo
+>
+> - f) zveřejnění rozhodnutí o přestupku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21, § 24a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=7505d25b5381bdebb6f1 -->
 
 ### § 49 — Porušení povinností úvěrovými a finančními institucemi
 
@@ -6013,6 +11989,90 @@ V praxi ČNB i FAÚ ukládají pokuty v desítkách milionů — např. Sberbank
 - [ ] Ověřit výměru testem likvidačnosti a správně určit (konsolidovaný) čistý roční obrat.
 
 **Typicky rozhodné důkazy / podklady:** vzorky platebních zpráv a transakční logy, dokumentace systémových kontrol, interní audity TFR compliance, korespondenční smlouvy a due diligence složky, účetní a konsolidovaná závěrka pro určení obratu.
+
+
+<!-- LEGAL-REVISION:BEGIN id=1ab7d0f0c1b01f486f35 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 49 — Porušení povinností úvěrovými a finančními institucemi
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Povinná osoba se jako poskytovatel platebních služeb nebo jako zprostředkující poskytovatel platebních služeb podle přímo použitelného předpisu Evropské unie upravujícího informace doprovázející převody peněžních prostředků a některých kryptoaktiv20) dopustí přestupku tím, že poruší některou z povinností podle
+>
+> - a) čl. 4 až 6, 8, 11 nebo 12 nařízení Evropského parlamentu a Rady (EU) [[2023/1113|2023/1113]], nebo
+>
+> - b) čl. 7, 9, 10, 13, 23 nebo 24 nařízení Evropského parlamentu a Rady (EU) [[2023/1113|2023/1113]].
+>
+> (2) Povinná osoba se jako poskytovatel služeb souvisejících s kryptoaktivy nebo jako zprostředkující poskytovatel služeb souvisejících s kryptoaktivy podle přímo použitelného předpisu Evropské unie upravujícího informace doprovázející převody peněžních prostředků a některých kryptoaktiv20) dopustí přestupku tím, že poruší některou z povinností podle
+>
+> - a) čl. 14, 15, 17, 19, 20 nebo 21 nařízení Evropského parlamentu a Rady (EU) [[2023/1113|2023/1113]], nebo
+>
+> - b) čl. 16, 18, 22, 23 nebo 24 nařízení Evropského parlamentu a Rady (EU) [[2023/1113|2023/1113]].
+>
+> (3) Úvěrová nebo finanční instituce se dopustí přestupku tím, že poruší některou z povinností stanovených pro korespondenční vztah podle § 25 odst. 1 až 4 nebo § 25b odst. 3 až 5.
+>
+> (4) Zahraniční poskytovatel platebních služeb nebo osoba poskytující služby spojené s virtuálním aktivem se dopustí přestupku tím, že v rozporu s [[#§ 25a|§ 25a]] nebo § 25b odst. 6
+>
+> - a) neurčí ústřední kontaktní místo, nebo
+>
+> - b) nevykonává činnost ústředního kontaktního místa ve vymezeném rozsahu.
+>
+> (5) Osoba podle § 29 odst. 1 se dopustí přestupku tím, že vykonává činnost na základě poštovní smlouvy a za podmínek stanovených zákonem [[o poštovních službách|o poštovních službách]], jejímž účelem je dodání poukázané peněžní částky, bez osvědčení o způsobilosti podle [[#§ 29|§ 29]].
+>
+> (6) Za přestupek podle odstavce 5 lze uložit pokutu do 5 000 000 Kč.
+>
+> (7) Za přestupek podle odstavce 1 až 4 lze uložit pokutu do 10 000 000 Kč.
+>
+> (8) Za přestupek podle odstavce 1 písm. a), odstavce 2 písm. a) nebo odstavce 3, který byl spáchán závažně, opakovaně, nebo byl páchán soustavně, lze uložit
+>
+> - a) pokutu do výše dvojnásobku neoprávněně získaného prospěchu nebo do 30 000 000 Kč, podle toho, která z těchto hodnot je vyšší,
+>
+> - b) pokutu do výše dvojnásobku neoprávněně získaného prospěchu nebo do 130 000 000 Kč, podle toho, která z těchto hodnot je vyšší, je-li pachatelem finanční instituce,
+>
+> - c) pokutu do výše dvojnásobku neoprávněně získaného prospěchu, do výše 130 000 000 Kč nebo do výše 10 % čistého ročního obratu dosaženého pachatelem podle poslední řádné účetní závěrky, podle toho, která z těchto hodnot je vyšší, je-li pachatelem úvěrová nebo finanční instituce, která je právnickou osobou,
+>
+> - d) pokutu do výše dvojnásobku neoprávněně získaného prospěchu, do výše 130 000 000 Kč nebo do výše 10 % čistého ročního obratu dosaženého podle poslední konsolidované účetní závěrky konsolidačním celkem, do kterého je pachatel zahrnut, podle toho, která z těchto hodnot je vyšší, je-li pachatelem úvěrová nebo finanční instituce, která je právnickou osobou zahrnutou do konsolidačního celku,
+>
+> - e) zákaz činnosti, nebo
+>
+> - f) zveřejnění rozhodnutí o přestupku.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 25, § 25b, § 25a, § 29
+
+##### Souvisící předpisy
+
+- akt EU 2023/1113 (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=1ab7d0f0c1b01f486f35 -->
 
 ### § 49a — Porušení ochrany oznamovatelů
 
@@ -6120,6 +12180,112 @@ V praxi ČNB i FAÚ ukládají pokuty v desítkách milionů — např. Sberbank
 
 **Typicky rozhodné důkazy / podklady:** evidence oznámení u příslušné osoby, personální spisy a časová osa opatření, interní komunikace (e-maily), vnitřní předpis k oznamovacímu systému, doklady o školení příslušné osoby.
 
+
+<!-- LEGAL-REVISION:BEGIN id=da25a14dc62e9c54bfaf generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 49a — Porušení povinností souvisejících s ochranou oznamovatelů
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba se dopustí přestupku tím, že podá vědomě nepravdivé oznámení podle zákona [[o ochraně oznamovatelů|o ochraně oznamovatelů]] o porušení povinnosti podle tohoto zákona.
+>
+> (2) Přestupku se dopustí ten, kdo
+>
+> - a) brání jinému v podání oznámení o porušení povinnosti podle tohoto zákona,
+>
+> - b) v rozporu s [[§ 4 odst. 2|§ 4 odst. 2]] zákona [[o ochraně oznamovatelů|o ochraně oznamovatelů]] vystaví odvetnému opatření vyvolanému oznámením porušení podle tohoto zákona oznamovatele nebo toho, kdo nesmí být vystaven odvetnému opatření,
+>
+> - c) v rozporu s [[§ 20 odst. 1|§ 20 odst. 1]] zákona [[o ochraně oznamovatelů|o ochraně oznamovatelů]] poskytne informaci, která by mohla zmařit nebo ohrozit účel podávání oznámení nebo anonymního oznámení o porušení povinnosti podle tohoto zákona, nebo
+>
+> - d) v rozporu s [[§ 20 odst. 2|§ 20 odst. 2]] zákona [[o ochraně oznamovatelů|o ochraně oznamovatelů]] poskytne bez písemného souhlasu oznamovatele, toho, kdo nesmí být vystaven odvetnému opatření, nebo osoby uvedené v oznámení informace o jejich totožnosti, týká-li se oznámení porušení povinnosti podle tohoto zákona.
+>
+> (3) Příslušná osoba podle zákona [[o ochraně oznamovatelů|o ochraně oznamovatelů]] určená povinnou osobou se dopustí přestupku tím, že
+>
+> - a) v rozporu s [[§ 10 odst. 6|§ 10 odst. 6]] zákona [[o ochraně oznamovatelů|o ochraně oznamovatelů]] neoznámí, že přestala splňovat podmínky bezúhonnosti,
+>
+> - b) v rozporu s [[§ 11 odst. 1 písm. a)|§ 11 odst. 1 písm. a)]] zákona [[o ochraně oznamovatelů|o ochraně oznamovatelů]] odepře přijetí oznámení nebo neposoudí jeho důvodnost,
+>
+> - c) nevyrozumí oznamovatele o výsledku posouzení oznámení podle [[§ 12 odst. 3|§ 12 odst. 3]] zákona [[o ochraně oznamovatelů|o ochraně oznamovatelů]] ve stanovené lhůtě,
+>
+> - d) v rozporu s [[§ 20 odst. 1|§ 20 odst. 1]] zákona [[o ochraně oznamovatelů|o ochraně oznamovatelů]] poskytne informaci, která by mohla zmařit nebo ohrozit účel podávání oznámení nebo anonymního oznámení, nebo
+>
+> - e) v rozporu s [[§ 20 odst. 2|§ 20 odst. 2]] zákona [[o ochraně oznamovatelů|o ochraně oznamovatelů]] poskytne bez písemného souhlasu oznamovatele, toho, kdo nesmí být vystaven odvetnému opatření, nebo osoby uvedené v oznámení informace o jejich totožnosti.
+>
+> (4) Povinná osoba se dopustí přestupku tím, že
+>
+> - a) v rozporu s [[§ 4 odst. 4|§ 4 odst. 4]] zákona [[o ochraně oznamovatelů|o ochraně oznamovatelů]] umožní, aby oznamovatel nebo osoba podle [[§ 4 odst. 2 písm. a) až h)|§ 4 odst. 2 písm. a) až h)]] zákona [[o ochraně oznamovatelů|o ochraně oznamovatelů]] byli vystaveni odvetnému opatření,
+>
+> - b) neurčí příslušnou osobu podle [[§ 9 odst. 1|§ 9 odst. 1]] zákona [[o ochraně oznamovatelů|o ochraně oznamovatelů]] nebo jinou příslušnou osobu podle [[§ 10 odst. 7|§ 10 odst. 7]] zákona [[o ochraně oznamovatelů|o ochraně oznamovatelů]],
+>
+> - c) nezajistí možnost oznamovatele podat oznámení podle [[§ 9 odst. 2 písm. a)|§ 9 odst. 2 písm. a)]] zákona [[o ochraně oznamovatelů|o ochraně oznamovatelů]],
+>
+> - d) nezajistí uveřejnění stanovených informací způsobem umožňujícím dálkový přístup podle [[§ 9 odst. 2 písm. b)|§ 9 odst. 2 písm. b)]] zákona [[o ochraně oznamovatelů|o ochraně oznamovatelů]],
+>
+> - e) v rozporu s [[§ 9 odst. 2 písm. d)|§ 9 odst. 2 písm. d)]] zákona [[o ochraně oznamovatelů|o ochraně oznamovatelů]] nezajistí, aby se s podanými oznámeními mohla seznamovat pouze příslušná osoba nebo aby byl dodržen zákaz poskytnout údaje podle [[§ 20|§ 20]] zákona [[o ochraně oznamovatelů|o ochraně oznamovatelů]],
+>
+> - f) nezajistí posouzení důvodnosti oznámení příslušnou osobou podle [[§ 9 odst. 2 písm. e)|§ 9 odst. 2 písm. e)]] zákona [[o ochraně oznamovatelů|o ochraně oznamovatelů]],
+>
+> - g) v rozporu s [[§ 9 odst. 2 písm. f)|§ 9 odst. 2 písm. f)]] zákona [[o ochraně oznamovatelů|o ochraně oznamovatelů]] nezajistí, aby byl oznamovatel vyrozuměn o přijetí oznámení podle [[§ 12 odst. 2|§ 12 odst. 2]] zákona [[o ochraně oznamovatelů|o ochraně oznamovatelů]] nebo o výsledcích posouzení důvodnosti oznámení podle [[§ 12 odst. 3|§ 12 odst. 3]] zákona [[o ochraně oznamovatelů|o ochraně oznamovatelů]],
+>
+> - h) nezajistí přijetí vhodných opatření k nápravě nebo předejití protiprávnímu stavu v návaznosti na podané oznámení podle [[§ 9 odst. 2 písm. g)|§ 9 odst. 2 písm. g)]] zákona [[o ochraně oznamovatelů|o ochraně oznamovatelů]],
+>
+> - i) v rozporu s [[§ 11 odst. 2|§ 11 odst. 2]] zákona [[o ochraně oznamovatelů|o ochraně oznamovatelů]] postihne příslušnou osobu za řádný výkon její činnosti, nebo
+>
+> - j) nesplní opatření k nápravě podle [[§ 22 odst. 2|§ 22 odst. 2]] zákona [[o ochraně oznamovatelů|o ochraně oznamovatelů]].
+>
+> (5) Za přestupek podle odstavce 3 písm. a) a c) lze uložit pokutu do 20 000 Kč.
+>
+> (6) Za přestupek podle odstavce 1 a odstavce 3 písm. b) lze uložit pokutu do 50 000 Kč.
+>
+> (7) Za přestupek podle odstavce 2 písm. c) a d) lze uložit pokutu do 80 000 Kč.
+>
+> (8) Za přestupek podle odstavce 2 písm. a) lze uložit pokutu do 100 000 Kč.
+>
+> (9) Za přestupek podle odstavce 3 písm. d) a e) spáchaný úmyslně lze uložit pokutu do 100 000 Kč.
+>
+> (10) Za přestupek podle odstavce 4 písm. d) a j) lze uložit pokutu do 400 000 Kč.
+>
+> (11) Za přestupek podle odstavce 2 písm. b) lze uložit pokutu do 1 000 000 Kč.
+>
+> (12) Za přestupek podle odstavce 4 písm. a) až c) a e) až i) lze uložit pokutu do 1 000 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 4, § 20, § 10, § 11, § 12, § 9, § 22
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=da25a14dc62e9c54bfaf -->
+
 ### § 49b — Neoprávněné poskytování CASP
 
 > **§ 49b**
@@ -6165,6 +12331,58 @@ V praxi ČNB i FAÚ ukládají pokuty v desítkách milionů — např. Sberbank
 - [ ] Při podezření z trestného činu koordinovat postup s orgány činnými v trestním řízení (§ 32, ne bis in idem).
 
 **Typicky rozhodné důkazy / podklady:** webová prezentace, obchodní podmínky a smluvní dokumentace, transakční data a objemy, výpisy z registrů FAÚ/ČNB o absenci oprávnění, výpovědi klientů, doklady o získaném prospěchu.
+
+
+<!-- LEGAL-REVISION:BEGIN id=213f9d40899a58ff8ad1 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 49b — Neoprávněné poskytování služeb spojených s virtuálním aktivem
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Přestupku se dopustí ten, kdo bez povolení poskytuje služby spojené s virtuálním aktivem soustavně, samostatně, na vlastní účet a odpovědnost a za účelem dosažení zisku.
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu do
+>
+> - a) 5 000 000 Kč, nebo
+>
+> - b) výše dvojnásobku neoprávněného prospěchu získaného spácháním tohoto přestupku, je-li možné výši neoprávněného prospěchu zjistit a přesahuje-li tato částka částku podle písmene a).
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=213f9d40899a58ff8ad1 -->
 
 ### § 50 — Porušení povinnosti při převozu hotovosti
 
@@ -6216,6 +12434,58 @@ V praxi ČNB i FAÚ ukládají pokuty v desítkách milionů — např. Sberbank
 - [ ] Zohlednit prokázaný původ prostředků a spolupráci jako polehčující okolnosti; nepřekročit mez konfiskačního účinku.
 
 **Typicky rozhodné důkazy / podklady:** protokol o celní kontrole, znalecké či úřední ocenění nepeněžních složek, (ne)podaný ohlašovací formulář, doklady o původu prostředků, cestovní doklady a záznamy o předchozích převozech.
+
+
+<!-- LEGAL-REVISION:BEGIN id=22ee9c30151483d8857c generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 50 — Porušení povinnosti při převozu peněžní hotovosti
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Fyzická osoba, právnická osoba nebo podnikající fyzická osoba se dopustí přestupku tím, že
+>
+> - a) nesplní oznamovací povinnost podle [[#§ 41|§ 41]], nebo
+>
+> - b) nesplní povinnost sdělit údaje podle [[#§ 41a|§ 41a]].
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu do 10 000 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 41, § 41a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=22ee9c30151483d8857c -->
 
 ### § 50a — Přestupek FO způsobující porušení povinnosti PO
 
@@ -6293,6 +12563,82 @@ V praxi ČNB i FAÚ ukládají pokuty v desítkách milionů — např. Sberbank
 
 **Typicky rozhodné důkazy / podklady:** interní e-maily a pokyny, zápisy z jednání orgánů, organizační řád a popisy funkcí, spis klienta (chybějící kontrola), výpovědi zaměstnanců compliance.
 
+
+<!-- LEGAL-REVISION:BEGIN id=d3fcbda4cb1d4138049e generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 50a — Přestupek fyzické osoby, která způsobí porušení povinnosti povinnou osobou
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Přestupku se dopustí fyzická osoba podle [[§ 20 odst. 1|§ 20 odst. 1]] a [[2|2]] nebo [[§ 22 odst. 2|§ 22 odst. 2]] a [[3|3]] zákona [[o odpovědnosti za přestupky a řízení o nich|o odpovědnosti za přestupky a řízení o nich]], která způsobí porušení povinnosti povinnou osobou, které je přestupkem podle
+>
+> - a) § 44 odst. 1, § 44a odst. 1 písm. b), § 45 až 49,
+>
+> - b) § 44a odst. 1 písm. a),
+>
+> - c) § 44 odst. 2 nebo § 44a odst. 1 písm. c), nebo
+>
+> - d) § 47a odst. 1 písm. a).
+>
+> (2) Za přestupek podle odstavce 1 lze uložit, jde-li o přestupek podle
+>
+> - a) odstavce 1 písm. a), pokutu do 1 000 000 Kč,
+>
+> - b) odstavce 1 písm. b), pokutu do 100 000 Kč,
+>
+> - c) odstavce 1 písm. c), pokutu do
+>
+> - 1. 200 000 Kč, nebo
+>
+> - 2. 1 000 000 Kč, jestliže bylo tímto jednáním znemožněno nebo ztíženo zajištění nebo odčerpání výnosu z trestné činnosti nebo umožněno financování terorismu, nebo
+>
+> - d) odstavce 1 písm. d), pokutu do
+>
+> - 1. 100 000 Kč, jestliže za způsobené porušení povinnosti povinnou osobou, které je přestupkem podle § 47a odst. 1 písm. a), lze uložit pokutu do 100 000 Kč,
+>
+> - 2. 200 000 Kč, jestliže za způsobené porušení povinnosti povinnou osobou, které je přestupkem podle § 47a odst. 1 písm. a), lze uložit pokutu do 200 000 Kč, nebo
+>
+> - 3. 1 000 000 Kč.
+>
+> (3) Za přestupek podle odstavce 1 lze uložit zákaz činnosti spočívající v zákazu výkonu funkce člena statutárního orgánu jakékoli povinné osoby a výkonu závislé práce vedoucího zaměstnance jakékoli povinné osoby.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 20, § 22, § 44, § 44a, § 45, § 47a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=d3fcbda4cb1d4138049e -->
+
 ### § 50b — Společná ustanovení o přestupcích
 
 > **§ 50b**
@@ -6340,6 +12686,54 @@ V praxi ČNB i FAÚ ukládají pokuty v desítkách milionů — např. Sberbank
 - [ ] V řízení odlišit individuální pochybení od systémového selhání společnosti (rozhodné pro exkulpaci podle odst. 2).
 
 **Typicky rozhodné důkazy / podklady:** spis zakázky a záznamy o identifikaci a kontrole klienta, vnitřní předpisy o rozdělení odpovědnosti, doklad o postavení poradce ve společnosti (výpis z OR, pracovní smlouva), interní komunikace o zakázce.
+
+
+<!-- LEGAL-REVISION:BEGIN id=f3c648775279af6681b4 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 50b
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Přestupku podle § 44 až 48 se dopustí daňový poradce, který je fyzickou osobou podle [[§ 20 odst. 1|§ 20 odst. 1]] a [[2|2]] zákona [[o odpovědnosti za přestupky a řízení o nich|o odpovědnosti za přestupky a řízení o nich]] a který způsobí, že daňový poradce, který je právnickou osobou, poruší povinnosti, jejichž porušení by bylo přestupkem podle § 44 až 48, pokud by toto porušení nezpůsobil daňový poradce, který je touto fyzickou osobou.
+>
+> (2) Daňový poradce, který je právnickou osobou, neodpovídá za přestupek podle § 44 až 48, pokud porušení povinností, které by bylo tímto přestupkem, způsobil daňový poradce, který je fyzickou osobou podle odstavce 1.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 44, § 20
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=f3c648775279af6681b4 -->
 
 ### § 50c — Přestupky profesní komory
 
@@ -6405,6 +12799,68 @@ V praxi ČNB i FAÚ ukládají pokuty v desítkách milionů — např. Sberbank
 
 **Typicky rozhodné důkazy / podklady:** doručenky datových zpráv, výpis z evidence § 52a, archiv webu komory, interní směrnice komory k plnění lhůt.
 
+
+<!-- LEGAL-REVISION:BEGIN id=08e2af4c38c73ac93db1 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 50c — Přestupky příslušné profesní komory
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Příslušná profesní komora se dopustí přestupku tím, že
+>
+> - a) poruší některou z povinností souvisejících s metodickou informací podle § 21 odst. 11,
+>
+> - b) nesplní povinnost předložit Úřadu přehled podle § 27 odst. 3,
+>
+> - c) nesplní povinnost zveřejnit přehled podle § 27 odst. 3,
+>
+> - d) nesplní informační povinnost podle § 37 odst. 1, nebo
+>
+> - e) nesplní povinnost sdělit Úřadu informace podle § 52a odst. 2 a [[#§ 3|3.]]
+>
+> (2) Za přestupek podle odstavce 1 lze uložit pokutu, jde-li o přestupek
+>
+> - a) podle odstavce 1 písm. a), b), do 2 500 000 Kč,
+>
+> - b) podle odstavce 1 písm. c), d), e), do 1 000 000 Kč.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 21, § 27, § 37, § 52a, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=08e2af4c38c73ac93db1 -->
+
 ### § 51 — Příslušnost k projednání přestupků
 
 > **§ 51**
@@ -6451,6 +12907,52 @@ Recidiva je v AML sankcích kvalifikační okolností s tvrdým časovým testem
 
 **Typicky rozhodné důkazy / podklady:** stejnopis dřívějšího rozhodnutí s doložkou právní moci, výpis z evidence § 52a, kontrolní protokol s přesnou datací nových skutků.
 
+
+<!-- LEGAL-REVISION:BEGIN id=700a21c3f8af32539d8a generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 51
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> Opakovaným spácháním přestupku se rozumí spáchání přestupku pachatelem během 12 měsíců od nabytí právní moci rozhodnutí o stejném přestupku, z něhož byl obviněný uznán vinným.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=700a21c3f8af32539d8a -->
+
 ### § 51a — Řízení o přestupcích advokáta a notáře
 
 > **§ 51a**
@@ -6496,6 +12998,52 @@ U AML přestupků s milionovými sazbami počítejte s promlčením 5 let (absol
 - [ ] Nepřekročen absolutní strop 10 let?
 
 **Typicky rozhodné důkazy / podklady:** kontrolní protokol, oznámení o zahájení řízení s doručenkou, transakční a spisová dokumentace vymezující dobu skutku.
+
+
+<!-- LEGAL-REVISION:BEGIN id=ba5bc3a37f6c35900e5a generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 51a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> U přestupku podle tohoto zákona, za který tento zákon stanoví sazbu pokuty, jejíž horní hranice je alespoň 1 000 000 Kč, činí promlčecí doba 5 let. Byla-li promlčecí doba u tohoto přestupku přerušena, odpovědnost za přestupek zaniká nejpozději 10 let od jeho spáchání.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=ba5bc3a37f6c35900e5a -->
 
 ### § 52 — Promlčecí lhůty
 
@@ -6563,6 +13111,72 @@ Před zahájením řízení vždy nejprve určete příslušný orgán podle typ
 
 **Typicky rozhodné důkazy / podklady:** předávací přípis s doručenkou, výpis z evidence § 52a, sdělení komory o (ne)zahájení, spis šetření FAÚ.
 
+
+<!-- LEGAL-REVISION:BEGIN id=6c986dad65985ba29000 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 52
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Přestupky podle tohoto zákona projednává Úřad. Přestupky podle tohoto zákona projednává také
+>
+> - a) Česká národní banka u povinných osob, vůči nimž vykonává dohled, s výjimkou přestupku podle [[#§ 49a|§ 49a]],
+>
+> - b) orgán Celní správy České republiky vykonávající dozor nad dodržováním zákona upravujícího hazardní hry u povinných osob podle § 2 odst. 1 písm. c),
+>
+> - c) Česká obchodní inspekce u povinných osob podle § 2 odst. 1 písm. i) a j),
+>
+> - d) příslušná profesní komora u povinných osob podle § 2 odst. 1 písm. e) a g).
+>
+> (2) Přestupky zaměstnanců povinné osoby a fyzických osob, které jsou pro povinnou osobu činné jinak než v základním pracovněprávním vztahu, projednává Úřad nebo jiný dozorčí úřad, který je příslušný k projednání přestupku dané povinné osoby.
+>
+> (3) Přestupky zaměstnanců Úřadu, jiných dozorčích úřadů nebo Rady pro veřejný dohled nad auditem a fyzických osob, které jsou pro Úřad, jiný dozorčí úřad nebo Radu pro veřejný dohled nad auditem činné jinak než v základním pracovněprávním vztahu, projednává ten orgán, jehož je daná fyzická osoba zaměstnancem nebo pro nějž je činná jinak než v základním pracovněprávním vztahu.
+>
+> (4) Zjistí-li Úřad skutečnosti vedoucí k zahájení řízení o přestupku, k jehož projednání je příslušná příslušná profesní komora, předá tato zjištění k projednání této příslušné profesní komoře, pokud se nejedná o zjištění skutečností v rámci kontroly zahájené Úřadem podle § 37 odst. 2; i takové zjištění však může Úřad příslušné profesní komoře předat k projednání. Nezahájí-li příslušná profesní komora do 60 dnů ode dne, kdy jí bylo zjištění předáno, kontrolu nebo řízení o přestupku, může řízení o přestupku zahájit Úřad. O zahájení řízení o přestupku Úřad příslušnou profesní komoru vyrozumí.
+>
+> (5) Přestupky podle [[#§ 50|§ 50]] projednává celní úřad.
+>
+> (6) Není-li pokuta uložená za přestupek podle [[#§ 50|§ 50]] ve lhůtě splatnosti zaplacena, celní úřad může na její úhradu použít peněžní hotovost zadrženou podle [[#§ 42a|§ 42a]].
+>
+> (7) Pokutu za přestupek podle tohoto zákona, kterou uložil Úřad, vybírá Úřad.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 49a, § 2, § 37, § 50, § 42a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=6c986dad65985ba29000 -->
+
 ### § 52a — Zveřejňování rozhodnutí o přestupcích
 
 > **§ 52a**
@@ -6629,6 +13243,70 @@ Evidence podle § 52a je koordinačním uzlem roztříštěné sankční přísl
 
 ---
 
+
+<!-- LEGAL-REVISION:BEGIN id=8728f87b9b4163c4dcad generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 52a
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Úřad vede evidenci zahájených a ukončených řízení o přestupcích podle § 43 až 49 a [[#§ 50a|50a]] (dále jen „evidence“).
+>
+> (2) Příslušný orgán, který zahájil řízení o přestupku podle § 43 až 49 nebo [[#§ 50a|50a]], sdělí Úřadu do 15 dnů ode dne zahájení řízení o přestupku za účelem zápisu do evidence následující údaje:
+>
+> - a) datum zahájení řízení o přestupku,
+>
+> - b) identifikační údaje podezřelého z přestupku,
+>
+> - c) zákonné označení přestupku,
+>
+> - d) popis skutku, v němž je přestupek spatřován, a
+>
+> - e) označení orgánu, který vede řízení o přestupku.
+>
+> (3) Po pravomocném ukončení řízení o přestupku podle § 43 až 49 nebo [[#§ 50a|50a]] sdělí orgán, který řízení vedl, do 15 dnů Úřadu za účelem zápisu do evidence údaj o způsobu ukončení řízení a zároveň mu zašle stejnopis pravomocného rozhodnutí o přestupku.
+>
+> (4) Evidence je vedena elektronicky. Údaje z evidence poskytne Úřad dozorčímu úřadu nebo Radě pro veřejný dohled nad auditem pro plnění úkolů vyplývajících z předmětu jejich činnosti na vyžádání nebo způsobem umožňujícím dálkový přístup.
+>
+> (5) Úřad průběžně sleduje jednotlivě vedená řízení o přestupcích podle § 43 až 49 a [[#§ 50a|50a]] a na vyžádání dozorčích úřadů nebo Rady pro veřejný dohled nad auditem je informuje o předchozích řízeních vedených s týmž subjektem a řízeních s podobným předmětem.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 43, § 50a
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=8728f87b9b4163c4dcad -->
+
 ## ČÁST ŠESTÁ — SPOLEČNÁ A PŘECHODNÁ USTANOVENÍ
 
 ### § 53 — Zmocňovací ustanovení
@@ -6688,6 +13366,64 @@ Po právní moci sankčního rozhodnutí podle § 43–49 či 50a publikujte vý
 - [ ] Hlídáno následné zrušení či změna rozhodnutí a jejich uveřejnění (odst. 3)?
 
 **Typicky rozhodné důkazy / podklady:** pravomocné rozhodnutí, záznam o úvaze o proporcionalitě, snímek uveřejněné výrokové části, doklad o době publikace.
+
+
+<!-- LEGAL-REVISION:BEGIN id=828d625cfd62fc567710 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 53
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Orgán, který vydal rozhodnutí o přestupku podle § 43 až 49 nebo [[#§ 50a|§ 50a]], uveřejní jeho výrokovou část způsobem umožňujícím dálkový přístup bez zbytečného odkladu poté, co se stane pravomocným, a to po dobu 5 let od okamžiku, kdy se stalo rozhodnutí pravomocným.
+>
+> (2) V případě, že by postup podle odstavce 1 v konkrétním případě vedl k ohrožení stability finančních trhů, probíhajícího trestního nebo správního řízení, plnění úkolů podle tohoto zákona nebo jiných úkolů ve veřejném zájmu anebo pokud by tento postup nepřiměřeným způsobem zasáhl do zájmů dotčených osob, orgán, který rozhodnutí vydal,
+>
+> - a) odloží zveřejnění do doby, než tyto překážky pominou,
+>
+> - b) uveřejní výrokovou část rozhodnutí v anonymizované podobě, nebo
+>
+> - c) výrokovou část rozhodnutí neuveřejní, pokud by postup podle písmene a) nebo b) nebyl dostatečný.
+>
+> (3) Orgán, který vydal rozhodnutí uveřejněné podle odstavce 1 nebo [[#§ 2|2]], uveřejní způsobem umožňujícím dálkový přístup výrokovou část pravomocného rozhodnutí, kterým bylo toto rozhodnutí zrušeno nebo změněno, a to bez zbytečného odkladu poté, co se o něm dozví. Na toto uveřejnění se přiměřeně použije odstavec 2, vždy se však uveřejní alespoň informace o tom, že rozhodnutí bylo zrušeno nebo změněno.
+>
+> (4) V případě, že rozhodnutí o přestupku auditora vydala Komora auditorů České republiky, uveřejní výrokovou část pravomocného rozhodnutí o přestupku podle odstavce 1 nebo [[#§ 2|2]] nebo výrokovou část pravomocného rozhodnutí, kterým bylo pravomocné rozhodnutí podle odstavce 1 nebo [[#§ 2|2]] zrušeno nebo změněno, v rejstříku auditorů.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 43, § 50a, § 2
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=828d625cfd62fc567710 -->
 
 ### § 54 — Vztah k jiným zákonům
 
@@ -6767,6 +13503,84 @@ Po právní moci sankčního rozhodnutí podle § 43–49 či 50a publikujte vý
 
 **Typicky rozhodné důkazy / podklady:** smlouvy a doklady o platbách s daty, ocenění nepeněžních plnění, záznam použitého kurzu ČNB, interní hodnocení rizik klienta (PEP).
 
+
+<!-- LEGAL-REVISION:BEGIN id=77ef8524783756ed6cc0 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 54
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Povinnosti, které tento zákon ukládá povinným osobám, se vztahují pouze k činnostem, které jsou předmětem jejich podnikání nebo jimi poskytovaných služeb.
+>
+> (2) Není-li v tomto zákoně stanoveno jinak, mají povinné osoby uvedené v § 2 odst. 2 písm. a) a b) práva a povinnosti, které tento zákon stanoví pro příslušný typ povinné osoby uvedené v § 2 odst. 1.
+>
+> (3) Částkou uvedenou v eurech, nestanoví-li tento zákon jinak, se pro účely tohoto zákona rozumí odpovídající hodnota v jakékoliv měně stanovená podle kurzu vyhlášeného Českou národní bankou a platného pro den, ve kterém je plněna povinnost podle tohoto zákona; pokud tento kurz ještě není v tomto dni k dispozici, použije se kurz platný pro předchozí den.
+>
+> (4) Je-li obchod rozdělen na několik samostatných plnění, která spolu souvisí, je hodnotou obchodu součet hodnoty těchto plnění.
+>
+> (5) Pro účely tohoto zákona se za platbu v hotovosti považuje platba provedená drahým kovem nebo drahým kamenem podle přílohy č. 1 k tomuto zákonu, jinou vysoce hodnotnou komoditou nebo virtuálním aktivem.
+>
+> (6) Povinná osoba, za kterou nabízejí její produkty nebo služby třetí osoby, zajistí, aby tyto osoby uplatňovaly postupy k předcházení legalizaci výnosů z trestné činnosti a financování terorismu ve stejném rozsahu jako tato povinná osoba.
+>
+> (7) Za obchodní vztah se vždy považuje
+>
+> - a) smlouva o účtu,
+>
+> - b) jednorázový vklad,
+>
+> - c) pojistná smlouva,
+>
+> - d) poskytování platebních služeb prostřednictvím elektronických peněz nebo veřejné mobilní telefonní sítě nebo
+>
+> - e) finanční záruka.
+>
+> (8) Povinnosti a omezení vztahující se k politicky exponovaným osobám uplatní povinná osoba ještě nejméně po dobu 12 měsíců ode dne, kdy politicky exponovaná osoba přestala vykonávat příslušnou funkci; vždy však do doby, než povinná osoba na základě hodnocení rizik vyloučí u klienta riziko specifické pro politicky exponované osoby. Po tuto dobu se ve stejném rozsahu uplatní také vůči klientovi, jehož skutečným majitelem je politicky exponovaná osoba, a vůči osobě, o níž je povinné osobě známo, že jedná ve prospěch politicky exponované osoby.
+>
+> (9) Ustanovení vztahující se ke klientovi se přiměřeně použijí i vůči osobě jednající za klienta.
+>
+> (10) Pro účely tohoto zákona se jednáním za klienta rozumí rovněž jednání svěřenského správce v rámci správy svěřenského fondu.
+>
+> (11) Ustanovení vztahující se k cenným papírům se použijí i na zaknihované cenné papíry, ledaže to vylučuje jejich povaha.
+>
+> (12) Pro účely správního dozoru, řízení o přestupcích a povinnosti mlčenlivosti, včetně sankcí za porušení mlčenlivosti, se na notářskou komoru podle [[§ 29|§ 29]] [[zákona č. 358/1992 Sb|zákona č. 358/1992 Sb.]], notářský řád, hledí jako na Notářskou komoru České republiky.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 2, § 29
+
+##### Souvisící předpisy
+
+- zákon č. 358/1992 Sb. (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=77ef8524783756ed6cc0 -->
+
 ### § 54a — Společná ustanovení o advokátech
 
 > **§ 54a**
@@ -6816,6 +13630,56 @@ Advokátní kanceláře-právnické osoby si musí AML strukturu výslovně zorg
 - [ ] Vědí jednatelé, že odpovídají za výběr a fungování pověřeného společníka?
 
 **Typicky rozhodné důkazy / podklady:** pověřovací listina, organizační řád a evidence přidělení spisů, vnitřní zásady, prezenční listiny školení, pracovní smlouvy.
+
+
+<!-- LEGAL-REVISION:BEGIN id=9bb7a806ed2cbf9bedd3 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 54a — Společná ustanovení o advokátech a právnických osobách zřízených za účelem výkonu advokacie
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Je-li povinnou osobou advokát, který vykonává advokacii jako společník právnické osoby zřízené za účelem výkonu advokacie podle [[zákona o advokacii|zákona o advokacii]], za pobočku nebo dceřinou obchodní korporaci této povinné osoby se považuje pobočka nebo dceřiná obchodní korporace právnické osoby, které je společníkem.
+>
+> (2) Zaměstnanec právnické osoby zřízené za účelem výkonu advokacie se pro účely právní úpravy boje proti legalizaci výnosů z trestné činnosti a financování terorismu považuje za zaměstnance všech společníků této právnické osoby, kteří jsou členy statutárního orgánu této právnické osoby, pokud nelze určit, pro kterého společníka zaměstnanec v rámci výkonu závislé práce plnil povinnosti podle tohoto zákona nebo tyto povinnosti plnit měl. Věta první se použije obdobně i na fyzickou osobu, která je pro právnickou osobu zřízenou za účelem výkonu advokacie činná jinak než v základním pracovněprávním vztahu.
+>
+> (3) Za povinnosti podle [[#§ 16|§ 16]], 21 až 22, [[#§ 23|23]], § 24 odst. 1 a [[#§ 24a|§ 24a]] odpovídá pouze ten společník právnické osoby zřízené za účelem výkonu advokacie, který byl pověřen podle [[#§ 22a|§ 22a]], pokud k takovému pověření došlo. Při pověření osoby a rozsahu jejích povinností podle věty první se na právnickou osobu zřízenou za účelem výkonu advokacie hledí, jako by byla povinnou osobou namísto jejích společníků. Tímto není dotčena odpovědnost společníků, kteří jsou členy statutárního orgánu, za porušení povinností podle [[#§ 22a|§ 22a]] a možnost Úřadu požadovat plnění povinností podle § 24 odst. 1 nebo [[#§ 3|3]] po kterémkoliv společníkovi právnické osoby zřízené za účelem výkonu advokacie samostatně.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 16, § 23, § 24, § 24a, § 22a, § 3
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9bb7a806ed2cbf9bedd3 -->
 
 ### § 55 — Účast občanů
 
@@ -6869,6 +13733,58 @@ Advokátní kanceláře-právnické osoby si musí AML strukturu výslovně zorg
 
 **Typicky rozhodné důkazy / podklady:** text podnětu/OPO, záznam o vyhodnocení, vyrozumění o ukončení šetření, evidence podnětů Úřadu.
 
+
+<!-- LEGAL-REVISION:BEGIN id=071bbe55f397d4541410 generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 55
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Řízení vedené podle tohoto zákona je vždy neveřejné.
+>
+> (2) Na základě přijatého oznámení podezřelého obchodu, jiného podnětu nebo informací získaných při vlastní činnosti provádí Úřad šetření. Úřad nemusí provádět šetření, pokud to s ohledem na zájem chráněný tímto zákonem není účelné.
+>
+> (3) Po ukončení šetření Úřad bez zbytečného odkladu vhodným způsobem vyrozumí o této skutečnosti toho, kdo podal oznámení podezřelého obchodu. Jiná osoba se o šetření a jeho ukončení nevyrozumívá.
+>
+> (4) Zaměstnanci Úřadu se při výkonu činností podle tohoto zákona prokazují služebním průkazem, jehož vzor stanoví vyhláškou Ministerstvo financí.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=071bbe55f397d4541410 -->
+
 ### § 57 — Přechodná ustanovení
 
 > **§ 57**
@@ -6919,6 +13835,58 @@ Při každé změně AML úpravy oddělte tři otázky: podle čeho se vede ří
 - [ ] Splněny implementační lhůty (vypracování a doručení vnitřních zásad)?
 
 **Typicky rozhodné důkazy / podklady:** datace skutku, synopse staré a nové úpravy, vnitřní zásady a doklad o jejich doručení ministerstvu.
+
+
+<!-- LEGAL-REVISION:BEGIN id=52121825e4274580c3de generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 57 — Přechodná ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> (1) Řízení zahájená přede dnem nabytí účinnosti tohoto zákona se dokončí podle tohoto zákona, s výjimkou řízení o přestupku nebo jiném správním deliktu, spáchaném přede dnem nabytí účinnosti tohoto zákona, pokud je předchozí právní úprava pro obviněného příznivější.
+>
+> (2) Osoba, která ke dni nabytí účinnosti tohoto zákona vykonává činnost na základě poštovní smlouvy a za podmínek stanovených zákonem [[o poštovních službách|o poštovních službách]], jejímž účelem je dodání poukázané peněžní částky, může v této činnost bez osvědčení o způsobilosti podle [[#§ 29|§ 29]] pokračovat nejdéle po dobu 6 měsíců ode dne nabytí účinnosti tohoto zákona.
+>
+> (3) Povinná osoba uvedená v § 2 odst. 1 písm. a) až d), h) a i), která má vypracovaný systém vnitřních zásad, postupů a kontrolních opatření podle dosavadních právních předpisů, vypracuje do 60 dnů ode dne nabytí účinnosti tohoto zákona systém vnitřních zásad, postupů a kontrolních opatření ve smyslu § 21 odst. 2.
+>
+> (4) Úvěrová instituce, finanční instituce uvedená v § 2 odst. 1 písm. b) bodech 5, [[#§ 6|6]], [[#§ 10|10]] a [[#§ 11|11]] a povinná osoba uvedená v § 2 odst. 1 písm. c), která má vypracovaný systém vnitřních zásad, postupů a kontrolních opatření podle dosavadních právních předpisů, doručí do 60 dnů ode dne nabytí účinnosti tohoto zákona ministerstvu systém vnitřních zásad, postupů a kontrolních opatření vypracovaný ve smyslu § 21 odst. 2.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 29, § 2, § 21, § 6, § 10, § 11
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=52121825e4274580c3de -->
 
 ### § 58 — Zrušovací ustanovení
 
@@ -6973,6 +13941,63 @@ Derogační ustanovení čtěte spolu s § 57: staré úkony platí, ale trvají
 
 **Typicky rozhodné důkazy / podklady:** identifikační záznamy s datací, doklady o průběžné kontrole a aktualizaci, vnitřní zásady před a po rekodifikaci.
 
+
+<!-- LEGAL-REVISION:BEGIN id=9e3199f0012ed0b2826e generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 58 — Zrušovací ustanovení
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> Zrušují se:
+>
+> - 1. [[Zákon č. 61/1996 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a o změně a doplnění souvisejících zákonů|Zákon č. 61/1996 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a o změně a doplnění souvisejících zákonů]].
+>
+> - 2. [[Vyhláška č. 343/2004 Sb., kterou se stanoví vzor tiskopisu podle § 5 odst. 5 zákona č. 61/1996 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a o změně a doplnění souvisejících zákonů|Vyhláška č. 343/2004 Sb., kterou se stanoví vzor tiskopisu podle § 5 odst. 5 zákona č. 61/1996 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a o změně a doplnění souvisejících zákonů]].
+>
+> - 3. [[Vyhláška č. 344/2004 Sb., o plnění oznamovací povinnosti podle zákona č. 61/1996 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a o změně a doplnění souvisejících zákonů|Vyhláška č. 344/2004 Sb., o plnění oznamovací povinnosti podle zákona č. 61/1996 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a o změně a doplnění souvisejících zákonů]].
+>
+> - 4. [[Vyhláška č. 283/2006 Sb., kterou se mění vyhláška č. 344/2004 Sb., o plnění oznamovací povinnosti podle zákona č. 61/1996 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a o změně a doplnění souvisejících zákonů|Vyhláška č. 283/2006 Sb., kterou se mění vyhláška č. 344/2004 Sb., o plnění oznamovací povinnosti podle zákona č. 61/1996 Sb., o některých opatřeních proti legalizaci výnosů z trestné činnosti a o změně a doplnění souvisejících zákonů]].
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Výslovné vnitřní odkazy v místním znění: § 5
+
+##### Souvisící předpisy
+
+- zákon č. 61/1996 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 343/2004 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 344/2004 Sb. (výslovně uvedeno v místním znění)
+- zákon č. 283/2006 Sb. (výslovně uvedeno v místním znění)
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=9e3199f0012ed0b2826e -->
+
 ### § 59 — Účinnost
 
 > **§ 59**
@@ -7020,6 +14045,52 @@ U § 59 nejde jen o historické datum: při každé novele ověřte den účinno
 **Typicky rozhodné důkazy / podklady:** časová osa skutků a úkonů, znění zákona k rozhodným dnům, přechodná ustanovení novel, aktualizované vnitřní zásady.
 
 ---
+
+
+<!-- LEGAL-REVISION:BEGIN id=587a46c53f21c7d2509e generator=2026-07-17.4 source_sha256=eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05 -->
+#### Revizní doplnění k § 59 — Účinnost
+
+> Revize: 17. 7. 2026 | Znění předpisu k: verze místního zdroje účinná od 11. 1. 2026 (ověřeno pouze v místním souboru; online aktuálnost ⚠️ [NEOVĚŘENO]) | Stav: koncept
+>
+> Místní zdroj: `../Documents/Obsidian Vaults/Production 2026-05-12/Czech Law/e-Sbirka/2008/253-2008 Zákon o některých opatřeních proti legalizaci výnosů z trestné činnosti a financování terorismu.md`; identifikátor verze: `SB-2008-00253_2026-01-11`; SHA-256: `eb4e5836f529cbc724a66598f7bbe70bc91c17cbac9de6fbeac3d960c43d7e05`.
+
+##### Znění ustanovení
+
+> Tento zákon nabývá účinnosti prvním dnem druhého kalendářního měsíce následujícího po dni jeho vyhlášení.
+
+##### Přehled výkladu
+
+- [1] Provenience a meze automatického doplnění
+- [2] Nutná ruční právní revize
+- [3] Stav citací původního komentáře
+
+##### Souvisící ustanovení
+
+- Místní znění neobsahuje výslovný vnitřní odkaz.
+
+##### Souvisící předpisy
+
+- Místní znění neobsahuje výslovnou citaci jiného předpisu.
+
+##### Z důvodové zprávy
+
+⚠️ [NEOVĚŘENO] Místní soubor [DUVODOVA-ZPRAVA.md](DUVODOVA-ZPRAVA.md) existuje, ale konkrétní pasáž nebyla automaticky přiřazena k tomuto ustanovení.
+
+##### Literatura
+
+⚠️ [NEOVĚŘENO] Automatické doplnění literatury nebylo provedeno; v místním korpusu nebyl pro tuto jednotku ověřen bibliografický pramen.
+
+##### Výklad
+
+[1] Tento automatický blok dokládá pouze identitu místního pramene a mechanicky převzaté znění. Neobsahuje samostatný závěr o výkladu ustanovení.
+[2] Jazykový, systematický, historický a teleologický výklad, procesní dopady, důkazní břemeno, lhůty a sporné otázky musí být doplněny a dvakrát oponovány nad konkrétními místními prameny; do té doby je stav výslovně jen koncept.
+[3] Citace judikatury a literatury v původním komentáři nebyly tímto mechanickým doplněním jednotlivě ověřeny. Pro účely této revize jsou proto ⚠️ [NEOVĚŘENO], ledaže jejich ověření výslovně dokládá samostatný kurátorovaný blok nebo revizní zpráva.
+
+##### Judikatura
+
+⚠️ [NEOVĚŘENO] Judikatura nebyla automaticky doplněna; shoda klíčového slova není ověřením právní věty ani použitelnosti rozhodnutí.
+
+<!-- LEGAL-REVISION:END id=587a46c53f21c7d2509e -->
 
 ## Závěr
 
